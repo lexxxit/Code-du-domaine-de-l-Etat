@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1977-02-03
+Version Consolidée au 1977-04-14
 
 # Partie législative
 
@@ -1735,6 +1735,39 @@ Les recettes provenant de ces cessions sont affectées à la caisse autonome de 
 	  - Décret n°62-298 1962-03-14
 
 
+##### Paragraphe 6 : Immeubles d'habitation de caractère définitif construits directement par l'Etat
+
+###### Article L61
+
+Par dérogation aux dispositions de l'article L. 54, la cession des immeubles d'habitation de caractère définitif construits
+directement par l'Etat en exécution de l'ordonnance n° 45-2064 du 8 septembre 1945 fait l'objet de conventions amiables
+conclues avec les intéressés par le ministre chargé de la construction.
+
+Ces conventions sont réalisées après avis du ministre des finances lorsqu'elles ont pour effet des transferts opérés au
+profit de propriétaires sinistrés en règlement de tout ou partie de leur droit à participation financière de l'Etat et
+éventuellement de leurs apports, et avec son accord dans tous les autres cas.
+
+A l'occasion de ces conventions, les anciens propriétaires ne sont pas recevables à demander l'application des dispositions
+de l'article L. 12-6 du code de l'expropriation pour cause d'utilité publique. En cas de revente, les anciens propriétaires
+bénéficient à prix égal d'un droit de préférence sur les terrains qui leur appartenaient.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L54 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-6 (V)
+	  - Ordonnance 45-2064 1945-09-08
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
 ##### Paragraphe 7 : Forêts.
 
 ###### Article L62
@@ -1862,6 +1895,28 @@ règlementaires correspondantes du code général de la propriété des personne
 
 	  - Code général de la propriété des personnes publ... - art. R3212-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L3212-1 (V)
+
+
+##### Paragraphe 11 : Rétrocession d'immeubles expropriés
+
+###### Article L66
+
+La rétrocession des immeubles expropriés est réalisée selon les prescriptions de l'article L. 12-6 du code de l'expropriation
+pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L12-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
 
 
 ##### Paragraphe 11 bis : Cession à des collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat dans les zones à urbaniser en priorité et dans les zones d'aménagement différé
@@ -7581,6 +7636,43 @@ modalités de résiliation des cessions au cas d'inexécution des obligations du
 	**Abrogé par**:
 
 	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
+
+
+##### Paragraphe 3 : Cessions d'immeubles acquis par l'Etat conformément à l'article L21-1 du code de l'expropriation pour cause d'utilité publique.
+
+###### Article R142
+
+Les immeubles expropriés par l'Etat en vue de la réalisation d'une des opérations énoncées à l'article L. 21-1 du code de
+l'expropriation pour cause d'utilité publique peuvent être cédés de gré à gré aux conditions fixées par un cahier des charges
+approuvé par décret en Conseil d'Etat.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique - art. L21-1
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L100
+
+	**Modifié par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.
