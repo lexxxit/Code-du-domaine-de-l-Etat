@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1979-02-07
+Version Consolidée au 1979-10-19
 
 # Partie législative
 
@@ -4515,7 +4515,7 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article R46
 
 Les sociétés, compagnies, entreprises commerciales ou civiles, les départements, communes, établissements publics ou
-d'utilité publique, et, d'une façon générale toutes les collectivités, soit privées, soit publiques, sont tenues de remettre
+d'utilité publique et, d'une façon générale, toutes les collectivités, soit privées, soit publiques, sont tenues de remettre
 à la recette des impôts de leur siège :
 
 1° Le montant des coupons, intérêts ou dividendes atteints par la prescription quinquennale ou conventionnelle et afférents
@@ -4523,7 +4523,7 @@ aux actions, parts de fondateur ou obligations négociables qu'elles ont émises
 
 2° Le montant, atteint par la prescription trentenaire ou conventionnelle, des sommes ou valeurs quelconques dues à raison
 des actions, parts de fondateur, obligations et autres valeurs mobilières émises par elles, ainsi qu'il est précisé à
-l'article R. 49, 2° et qui n'ont pas été déposées à la Caisse des dépôts et consignations conformément à l'article R. 47-1.
+l'article R. 49, 2°, et qui n'ont pas été déposées à la Caisse des dépôts et consignations conformément à l'article R. 47-1.
 
 **Liens relatifs à cet article**
 
@@ -4544,17 +4544,14 @@ l'article R. 49, 2° et qui n'ont pas été déposées à la Caisse des dépôts
 
 	  - Code général de la propriété des personnes publiqu - art. L1126-2 (V)
 
-	**Anciens textes**:
-
-	  - Décret n°1937-06-18 art. 1
-
 
 ###### Article R47
 
 Toute maison de banque, tout établissement de crédit et tous autres établissements qui reçoivent, soit des fonds en dépôts ou
-en compte courant, soit des titres en dépôts ou pour toute autre cause, sont tenus de remettre au bureau des domaines du
+en compte courant, soit des titres en dépôts ou pour toute autre cause, sont tenus de remettre à la recette des impôts du
 siège de leur établissement tous les dépôts ou avoirs en espèces ou en titres, qui n'ont fait l'objet, de la part des ayants
-droit, d'aucune opération ou réclamation depuis trente ans.
+droit, d'aucune opération ou réclamation depuis trente ans et qui n'ont pas été déposés à la caisse des dépôts et
+consignations conformément à l'article R. 47-1.
 
 Pour les banques, établissements ou entreprises qui possèdent des agences ou succursales et dont les écritures comptables
 relatives à ces dépôts ou avoirs ne sont pas centralisées à l'établissement principal, la remise doit être faite au bureau
@@ -4566,6 +4563,10 @@ des domaines du siège de l'agence ou de la succursale intéressée.
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°79-894 du 15 octobre 1979 - art. 2 () JORF 19 octobre 1979
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R47-1 (Ab)
@@ -4575,9 +4576,49 @@ des domaines du siège de l'agence ou de la succursale intéressée.
 
 	  - Code général de la propriété des personnes publiqu - art. L1126-3 (V)
 
-	**Anciens textes**:
 
-	  - Décret n°1937-06-18 art. 2
+###### Article R47-1
+
+Conformément à l'article 2 de la loi n° 77-4 du 3 janvier 1977 peuvent être déposés au siège central de la Caisse des dépôts
+et consignations lorsqu'ils n'ont pas fait l'objet de la part des ayants droit d'aucune opération ou réclamation depuis dix
+ans :
+
+1° Les sommes et valeurs quelconques mentionnées au 2° de l'article R. 46 dues par des sociétés ou établissements à caractère
+commercial ;
+
+2° Les fonds et titres mentionnés à l'article R. 47 détenus par des établissements dépositaires de sommes et valeurs.
+
+Six mois avant la date de ce dépôt, les sociétés ou établissement ci-dessus visés doivent en informer les ayants droit connus
+par lettre recommandée adressée à leur dernier domicile.
+
+Lorsqu'ils sont atteints par la prescription trentenaire ou conventionnelle, ces dépôts sont remis par la Caisse des dépôts
+et consignations à la recette des impôts spécialement désignée par le directeur général des impôts.
+
+Ces avoirs ne donnent lieu à aucune rémunération de la part de la Caisse des dépôts et consignations.
+
+La gestion de ces avoirs peut donner lieu à perception de droits et de frais dans les conditions fixées par arrêté conjoint
+des ministres chargés de l'économie et du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°77-4 du 3 janvier 1977 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Décret n°79-894 du 15 octobre 1979 - art. 2 () JORF 19 octobre 1979
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R46 (Ab)
+	  - Code du domaine de l'Etat - art. R47 (M)
+	  - Code du domaine de l'Etat - art. R48 (Ab)
+	  - Code du domaine de l'Etat - art. R49 (Ab)
 
 
 ###### Article R48
@@ -4599,15 +4640,11 @@ Elles comprennent toutes les sommes et valeurs qui ont été atteintes par la pr
 	  - Code du domaine de l'Etat - art. R47 (M)
 	  - Code du domaine de l'Etat - art. R47-1 (M)
 
-	**Anciens textes**:
-
-	  - Décret n°1937-06-18 art. 3
-
 
 ###### Article R49
 
-Chaque versement de sommes et valeurs à la recette des impôts est appuyé des relevés faisant ressortir distinctement suivant
-les cas :
+Chaque versement de sommes et valeurs à la recette des impôts est appuyé des relevés faisant ressortir distinctement selon le
+cas :
 
 1° La désignation précise et détaillée des coupons, intérêts et dividendes compris dans le versement, l'indication de leur
 montant, la date de leur exigibilité, ainsi que la date d'échéance de la prescription quinquennale ou conventionnelle ;
@@ -4625,12 +4662,18 @@ l'indication de leur valeur nominale, la nature et la date de la dernière opér
 la date d'échéance de la prescription.
 
 Ces relevés doivent être certifiés véritables par les directeurs ou gérants des établissements ou collectivités, tant pour
-leur établissement principal que pour leurs agences ou succursales, par les préfets pour les départements, par les maires
-pour les communes, et par les administrateurs légaux pour les établissements publics et d'utilité publique.
+leur établissement principal que pour les agences ou succursales, par les préfets pour les départements, par les maires pour
+les communes, et par les administrateurs légaux pour les établissements publics et d'utilité publique.
 
 Les dispositions qui précèdent sont applicables aux versements faits à la Caisse des dépôts et consignations en vertu de
 l'article R. 47-1. Les versements doivent être appuyés de toutes indications relatives à l'identité, à l'adresse et à la
 qualité du titulaire du compte.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -4638,17 +4681,21 @@ qualité du titulaire du compte.
 
 	  - Décret n°62-299 1962-03-14
 
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R46 (Ab)
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R47-1 (M)
+	  - Code du domaine de l'Etat - art. R47-1
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Décret n°1937-06-18 art. 4
+	  - Code général de la propriété des personnes publ... - art. R1126-6 (V)
 
 
 ###### Article R50
@@ -4657,10 +4704,6 @@ Le recouvrement des sommes à verser à la recette des impôts ainsi que les rem
 introduites et jugées comme en matière de recouvrement de produits et revenus domaniaux.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1937-06-18 art. 5
 
 	**Codifié par**:
 
