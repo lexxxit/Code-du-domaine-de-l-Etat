@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-04-04
 
 # Partie législative
 
@@ -5677,24 +5677,27 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Tout notaire constitué dépositaire d'un testament contenant des libéralités en faveur de l'Etat est tenu, aussitôt après
 l'ouverture du testament, d'adresser au préfet du département du lieu d'ouverture de la succession la copie intégrale de ces
-dispositions ainsi qu'un état des héritiers dont l'existence lui a été révélée, avec leurs nom, prénoms, profession, degré de
-parenté et adresse.
+dispositions.
 
-Dans la huitaine, le préfet requiert le maire du lieu d'ouverture de la succession de lui transmettre dans le plus bref délai
-tous renseignements complémentaires qu'il peut recueillir sur les héritiers déjà indiqués par le notaire ainsi que, le cas
-échéant, toutes indications relatives à d'autres héritiers.
+**Nota:**
 
-Dès réception de ces renseignements, le préfet invite les personnes qui lui ont été signalées comme héritières soit par le
-notaire, soit par le maire, à prendre connaissance du testament et à donner leur consentement à son exécution ou à produire
-leurs moyens d'opposition, le tout dans un délai d'un mois.
-
-Ces diverses communications sont faites par lettre recommandée avec demande d'avis de réception.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°2002-449 du 2 avril 2002 - art. 10 () JORF 4 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -5703,28 +5706,29 @@ Ces diverses communications sont faites par lettre recommandée avec demande d'a
 	  - Code du domaine de l'Etat - art. R43 (Ab)
 	  - Code du domaine de l'Etat - art. R44 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 1
+	  - Code général de la propriété des personnes publ... - art. R1121-2 (V)
 
 
 ###### Article R23
 
-En outre, une affiche est apposée pendant un mois à la mairie du lieu d'ouverture de la succession. Le maire adresse en
-préfet un certificat constatant l'affichage.
+Les réclamations concernant les legs en faveur de l'Etat, formulées par les héritiers légaux, sont recevables auprès du
+ministre compétent dans un délai de six mois à compter de l'ouverture du testament. Elles comportent les nom, prénoms et
+adresse des réclamants, leur ordre et degré de parenté vis-à-vis du défunt, ainsi que les motifs de la réclamation.
 
-Après accomplissement de cette formalité, il est procédé à l'insertion d'un avis au Journal officiel.
+Le ministre délivre aux réclamants un accusé de réception.
 
-L'affiche et l'avis énoncent sommairement les dispositions prises par le testateur en faveur de l'Etat et font connaître aux
-personnes qui prétendraient avoir un droit sur la succession qu'elles seront recevables à présenter leurs réclamations au
-préfet du département du lieu d'ouverture de la succession dans un délai de trois mois prenant effet de la date de la
-publication au Journal officiel.
+Lorsque les réclamations sont formulées après l'expiration du délai mentionné au premier alinéa ou émanent de personnes
+autres que les héritiers légaux, l'accusé de réception fait mention de leur irrecevabilité.
 
-Passé ce délai, il est statué par l'autorité compétente sur l'acceptation ou le refus du legs.
+Passé le délai de six mois mentionné au premier alinéa, l'autorité compétente statue sur l'acceptation ou le refus du legs.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -5732,19 +5736,23 @@ Passé ce délai, il est statué par l'autorité compétente sur l'acceptation o
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°2002-449 du 2 avril 2002 - art. 11 () JORF 4 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R36 (Ab)
 	  - Code du domaine de l'Etat - art. R40 (Ab)
 	  - Code du domaine de l'Etat - art. R43 (M)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 2
+	  - Code général de la propriété des personnes publ... - art. R1121-3 (V)
 
 
 ###### Article R24
@@ -6249,14 +6257,14 @@ Les dispositions des articles R. 22 et R. 23 sont applicables aux legs faits en 
 de l'Etat.
 
 Le notaire détenteur d'un testament contenant des libéralités au profit d'établissements publics de l'Etat est en outre tenu
-de faire parvenir auxdits établissements une copie des documents qu'il envoie au préfet du département du lieu d'ouverture de
+de faire parvenir auxdits établissements une copie du document qu'il envoie au préfet du département du lieu d'ouverture de
 la succession.
 
-Lorsque, par application des articles L. 15 (2ème alinéa) ou L. 19, les établissements publics nationaux bénéficiaires d'une
-libéralité doivent présenter à l'autorité supérieure une demande d'approbation de leur décision d'acceptation ou de refus,
-ils doivent produire au ministre de tutelle un état de l'actif et des charges de la libéralité certifié par le préfet du
-département dans lequel ils sont situés. Ils y joignent un exemplaire du budget de l'exercice en cours et des budgets et
-comptes des trois derniers exercices écoulés.
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -6268,20 +6276,22 @@ comptes des trois derniers exercices écoulés.
 
 	  - Décret n°95-462 du 26 avril 1995 - art. 11 (M)
 
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. L15 (Ab)
-	  - Code du domaine de l'Etat - art. L19 (Ab)
-	  - Code du domaine de l'Etat - art. R22 (M)
-	  - Code du domaine de l'Etat - art. R23 (M)
-
 	**Modifié par**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+	  - Décret n°2002-449 du 2 avril 2002 - art. 12 () JORF 4 avril 2002
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 2
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R22
+	  - Code du domaine de l'Etat - art. R23
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1121-4 (V)
 
 
 ###### Article R37
@@ -6412,26 +6422,35 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R40
 
-Si un même testament contient des libéralités distinctes à diverses personnes administratives, les autorités qualifiées se
-prononcent séparément sur l'acceptation de chaque libéralité lorsqu'aucune réclamation des héritiers ne s'est produite dans
-les délais fixés par les articles R. 22 et R. 23.
+Si un même testament contient des libéralités distinctes en faveur de diverses personnes administratives, les autorités
+qualifiées se prononcent séparément sur l'acceptation de chaque libéralité lorsque les héritiers n'ont formulé aucune
+réclamation dans le délai fixé par l'article R. 23.
 
 Dans le cas contraire, un seul décret en Conseil d'Etat statue sur l'acceptation des diverses libéralités.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°88-138 1988-02-10 art. 3, art. 4 JORF 12 février 1988
+	  - Décret n°2002-449 du 2 avril 2002 - art. 13 () JORF 4 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R22 (M)
-	  - Code du domaine de l'Etat - art. R23 (M)
+	  - Code du domaine de l'Etat - art. R23
 
 	**Anciens textes**:
 
@@ -6440,6 +6459,10 @@ Dans le cas contraire, un seul décret en Conseil d'Etat statue sur l'acceptatio
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1121-5 (V)
 
 
 ###### Article R41
@@ -6523,9 +6546,15 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R43
 
-Lorsque le lieu d'ouverture de la succession est situé à l'étranger, le préfet du département de Paris est compétent pour
-appliquer les prescriptions des articles R. 22 et R. 23 ; il intervient de même pour l'application de l'article R. 29 lorsque
-le disposant n'a jamais eu de résidence en France et que les biens donnés ou légués sont situés à l'étranger.
+Lorsque le lieu d'ouverture de la succession est situé à l'étranger, le préfet du département de Paris est destinataire du
+document mentionné à l'article R. 22. Il intervient également pour l'application de l'article R. 29 lorsque le disposant n'a
+pas eu de résidence en France et que les biens donnés ou légués sont situés à l'étranger.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -6535,14 +6564,21 @@ le disposant n'a jamais eu de résidence en France et que les biens donnés ou l
 
 	**Modifié par**:
 
-	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2002-449 du 2 avril 2002 - art. 14 () JORF 4 avril 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R22 (M)
-	  - Code du domaine de l'Etat - art. R23 (M)
-	  - Code du domaine de l'Etat - art. R29 (M)
+	  - Code du domaine de l'Etat - art. R22
+	  - Code du domaine de l'Etat - art. R29
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1121-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-22 (V)
 
 
 ###### Article R44
