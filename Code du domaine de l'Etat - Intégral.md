@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1980-06-27
+Version Consolidée au 1980-07-09
 
 # Partie législative
 
@@ -348,6 +348,60 @@ avis du Conseil d'Etat.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+
+###### Article L14
+
+La restitution des dons et legs ci-dessus visés pourra être décidée par arrêté interministériel. Les fonds et les titres
+seront versés à la caisse des dépôts et consignations. Les biens meubles et immeubles pourront, s'ils n'ont pas été repris
+par le donateur, le testateur ou leurs ayants droit à l'expiration d'un délai qui sera fixé par le décret en Conseil d'Etat
+visé à l'article L. 21, être aliénés, le produit de l'aliénation étant versé à la Caisse des dépôts et consignations.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L14 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception des mots " par arrêté interministériel " qui seront abrogés à compter de la publication des dispositions
+règlementaires correspondantes du code général de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°59-1454 1959-12-26 art. 72 al. 3
+
+	**Modifié par**:
+
+	  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+	  - Code du domaine de l'Etat - art. L18 (Ab)
+	  - Code du domaine de l'Etat - art. L21 (Ab)
+	  - Code du domaine de l'Etat - art. R25 (M)
+	  - Code du domaine de l'Etat - art. R26 (Ab)
+	  - Code du domaine de l'Etat - art. R30 (Ab)
+	  - Code du domaine de l'Etat - art. R32 (Ab)
+	  - Code du domaine de l'Etat - art. R35 (Ab)
+	  - Code du domaine de l'Etat et des collectivités pub - art. L122-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2222-23 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2222-14 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2222-15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ##### Paragraphe 2 : Dons et legs faits aux établissements publics dépendant de l'Etat.
@@ -2314,6 +2368,36 @@ des personnes publiques.
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R2321-9 (V)
+
+
+###### Article L78
+
+La délivrance par l'Etat de toute autorisation de commerce, susceptible d'être une source de profit pour son bénéficiaire ou
+de lui apporter une plus-value patrimoniale, donne lieu au versement d'une redevance, perçue comme en matière domaniale.
+
+Les modalités d'application de la disposition qui précède sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2321-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Anciens textes**:
+
+	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 71, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°73-118 1973-02-05
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article L78-1
