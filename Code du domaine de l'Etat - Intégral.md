@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-02-26
+Version Consolidée au 1992-07-04
 
 # Partie législative
 
@@ -6889,6 +6889,9 @@ L'affectation est l'acte en vertu duquel un immeuble dépendant du domaine priv�
 quelconque, par l'Etat est mis à la disposition d'un département ministériel pour lui permettre d'assurer le fonctionnement
 du service public dont il a la charge.
 
+L'affectation est définitive ou provisoire selon qu'elle concerne un immeuble définitivement ou temporairement inutile à un
+département ministériel.
+
 Ne sont pas soumis au régime de l'affectation les immeubles que gère l'Etat pour le compte de tiers ou qui dépendent de
 patrimoines séquestrés ou en liquidation.
 
@@ -6898,6 +6901,14 @@ cette matière, par voie de location ou d'aliénation.
 
 La présente disposition ne met pas obstacle à l'attribution par des textes spéciaux et à titre de dotation, d'immeubles
 domaniaux aux établissements publics nationaux de toute nature.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6925,41 +6936,36 @@ domaniaux aux établissements publics nationaux de toute nature.
 
 	**Modifié par**:
 
-	  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
+	  - Décret n°92-606 du 1 juillet 1992 - art. 1 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 
 ###### Article R82
 
-L'affectation est définitive ou provisoire ; elle est provisoire lorsqu'elle concerne un immeuble temporairement inutile à un
-département ministériel. La demande d'affectation dûment motivée et accompagnée d'un projet d'arrêté est adressée au ministre
-du budget (service des domaines) qui est chargé de procéder à son instruction et qui doit faire recueillir, à ce sujet,
-l'avis de la commission départementale des opérations immobilières et de l'architecture ou, dans les départements d'outre-
-mer, de la commission départementale des opérations immobilières, de l'architecture et des espaces protégés.
+La demande d'affectation accompagnée d'un projet d'arrêté est établie par l'autorité compétente du service ou de
+l'établissement public qui demande à bénéficier de l'affectation et adressée au préfet du département dans lequel se trouve
+l'immeuble, qui est chargé de procéder à son instruction.
 
-Toutefois, la commission nationale des opérations immobilières et de l'architecture connaît aux lieu et place de la
-commission départementale des projets d'affectation que le Premier ministre, de sa propre initiative ou à la demande d'un
-ministre, du préfet de région ou du président de la commission nationale, décide de lui soumettre en raison de leur intérêt
-exceptionnel.
+Le dossier de la demande doit comprendre l'indication de l'utilisation projetée, de la valeur vénale de l'immeuble et, s'il y
+a lieu, de sa valeur locative. Il comporte le cas échéant le programme des travaux de construction et d'aménagement envisagé
+ainsi qu'une estimation du montant de la dépense qu'entraîneront ces travaux.
 
-Le dossier transmis à la commission doit comprendre l'indication de l'utilisation projetée et, le cas échéant, le programme
-des travaux de construction et d'aménagement envisagé par le service qui demande à bénéficier de l'affectation, ainsi qu'une
-estimation du montant de la dépense qu'entraîneront ces travaux.
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Décret n°74-402 1974-05-06 art. 7 JORF 14 mai 1974
-	  - Décret n°78-910 1978-09-02 art. 9 JORF 6 septembre 1978
 
 	**Cité par**:
 
@@ -6971,27 +6977,44 @@ estimation du montant de la dépense qu'entraîneront ces travaux.
 	  - Code du domaine de l'Etat - art. R85 (VT)
 	  - Code du domaine de l'Etat - art. R86 (M)
 
+	**Modifié par**:
+
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
+
 
 ###### Article R83
 
-L'affectation définitive ou provisoire est prononcée par arrêté conjoint du ministre chargé du domaine et du ministre sous
-l'autorité duquel se trouve placé le service qui est appelé à en bénéficier.
+L'affectation définitive ou provisoire est prononcée, après avis du directeur des services fiscaux, par arrêté du préfet du
+département dans lequel se trouve l'immeuble.
 
-Cet arrêté mentionne l'adhésion du ministre qui se dessaisit de l'immeuble ou, le cas échéant, la décision du Premier
-ministre visée à l'article R. 86.
+L'arrêté préfectoral mentionne soit l'adhésion au dessaisissement de l'autorité compétente du service ou de l'établissement
+public antérieurement affectataire, soit le procès-verbal de remise prévu à l'article R. 89.
 
-Il précise, d'une manière détaillée, le ou les services à l'usage desquels l'immeuble est destiné et l'utilisation qui sera
-faite de cet immeuble.
+Toutefois l'affectation est prononcée par arrêté conjoint du ministre chargé du domaine et du ministre sous l'autorité ou la
+tutelle duquel se trouve placé le service ou établissement public qui est appelé à en bénéficier :
 
-La remise effective d'un immeuble au nouveau service affectataire est constatée par un procès-verbal dressé
-contradictoirement entre le représentant de ce service et celui du service détenteur, avec le concours d'un représentant du
-service des domaines.
+1° Lorsqu'elle intéresse soit une administration centrale, soit un établissement public national ;
+
+2° A défaut d'accord d'un service demandeur ou affectataire ;
+
+3° Lorsqu'il s'agit d'une opération de caractère confidentiel intéressant la défense nationale.
+
+L'arrêté interministériel mentionne soit l'adhésion du ministre au dessaisissement de l'immeuble, soit le procès-verbal prévu
+à l'article R. 89, soit la décision du Premier ministre prévue à l'article R. 86.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 3, art. 5
 
 	**Codifié par**:
 
@@ -7010,32 +7033,62 @@ service des domaines.
 
 	**Modifié par**:
 
-	  - Décret n°84-285 1984-04-13 art. 3 JORF 18 avril 1984
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R86 (M)
+	  - Code du domaine de l'Etat - art. R86
+	  - Code du domaine de l'Etat - art. R89
+
+
+###### Article R83-1
+
+L'arrêté interministériel ou l'arrêté préfectoral précise le ou les services à l'usage desquels l'immeuble est destiné et
+l'utilisation qui en sera faite.
+
+La remise effective d'un immeuble à un nouveau service ou l'établissement public affectataire est constatée par un procès-
+verbal contradictoire entre le représentant de ce service ou établissement et celui du service ou établissement détenteur
+dressé par le représentant du service des domaines.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 
 ###### Article R84
 
-Les transformations apportées au sein d'un même département ministériel à l'utilisation ou la gestion d'un immeuble domanial
-font l'objet d'un arrêté concerté du ministre chargé du domaine et du ministré intéressé.
+Les transformations apportées au sein d'un même département ministériel à l'utilisation ou à la gestion d'un immeuble
+domanial sont prononcées par arrêtés pris conformément aux dispositions des articles R. 82 et R. 83.
 
-Toutefois, pour les transformations concernant les immeubles utilisés par des services déconcentrés de l'Etat, les préfets
-peuvent recevoir délégation de pouvoirs par arrêté conjoint du ministre chargé du domaine et du ministre intéressé. Cette
-délégation est donnée au préfet de département selon que les services concernés exercent leurs compétences à l'échelon de la
-région ou du département.
+Toutefois les transformations concernant les services du ministre chargé des armées sont prononcées par décision du ministre
+chargé des armées après accord du ministre chargé du domaine.
 
-Dans le cas prévu à l'alinéa précédent, lorsque l'un des services concernés exerce ses compétences à l'échelon de la région
-et l'autre à l'échelon du département, la décision est prise par arrêté conjoint du préfet de la région et du préfet du
-département.
+Ces arrêtés ou décisions précisent le ou les services à l'usage desquels l'immeuble est destiné et l'utilisation nouvelle de
+cet immeuble.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 6
 
 	**Codifié par**:
 
@@ -7050,21 +7103,34 @@ département.
 
 	**Modifié par**:
 
-	  - Décret n°84-285 1984-04-13 art. 3, art. 4 JORF 18 avril 1984
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R82 (M)
+	  - Code du domaine de l'Etat - art. R83 (M)
 
 
 ###### Article R85
 
-Les arrêtés prévus à l'article précédent doivent préciser, d'une manière détaillée le ou les services à l'usage desquels
-l'immeuble est destiné, et l'utilisation nouvelle qui sera faite de cet immeuble.
+L'attribution à titre de dotation prévue à l'article R. 81, dernier alinéa, au profit d'un établissement public national qui
+n'a pas un caractère industriel ou commercial, d'un immeuble domanial est prononcée par arrêté interministériel pris
+conformément aux dispositions des articles R. 82 et R. 83.
+
+Par dérogation aux dispositions du 1° du troisième alinéa de l'article R. 83, le préfet peut recevoir délégation de pouvoirs
+par arrêté conjoint du ministre chargé du domaine et du ministre de tutelle intéressé pour prononcer les affectations et
+attributions à titre de dotation au profit des établissements publics nationaux qui n'ont pas un caractère industriel ou
+commercial.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 7
 
 	**Codifié par**:
 
@@ -7076,29 +7142,40 @@ l'immeuble est destiné, et l'utilisation nouvelle qui sera faite de cet immeubl
 	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
 	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
 	  - Code du domaine de l'Etat - art. R87 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R81
+	  - Code du domaine de l'Etat - art. R82
+	  - Code du domaine de l'Etat - art. R83
 
 
 ###### Article R86
 
 En cas de désaccord entre départements ministériels au sujet de l'affectation d'un immeuble, le département attributaire est
-désigné par le Premier ministre après avis soit de la commission départementale des opérations immobilières et de
-l'architecture ou, dans les départements d'outre-mer, de la commission départementale des opérations immobilières, de
-l'architecture et des espaces protégés, soit de la commission nationale des opérations immobilières et de l'architecture
-lorsque celle-ci est saisie dans les conditions prévues par l'article R. 82 (2e alinéa).
+désigné par le Premier ministre.
+
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 8
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°78-910 1978-09-02 art. 10 JORF 6 septembre 1978
 
 	**Cité par**:
 
@@ -7107,25 +7184,30 @@ lorsque celle-ci est saisie dans les conditions prévues par l'article R. 82 (2e
 	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
 	  - Code du domaine de l'Etat - art. R83 (VT)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du domaine de l'Etat - art. R82 (M)
+	  - Décret n°92-606 du 1 juillet 1992 - art. 3 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 
 ###### Article R87
 
-Les arrêtés pris en exécution des présentes dispositions sont publiés au Journal officiel, sauf si leurs dispositions
-intéressent la défense nationale.
+Les arrêtés pris en application des articles R. 83, R. 84 et R. 85 sont publiés, selon le cas, au recueil des actes
+administratifs de la préfecture ou au Journal officiel de la République française, sauf lorsqu'il s'agit d'une opération de
+caractère confidentiel intéressant la défense nationale.
 
-Toutefois, et sous la même réserve, les arrêtés pris par les commissaires de la République en application de l'article R. 84
-sont publiés au Recueil des actes administratifs de la préfecture du département de situation des immeubles et, le cas
-échéant, au recueil des actes administratifs de la préfecture de région.
+**Nota:**
+
+Décret n° 2008-1248 du 1er décembre 2008 article 7 : La section V du chapitre Ier du titre II du livre II du code du domaine
+de l'Etat est abrogée, toutefois les dispositions de ladite section demeurent applicables aux immeubles domaniaux qui ont
+fait l'objet d'une procédure d'affectation ou d'une attribution à titre de dotation antérieurement à la date d'entrée en
+vigueur du présent décret jusqu'à la conclusion de la convention mentionnée à l'article R. 128-12 du code du domaine de
+l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 9
 
 	**Codifié par**:
 
@@ -7139,11 +7221,17 @@ sont publiés au Recueil des actes administratifs de la préfecture du départem
 
 	**Modifié par**:
 
-	  - Décret n°84-285 1984-04-13 art. 5 JORF 18 avril 1984
+	  - Décret n°92-606 du 1 juillet 1992 - art. 2 () JORF 4 juillet 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 7
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R84 (M)
+	  - Code du domaine de l'Etat - art. R83
+	  - Code du domaine de l'Etat - art. R84
+	  - Code du domaine de l'Etat - art. R85
 
 
 ###### Article R88
