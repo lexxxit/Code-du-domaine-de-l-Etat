@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1991-07-30
+Version Consolidée au 1992-01-17
 
 # Partie législative
 
@@ -11295,6 +11295,38 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 
 ##### Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales.
 
+###### Article R170-41
+
+La concession est déclarée vacante dans les cas suivants :
+
+1° Renonciation du concessionnaire à la concession ;
+
+2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
+suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
+l'article R. 170-38 ;
+
+3° Déchéance du concessionnaire.
+
+La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat - art. R170-38 (M)
+
+
+##### Section 1 : Mise en valeur agricole des terres domaniales.
+
 ###### Article R170-31
 
 Dans le département de Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet en vue de leur mise en
@@ -11308,7 +11340,10 @@ et R. 170-44 ;
 3° De baux agricoles dans les conditions prévues à l'article R. 170-45 ;
 
 4° De conventions de mise en valeur passées avec une collectivité locale conformément aux dispositions de l'article R.
-170-46.
+170-46 ;
+
+5° De cessions consenties en application des dispositions du troisième alinéa de l'article L. 91-1, dans les conditions
+prévues à la section V du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -11316,9 +11351,10 @@ et R. 170-44 ;
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 2 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11330,9 +11366,10 @@ et R. 170-44 ;
 
 	**Cite**:
 
+	  - Code du domaine de l'Etat - art. L91-1 (M)
 	  - Code du domaine de l'Etat - art. R170-43 (M)
 	  - Code du domaine de l'Etat - art. R170-44 (M)
-	  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46
+	  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46, L91-1
 
 
 ###### Article R170-32
@@ -11356,9 +11393,9 @@ dispositions des articles R. 170-40 à R. 170-42.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11384,9 +11421,9 @@ Dans tous les cas, l'administration apprécie s'il y a lieu d'attribuer la conce
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11424,9 +11461,9 @@ Un état des lieux établi contradictoirement est annexé à l'acte de concessio
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 
 ###### Article R170-35
@@ -11449,13 +11486,9 @@ La demande accompagnée des pièces correspondantes est adressée au préfet, qu
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11491,13 +11524,9 @@ personne dont l'audition lui paraîtrait utile à comparaître devant la commiss
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11525,9 +11554,9 @@ délai ne sont pas prises en compte.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11561,13 +11590,9 @@ présentée, de nouvelles conditions de mise en valeur agricole.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11597,9 +11622,9 @@ La redevance est payable d'avance. A défaut de paiement dans les délais prévu
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11628,51 +11653,13 @@ un délai de quinze jours.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R170-39 (Ab)
-
-
-###### Article R170-41
-
-La concession est déclarée vacante dans les cas suivants :
-
-1° Renonciation du concessionnaire à la concession ;
-
-2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
-suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
-l'article R. 170-38 ;
-
-3° Déchéance du concessionnaire.
-
-La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R170-37 (M)
-	  - Code du domaine de l'Etat - art. R170-38 (M)
 
 
 ###### Article R170-42
@@ -11693,9 +11680,9 @@ comme abandonné et vendu par l'Etat.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 
 ###### Article R170-43
@@ -11713,9 +11700,9 @@ Il est statué avant l'expiration de celle-ci, faute de quoi la concession est p
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11726,16 +11713,16 @@ Il est statué avant l'expiration de celle-ci, faute de quoi la concession est p
 
 ###### Article R170-44
 
-Le transfert de propriété a lieu à titre gratuit. Le cessionnaire est cependant tenu de payer les frais d'établissement,
-d'expédition et de publication de l'acte de cession, ainsi que les frais de transcription à la conservation des hypothèques.
+Le transfert de propriété a lieu à titre gratuit.
 
 Lorsque la cession porte sur des terres situées dans une zone régie par une convention passée en application de l'article R.
 170-46, le cessionnaire est tenu de verser pendant une période maximale de dix ans une redevance annuelle. Le montant de la
 redevance prend en compte les dépenses d'aménagement et d'entretien de la zone par la collectivité. Il est fixé selon des
 modalités définies dans l'acte de concession.
 
-Le transfert de propriété est consenti sous la condition résolutoire de maintien de la destination agricole de l'immeuble
-cédé pendant dix ans et sous réserve de l'application des dispositions de l'article R. 170-65.
+Le transfert de propriété est consenti sous la condition résolutoire que l'immeuble soit exploité à des fins agricoles par le
+cessionnaire, ses héritiers ou ses ayants cause, pendant trente ans à compter de l'octroi de la concession et sous réserve de
+l'application des dispositions de l'article R. 170-65.
 
 **Liens relatifs à cet article**
 
@@ -11743,16 +11730,17 @@ cédé pendant dix ans et sous réserve de l'application des dispositions de l'a
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Cité par**:
 
 	  - Décret n°87-267 du 14 avril 1987 - art. 2 (Ab)
 	  - Code du domaine de l'Etat - art. R170-31 (M)
 	  - Code du domaine de l'Etat - art. R170-46 (M)
 	  - Code du domaine de l'Etat - art. R170-66 (M)
+
+	**Modifié par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 3 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11772,9 +11760,9 @@ la passation des baux.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11811,9 +11799,9 @@ deuxième alinéa de l'article R. 170-44.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -11822,23 +11810,18 @@ deuxième alinéa de l'article R. 170-44.
 	  - Code du domaine de l'Etat - art. R170-66 (M)
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux.
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales.
 
 ###### Article R170-47
 
-Les immeubles dépendant du domaine privé de l'Etat peuvent faire l'objet, dans les conditions prévues à la présente section,
-de concessions et de cessions aux collectivités territoriales de Guyane en vue de leur aménagement conformément aux
-dispositions du deuxième alinéa de l'article L. 91.
+Les concessions prévues à l'article L. 91-2 sont consenties pour une durée de cinq ans, prorogeable d'une ou plusieurs
+années, dans la limite de cinq années supplémentaires.
 
-Les concessions sont consenties pour une durée de cinq ans, prorogeable une fois.
-
-Les concessions sont gratuites. Toutefois, lorsqu'une collectivité locale souhaite s'assurer la maîtrise d'un ensemble
+Les concessions sont gratuites. Toutefois, lorsque le département ou la région souhaite s'assurer la maîtrise d'un ensemble
 d'immeubles qui ne sont pas tous destinés à recevoir une affectation justifiant la gratuité, une concession peut lui être
 accordée pour la même durée dans le but de constituer une réserve foncière ; dans ce cas, l'acte de concession prévoit le
 paiement d'une redevance annuelle établie à titre prévisionnel et payable d'avance ; le montant définitif de la redevance est
 fixé six mois avant la date d'expiration de la concession.
-
-A l'expiration de la concession, le transfert de propriété a lieu de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -11846,13 +11829,14 @@ A l'expiration de la concession, le transfert de propriété a lieu de plein dro
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 5 () JORF 17 janvier 1992
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91 (Ab)
+	  - Code du domaine de l'Etat - art. L91-2 (M)
 
 	**Cité par**:
 
@@ -11866,10 +11850,13 @@ A l'expiration de la concession, le transfert de propriété a lieu de plein dro
 ###### Article R170-48
 
 La collectivité concessionnaire peut, par avenant à l'acte de concession, être autorisée à donner aux immeubles concédés une
-affectation différente de celle qui était prévue initialement. Si la nouvelle affectation ne justifie pas la gratuité,
-l'avenant prévoit le paiement de la redevance correspondante à compter de l'année au cours de laquelle l'avenant est
-intervenu ; si la nouvelle affectation justifie la gratuité, l'avenant prévoit la dispense du paiement de la redevance pour
-les années postérieures à son intervention.
+affectation différente de celle qui était prévue initialement. Si la nouvelle affectation ne justifie pas la gratuité de la
+concession prévue au 1° du premier alinéa de l'article L. 91-2 ou n'autorise pas une cession gratuite en application du 3° de
+la même disposition, l'avenant prévoit le paiement de la redevance correspondante à compter de l'année au cours de laquelle
+l'avenant est intervenu ; si la nouvelle affectation justifie la gratuité de la concession, l'avenant prévoit la dispense du
+paiement de la redevance pour les années postérieures à son intervention. Si la nouvelle affectation ouvre vocation à cession
+gratuite, les immeubles peuvent, lorsque les conditions à la cession sont remplies, être distraits de la concession et cédés
+à la commune, sur sa demande.
 
 **Liens relatifs à cet article**
 
@@ -11877,9 +11864,14 @@ les années postérieures à son intervention.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 6 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-2 (M)
 
 	**Cité par**:
 
@@ -11903,9 +11895,9 @@ directeur des services fiscaux, déduction faite des subventions accordées par 
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
 
 
 ###### Article R170-50
@@ -11928,13 +11920,9 @@ concession. L'arrêté prononçant la déchéance est notifié à la collectivit
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
 
 	**Cite**:
 
@@ -11958,9 +11946,9 @@ responsabilité de la collectivité vis-à-vis des tiers ne sont pas opposables 
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
 
 
 ###### Article R170-52
@@ -11975,19 +11963,15 @@ prononçant la déchéance.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
 
 
 ###### Article R170-53
 
-Si la déchéance de la concession n'a pas été prononcée, le transfert de propriété a lieu à l'expiration de la concession dans
-les conditions prévues à l'acte de concession et ses avenants.
+Si la déchéance de la concession n'a pas été prononcée, le transfert de propriété a lieu de plein droit à l'expiration de la
+concession, dans les conditions prévues à l'acte de concession et ses avenants.
 
 **Liens relatifs à cet article**
 
@@ -11995,24 +11979,52 @@ les conditions prévues à l'acte de concession et ses avenants.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 7 () JORF 17 janvier 1992
 
 
 ###### Article R170-54
 
-Lorsque les immeubles entrent dans une des catégories mentionnées au deuxième alinéa de l'article L. 91, le transfert de
-propriété a lieu à titre gratuit.
+Lorsque les immeubles entrent dans une des catégories mentionnées à l'article L. 91-2, le transfert de propriété a lieu à
+titre gratuit.
 
-Lorsque les immeubles ont fait l'objet d'une concession dans les conditions prévues au troisième alinéa de l'article R.
-170-47, le transfert a lieu moyennant le paiement d'un prix correspondant à la valeur vénale des immeubles, compte tenu de
-leur consistance à la date de prise d'effet de la concession. Le prix est fixé dans les conditions prévues à l'article R.
-130.
+Les cessions qui ne bénéficient pas de la gratuité ont lieu moyennant le paiement d'un prix correspondant à la valeur vénale
+des immeubles, compte tenu de leur consistance à la date de prise d'effet de la concession. Le prix est fixé dans les
+conditions prévues à l'article R. 130.
 
-L'acte de cession auquel est annexé un extrait du plan cadastral indique la consistance et la destination des immeubles ainsi
-que les délais et les conditions dans lesquels les immeubles cédés à la collectivité peuvent faire l'objet d'une aliénation à
-des tiers.
+La superficie de référence prévue au 3° du premier alinéa de l'article L. 91-2 est arrêtée par le préfet lors de la première
+demande de cession gratuite, sur proposition du directeur des services fiscaux et après avis de la commission prévue à
+l'article R. 170-55.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 8 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. R130 (Ab)
+	  - Code du domaine de l'Etat - art. R170-55 (M)
+
+
+###### Article R170-54-1
+
+Les cessions consenties en application de la présente section sont constatées par un acte auquel est annexé un extrait du
+plan cadastral. Cet acte indique la consistance et la destination des immeubles ainsi que les délais et les conditions dans
+lesquels les immeubles cédés à la collectivité peuvent faire l'objet d'une aliénation à des tiers.
+
+L'acte mentionne également la superficie de référence et le total des superficies déjà cédées gratuitement, lorsque la
+cession a lieu en application des dispositions du 3° du premier alinéa de l'article L. 91-2, et la date de la déclaration
+d'utilité publique, lorsque la cession est consentie en application des dispositions du second alinéa de l'article L. 91-2.
 
 **Liens relatifs à cet article**
 
@@ -12022,19 +12034,18 @@ des tiers.
 
 	**Créé par**:
 
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+	  - Décret n°92-46 du 16 janvier 1992 - art. 9 () JORF 17 janvier 1992
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91 (Ab)
-	  - Code du domaine de l'Etat - art. R130 (Ab)
-	  - Code du domaine de l'Etat - art. R170-47 (M)
+	  - Code du domaine de l'Etat - art. L91-2 (M)
 
 
 ###### Article R170-55
 
-Une commission est chargée d'émettre un avis sur les demandes de concession et sur l'exécution des obligations mises à la
-charge de la collectivité par l'acte de concession.
+Une commission est chargée d'émettre un avis sur les demandes de concession, sur l'exécution des obligations mises à la
+charge de la collectivité par l'acte de concession et sur les demandes de cessions gratuites, pour constituer des réserves
+foncières, présentées par les communes.
 
 Cette commission est présidée par le préfet ou son représentant et comprend :
 
@@ -12055,13 +12066,10 @@ personne dont l'audition lui paraîtrait utile à comparaître devant la commiss
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°92-46 du 16 janvier 1992 - art. 10 () JORF 17 janvier 1992
+	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
 
 	**Cité par**:
 
@@ -12342,70 +12350,6 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	  - Code général de la propriété des personnes publ... - art. D5143-6 (V)
 
 
-###### Article R170-66
-
-Les cessions prévues aux articles R. 170-43, R. 170-44, R. 170-46 et R. 170-60 doivent mentionner les conditions auxquelles
-le transfert de propriété est consenti et notamment celles des conditions dont l'inobservation entraîne la résolution de la
-cession.
-
-Les concessions prévues à l'article R. 170-47 doivent mentionner les conditions auxquelles le transfert de propriété sera
-consenti et notamment celles des conditions dont l'inobservation entraîne la résolution de la cession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R170-43 (M)
-	  - Code du domaine de l'Etat - art. R170-44 (M)
-	  - Code du domaine de l'Etat - art. R170-46 (M)
-	  - Code du domaine de l'Etat - art. R170-47 (M)
-	  - Code du domaine de l'Etat - art. R170-60 (V)
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
-	  - Code du domaine de l'Etat - art. R170-69 (M)
-
-
-###### Article R170-67
-
-Pour l'application du troisième alinéa de l'article L. 91, l'autorisation de conserver l'immeuble est accordée par le préfet,
-après fixation par le directeur des services fiscaux de la valeur vénale de l'immeuble et des modalités financières de
-l'opération.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. L91 (Ab)
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
-	  - Code du domaine de l'Etat - art. R170-46-4 (Ab)
-	  - Code du domaine de l'Etat - art. R170-64 (Ab)
-
-
 ##### Section 4 : Dispositions communes et diverses.
 
 ###### Article R170-62
@@ -12430,6 +12374,32 @@ modalités financières des opérations prévues au présent chapitre.
 	**Nouveaux textes**:
 
 	  - Code du domaine de l'Etat R170-65 (2è version)
+
+
+###### Article R170-62-1
+
+Après avoir, s'il y a lieu, établi le bornage à ses frais, le concessionnaire ou le cessionnaire est tenu de payer les frais
+d'établissement, d'expédition et de publication de l'acte de concession ou de cession, ainsi que les frais de transcription à
+la conservation des hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 11 () JORF 17 janvier 1992
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat - art. R170-66 (Ab)
+	  - Code du domaine de l'Etat R170-66 (3è version)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-69 (M)
 
 
 ###### Article R170-63
@@ -12528,6 +12498,201 @@ concession doivent, à peine de nullité, mentionner les dispositions du présen
 	**Nouveaux textes**:
 
 	  - Code du domaine de l'Etat R170-69 (2è version)
+
+
+###### Article R170-66
+
+Tout acte de cession mentionne les conditions auxquelles le transfert de propriété est consenti et notamment celles des
+conditions dont l'inobservation entraîne la résolution de la cession.
+
+Les concessions prévues à l'article R. 170-47 doivent mentionner les conditions auxquelles le transfert de propriété sera
+consenti et notamment celles des conditions dont l'inobservation entraîne la résolution de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 12 () JORF 17 janvier 1992
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-69 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat R170-70 (2è version)
+
+
+###### Article R170-67
+
+Pour l'application de l'article L. 91-4 l'autorisation de conserver l'immeuble est accordée par le préfet, après fixation par
+le directeur des services fiscaux de la valeur vénale de l'immeuble et des modalités financières de l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 13 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-4 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-4 (Ab)
+	  - Code du domaine de l'Etat - art. R170-64 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat R170-71 (2è version)
+
+
+##### Section 5 : Dispositions spéciales à certaines cessions gratuites.
+
+###### Article R170-68
+
+Les cessions gratuites de terres à usage agricole prévues au troisième alinéa de l'article L. 91-1 du code du domaine de
+l'Etat peuvent être consenties aux agriculteurs détenteurs de titres d'occupation autres que les concessions mentionnées au
+premier alinéa de cet article, admis à séjourner régulièrement et à titre permanent en Guyane.
+
+Le demandeur de la cession doit avoir, pendant le délai de cinq ans prévu au troisième alinéa de l'article L. 91-1, exercé la
+profession d'agriculteur à titre principal et exploité personnellement les terres dont la cession est demandée. Est réputée
+exploitation personnelle celle qui est faite par le demandeur avec sa famille ou celle qui est faite par un ouvrier cultivant
+sous la direction du demandeur et aux frais de ce dernier.
+
+La demande de cession comporte engagement d'exercer la profession d'agriculteur à titre principal et d'exploiter
+personnellement les terres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 14 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1 (M)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-71 (M)
+	  - Code forestier - art. R172-7 (Ab)
+
+
+###### Article R170-69
+
+La cession est consentie par le préfet, compte tenu du schéma directeur départemental des structures agricoles, sous
+condition résolutoire que l'immeuble soit exploité à des fins agricoles par le cessionnaire, ses héritiers ou ses ayants
+cause, pendant trente ans à compter de la délivrance du titre d'occupation initial.
+
+Si la superficie demandée excède le quadruple de la surface minimum d'installation pondérée, le préfet recueille l'avis du
+directeur de l'agriculture et de la forêt et du directeur des services fiscaux.
+
+Les dispositions des articles R. 170-62-1, R. 170-65, R. 170-66, premier alinéa, et, le cas échéant, R. 170-63 sont
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 14 () JORF 17 janvier 1992
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44 (Ab)
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-64 (Ab)
+	  - Code du domaine de l'Etat - art. R170-71 (M)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-62-1 (T)
+	  - Code du domaine de l'Etat - art. R170-65 (M)
+	  - Code du domaine de l'Etat - art. R170-66 (M)
+
+
+###### Article R170-70
+
+Les cessions gratuites de terres à usage agricole prévues au troisième alinéa de l'article L. 91-1 peuvent être consenties
+aux agriculteurs exploitant, sans titre régulier, des terres domaniales mises à leur disposition par l'Etat, s'ils en font la
+demande avant le 31 décembre 1992.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 14 () JORF 17 janvier 1992
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1 (M)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-4 (Ab)
+	  - Code du domaine de l'Etat - art. R170-64 (Ab)
+
+
+###### Article R170-71
+
+La demande, faite sur un formulaire établi par le préfet, indique :
+
+1° L'identité, la profession et l'adresse du demandeur ;
+
+2° La situation et la superficie du terrain demandé ;
+
+3° L'objet et la date du début d'une mise en valeur agricole continue, paisible et publique ;
+
+4° Le cas échéant, la preuve par tout moyen de la mise à disposition par l'autorité publique.
+
+Les dispositions des articles R. 170-68 et R. 170-69 sont applicables aux cessions prévues par le présent article. Toutefois,
+le délai de trente ans prévu au premier alinéa de l'article R. 170-69 est calculé à compter de la date mentionnée au 3° ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°92-46 du 16 janvier 1992 - art. 14 () JORF 17 janvier 1992
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-4 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-68 (M)
+	  - Code du domaine de l'Etat - art. R170-69 (M)
 
 
 ### Titre V : Dispositions particulières et finales.
