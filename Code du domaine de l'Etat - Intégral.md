@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-01-29
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -2939,6 +2939,32 @@ règlementaires correspondantes du code général de la propriété des personne
 	**Liens**:
 
 	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+
+###### Article L69-2
+
+Lorsque des biens mobiliers ont, à l'occasion d'une procédure pénale, fait l'objet d'une décision judiciaire définitive qui
+en transfère la propriété à l'Etat, ces biens peuvent être affectés, à titre gratuit, dans des conditions déterminées par
+arrêté conjoint du ministre de l'intérieur et du ministre chargé du domaine, à des services de police, des unités de
+gendarmerie ou des services de l'administration des douanes effectuant des missions de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 110 () JORF 19 mars 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2222-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
 
 
 ###### Article L70
