@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1973-08-10
+Version Consolidée au 1974-02-02
 
 # Partie législative
 
@@ -10855,6 +10855,28 @@ réquisitionnés ou occupés à un titre quelconque.
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. A9 (V)
+
+
+###### Article A9
+
+Les départements ministériels doivent informer la direction générale des impôts (service des domaines), dans les vingt
+premiers jours de chaque trimestre, de tout changement survenu au cours du trimestre précédent soit dans la consistance
+matérielle, soit dans l'utilisation des immeubles visés à l'article A. 8, au moyen d'un relevé établi en double exemplaire et
+conforme au modèle fixé par le service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1949-01-04 art. 3
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A8 (V)
 
 
 ###### Article A10
