@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2001-07-11
+Version Consolidée au 2001-12-12
 
 # Partie législative
 
@@ -217,28 +217,6 @@ défaut d'accord amiable, par le juge à l'aide de tous éléments d'appréciati
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
-
-
-###### Article L9
-
-Il est fait défense aux conservateurs des hypothèques de publier les actes d'acquisition d'immeubles souscrits pour le compte
-de l'Etat, des établissements publics nationaux ou de leurs concessionnaires, lorsque ces actes n'ont pas été soumis
-préalablement au visa du directeur des services fiscaux compétent, constatant qu'ils satisfont aux conditions fixées par
-décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-1159 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 23 (V)
 
 
 ###### Article L10
