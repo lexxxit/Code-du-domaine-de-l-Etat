@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-05-21
+Version Consolidée au 1987-06-02
 
 # Partie législative
 
@@ -4174,6 +4174,94 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R20
+
+
+##### Paragraphe 2 : Dispositions spéciales.
+
+###### Article R21-1
+
+Les opérations immobilières présentant un caractère secret poursuivies par voie d'expropriation pour cause d'utilité publique
+par les services publics relevant du ministre de la défense, ou placés sous sa tutelle, sont soumises pour avis à la
+commission instituée auprès du Premier ministre par l'article 1er du décret n° 87-359 du 26 mai 1987.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 1 (AbD)
+
+	**Créé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 6 () JORF 2 juin 1987
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R127 (Ab)
+	  - Code du domaine de l'Etat - art. R21-3 (Ab)
+
+
+###### Article R21-2
+
+Une opération est qualifiée secrète par décision du ministre de la défense.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 6 () JORF 2 juin 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R21-3
+
+L'avis du service des domaines prévu à l'article R. 4 doit figurer au dossier soumis à la commission visée à l'article R.
+21-1.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 6 () JORF 2 juin 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R21-1
+	  - Code du domaine de l'Etat - art. R4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1211-8 (V)
 
 
 ##### Section 2 : Dons et legs
@@ -8525,6 +8613,80 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Décret n°70-1160 1970-12-11 art. 2 JORF 11 décembre 1970
 
 
+###### Article R127
+
+La mission confiée au service des domaines par l'article R. 126 s'exerce sous le contrôle de la commission visée à l'article
+R. 21-1, lorsqu'elle concerne l'entretien et l'utilisation des installations immobilières de la défense nationale présentant
+un caractère secret.
+
+Les agents du service des domaines auxquels sont confiées des missions de contrôle rendent compte des résultats de leurs
+missions exclusivement au président de la commission, qui les transmet au ministre de la défense.
+
+Ces agents figurent sur une liste dressée par le ministre chargé du domaine et à laquelle le ministre de la défense a donné
+son agrément.
+
+A l'occasion des missions qui leur sont ainsi confiées, les agents du service des domaines ne peuvent formuler des
+observations relatives à des questions touchant à la défense nationale.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 18
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 7 () JORF 2 juin 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R126
+	  - Code du domaine de l'Etat - art. R21-1
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R127-1 (V)
+
+
+###### Article R127-1
+
+Les membres de la commission, toute personne éventuellement consultée à l'occasion d'une opération soumise à son examen,
+ainsi que les agents du service des domaines mentionnés au deuxième alinéa de l'article R. 127 doivent satisfaire aux
+conditions fixées par les articles 7 et 8 du décret n° 98-608 du 17 juillet 1998, relatif à l'organisation de la protection
+des secrets et des informations concernant la défense nationale et la sûreté de l'Etat ; ces personnes sont soumises aux
+obligations de secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 7 () JORF 2 juin 1987
+
+	**Cite**:
+
+	  - Décret n°98-608 du 17 juillet 1998 - art. 7 (V)
+	  - Décret n°98-608 du 17 juillet 1998 - art. 8 (V)
+	  - Code du domaine de l'Etat - art. R127 (V)
+
+
 ###### Article R128
 
 Les dossiers des opérations foncières dont sont saisies les commissions mentionnées à l'article R. 10, poursuivies en vue de
@@ -12226,119 +12388,6 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ##### Paragraphe 2 : Dispositions spéciales.
 
-###### Article D1
-
-Pour les opérations immobilières poursuivies par les services publics ou d'intérêt public relevant du ministre chargé des
-armées et qui présentent, à ce titre, un caractère confidentiel, les attributions dévolues aux commissions instituées par le
-décret n° 69-825 du 28 août 1969 sont exercées par la commission restreinte unique créée par l'article 2 du décret n° 70-103
-du 3 février 1970.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-443 1950-04-19 art. 4
-
-	**Cite**:
-
-	  - Décret n°69-825 1969-08-28
-	  - Décret n°70-103 du 3 février 1970 - art. 2, v. init.
-
-	**Modifié par**:
-
-	  - Décret n°70-103 1970-02-03 art. 4 JORF 5 février 1970 en vigueur le 1er avril 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. D16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-###### Article D2
-
-Le caractère confidentiel d'une opération immobilière intéressant la défense nationale résulte d'une décision du ministre
-chargé des armées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-443 1950-04-19 art. 3
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. A3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-
-###### Article D3
-
-Les opérations de la compétence de la commission restreinte donnent lieu, au préalable, au seul avis du service des domaines
-prévu par les articles R. 3, R. 4 et R. 5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-443 1950-04-19 art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R3 (V)
-	  - Code du domaine de l'Etat - art. R4 (V)
-	  - Code du domaine de l'Etat - art. R5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-###### Article D4
-
-En cas de désaccord entre le ministre chargé des armées et la commission restreinte, en ce qui concerne le caractère
-confidentiel d'une opération, l'affaire est portée, sans délai, par ce ministre, devant le Premier ministre qui statue après
-avoir recueilli l'avis du ministre chargé des affaires culturelles.
-
-Si le désaccord porte sur les aspects financiers de l'affaire, le Premier ministre statue après avoir recueilli l'avis du
-ministre des finances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-443 1950-04-19 art. 10
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-103 1970-02-03 art. 5, art. 7 JORF 5 février 1970 en vigueur le 1er avril 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-
 ###### Article D5
 
 En cas d'urgence invoquée par l'administration militaire, le service des domaines doit accorder une priorité aux actes
@@ -12536,81 +12585,6 @@ métropolitain.
 	**Codifié par**:
 
 	  - Décret n°62-300 1962-03-14
-
-
-### Titre III : Dispositions communes.
-
-#### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.
-
-###### Article D16
-
-En ce qui concerne l'entretien et l'utilisation des installations immobilières de la défense nationale présentant un
-caractère confidentiel, les attributions confiées aux commissions régionales des opérations immobilières, de l'architecture
-et des espaces protégés et aux commissions départementales des opérations immobilières et de l'architecture sont exercées par
-la commission restreinte visée à l'article D. 1.
-
-Dans le cadre de l'exercice de ces attributions, des missions ne peuvent être confiées, à l'initiative du président de la
-commission restreinte, à qui il en est exclusivement rendu compte, qu'à des agents du service des domaines.
-
-Ces agents figurent sur une liste dressée par le ministre des finances et à laquelle le ministre chargé des armées a donné
-son agrément.
-
-Le droit permanent de contrôle conféré au service des domaines par l'article R. 126 s'exerce dans le cadre des activités de
-la commission restreinte unique et dans les conditions prévues aux deux alinéas précédents.
-
-Les agents du service des domaines ne peuvent, à l'occasion des missions qui leur sont confiées en conformité du présent
-article, formuler des observations ou des propositions relatives à des questions touchant à la défense nationale ou à des
-attributions d'ordre technique dévolues aux services utilisateurs.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°70-103 1970-02-03 art. 6, art. 7 JORF 5 février 1970 en vigueur 1er avril 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-	**Cité par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. D1 (Ab)
-	  - Code du domaine de l'Etat - art. R126 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-###### Article D17
-
-Les membres de la commission restreinte et toute personne consultée à l'occasion de l'examen d'une affaire confidentielle,
-notamment les agents des domaines désignés en application de l'article précédent, sont tenus au secret.
-
-Toute infraction à la règle édictée par le présent article est, sans préjudice des sanctions disciplinaires justiciable des
-dispositions du code pénal relatives à la répression des crimes et délits contre la sûreté de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°50-443 1950-04-19 art. 9
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
-
-	**Cité par**:
-
-	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
 
 
 ## Livre III : Aliénation des biens domaniaux
