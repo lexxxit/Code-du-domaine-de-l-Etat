@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1969-03-19
+Version Consolidée au 1969-10-08
 
 # Partie législative
 
@@ -6254,6 +6254,133 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Codifié par**:
 
 	  - Décret n°62-300 1962-03-14
+
+
+###### Article D40
+
+Un comité interministériel est chargé d'étudier toutes les questions relatives à la dévolution, la liquidation et la gestion
+des biens de l'Etat français en Syrie et au Liban. Ce comité soumet à l'approbation des ministres responsables toute décision
+relative à l'aliénation et à l'administration de ces biens. Aucune cession, location ou affectation des biens de l'Etat
+français en Syrie et au Liban ne peut être décidée sans l'avis du comité.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-906 1969-09-29 art. 1 JORF 8 octobre 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article D41
+
+Le comité interministériel, qui siège au ministère des affaires étrangères, est présidé par un conseiller maître à la Cour
+des comptes nommé par arrêté pris conjointement par le ministre de l'économie et des finances et par le ministre des affaires
+étrangères.
+
+Il comprend les membres suivants :
+
+Le directeur du personnel et de l'administration générale au ministère des affaires étrangères ou son représentant ;
+
+Le directeur des affaires politiques au ministère des affaires étrangères ou son représentant ;
+
+Le directeur des affaires économiques et financières au ministère des affaires étrangères ou son représentant ;
+
+Le directeur général des relations culturelles au ministère des affaires étrangères ou son représentant ;
+
+Le chef du service des domaines au ministère de l'économie et des finances ou son représentant ;
+
+Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
+
+Le directeur des relations économiques extérieures au ministère de l'économie et des finances ou son représentant ;
+
+Le directeur du Trésor au ministère de l'économie et des finances ou son représentant.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-906 1969-09-29 art. 1 JORF 8 octobre 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article D42
+
+Le comité délibère valablement dès que cinq membres au moins sont présents, dont le président, le directeur du personnel et
+de l'administration générale au ministère des affaires étrangères ou son représentant et le chef du service des domaines au
+ministère de l'économie et des finances ou son représentant. Les décisions sont prises à la majorité des voix. En cas de
+partage, celle du président est prépondérante.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-906 1969-09-29 art. 1 JORF 8 octobre 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article D43
+
+Le comité peut convoquer toute personnalité ou tout représentant d'un autre ministère qu'il juge à propos d'entendre. Il peut
+recueillir l'avis de toute personne qualifiée en raison de sa compétence ou de ses fonctions.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-906 1969-09-29 art. 1 JORF 8 octobre 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ###### Article D44
