@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1997-11-19
+Version Consolidée au 1997-12-03
 
 # Partie législative
 
