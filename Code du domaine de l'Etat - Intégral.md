@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1981-09-18
+Version Consolidée au 1981-11-20
 
 # Partie législative
 
@@ -5002,6 +5002,46 @@ d'application du présent article et notamment les dispositions qui permettent l
 
 #### Chapitre Ier : Occupation temporaire
 
+##### Section 1 : Délivrance des autorisations.
+
+###### Article R54
+
+Le montant du droit fixe prévu à l'article L. 29 est de 130 F.
+
+Toutefois, ce montant est de 65 F soit lorsque l'occupation temporaire est autorisée par simple récépissé établi et délivré
+dans les conditions prévues aux articles A. 23 et A. 24, soit lorsque l'autorisation nouvelle fait suite à une autorisation
+précédemment accordée sans apporter de modification à la nature, à l'étendue ou aux conditions techniques de l'occupation.
+
+Lorsque l'autorisation de voirie donne lieu au paiement d'une redevance au profit de l'Etat, le droit est acquitté au moyen
+de l'apposition d'un timbre fiscal sur le titre d'autorisation préalablement à la remise de ce titre à son titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L33 al. 2 et 3
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°81-1030 1981-11-18 art. 1 JORF 20 novembre 1981
+	  - Décret n°71-242 1971-03-30 art. 1 JORF 3 avril 1971
+
+	**Cité par**:
+
+	  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
+	  - Code du domaine de l'Etat - art. A30 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A23 (V)
+	  - Code du domaine de l'Etat - art. A24 (V)
+	  - Code du domaine de l'Etat - art. L29 (Ab)
+
+
 ##### Section 2 : Fixation des redevances.
 
 ###### Article R55
@@ -8024,6 +8064,72 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 #### Chapitre Ier : Domaine immobilier
 
 ##### Section 1 : Dispositions générales.
+
+###### Article R129
+
+Sauf l'effet des lois et règlements spéciaux qui en disposent autrement, l'aliénation d'un immeuble du domaine privé de
+l'Etat a lieu par adjudication publique et doit être autorisée :
+
+Par le préfet, sur proposition du directeur des services fiscaux qui fixe la mise à prix, si la valeur vénale, déterminée par
+lui, est inférieure ou égale à 2500000 F ;
+
+Par un arrêté du ministre chargé du domaine, si la valeur vénale excède 2500000 F sans être supérieure à 12500000 F ;
+
+Par un décret pris sur le rapport de ce ministre, le Conseil d'Etat entendu, si ladite valeur excède 12500000 F.
+
+Le chef du service des domaines établit le cahier des charges type fixant les conditions générales des ventes et détermine
+les modalités générales de publicité préalable aux adjudications.
+
+La cession peut toutefois être consentie à l'amiable par le préfet, au prix fixé par le directeur des services fiscaux, si la
+valeur vénale de l'immeuble n'excède pas 1250000 F.
+
+Au-delà de cette limite le préfet ne peut consentir à la cession amiable que si elle est autorisée :
+
+Par un arrêté du ministre chargé du domaine lorsque la valeur vénale n'est pas supérieure à 12500000 F ;
+
+Par un décret pris sur le rapport dudit ministre, le Conseil d'Etat entendu, lorsque ladite valeur est supérieure à 12500000
+F.
+
+Les valeurs limites de compétence énoncées pour les cessions à l'amiable sont doublées lorsque la cession est consentie à un
+organisme visé à l'article 4 du décret n° 69-825 du 28 août 1969.
+
+Les valeurs limites de compétence énoncées pour les aliénations par adjudication ou par cession amiable peuvent être
+modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé du domaine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-979 1960-09-09 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°81-1030 1981-11-18 art. 2 JORF 20 novembre 1981
+
+	**Cité par**:
+
+	  - Décret n°69-535 du 21 mai 1969 - art. 37 (V)
+	  - Décret n°2002-89 du 16 janvier 2002 - art. 47 (Ab)
+	  - Décret n°2004-490 du 3 juin 2004 - art. 63 (V)
+	  - Décret n°2005-1538 du 8 décembre 2005 - art. 3 (V)
+	  - Code des ports maritimes - art. R*113-22 (M)
+	  - Code des ports maritimes - art. R*113-23 (M)
+	  - Code du domaine de l'Etat - art. R139 (M)
+	  - Code du domaine de l'Etat - art. R146 (M)
+	  - Code du domaine de l'Etat - art. R147-1 (Ab)
+	  - Code du domaine de l'Etat - art. R148 (M)
+	  - Code du domaine de l'Etat - art. R148-4 (Ab)
+
+	**Cite**:
+
+	  - Décret n°69-825 du 28 août 1969 - art. 4 (Ab)
+
 
 ###### Article R130
 
