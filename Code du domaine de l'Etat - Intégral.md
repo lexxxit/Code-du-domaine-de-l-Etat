@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-04-18
 
 # Partie législative
 
@@ -5326,6 +5326,44 @@ d'application du présent article et notamment les dispositions qui permettent l
 
 ##### Section 1 : Délivrance des autorisations.
 
+###### Article R53
+
+Sous réserve des règlements particuliers qui attribuent compétence à d'autres autorités administratives, notamment à
+l'autorité militaire, les commissaires de la République, agissant en qualité de représentants des ministres chargés de la
+gestion et de la garde du domaine public national dans le département, autorisent les occupations temporaires et le
+stationnement sur les dépendances de ce domaine et prennent les décisions relatives à leur administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L31
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°71-792 du 20 septembre 1971 - art. 31 () JORF 14 septembre 1971
+	  - Décret n°84-285 1984-04-13 art. 1 JORF 18 avril 1984
+
+	**Cité par**:
+
+	  - Décret n°2009-1349 du 29 octobre 2009 (V)
+	  - Code de la défense. - art. R5131-3 (M)
+	  - Code du domaine de l'Etat - art. A13 (V)
+	  - Code du domaine de l'Etat - art. A16 (V)
+	  - Code du domaine de l'Etat - art. A21 (V)
+	  - Code du domaine de l'Etat - art. A27 (V)
+	  - Code du domaine de l'Etat - art. A40 (V)
+	  - Code du domaine de l'Etat - art. A42 (V)
+	  - Code du domaine de l'Etat - art. A45 (V)
+	  - Code du domaine de l'Etat - art. A48 (V)
+	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+
+
 ###### Article R54
 
 Le montant du droit fixe prévu à l'article L. 29 est de 130 F.
@@ -5557,6 +5595,162 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Code général de la propriété des personnes publ... - art. R2123-14 (V)
 	  - Code général de la propriété des personnes publ... - art. R2123-15 (V)
 	  - Code général de la propriété des personnes publ... - art. R2123-9 (V)
+
+
+#### Chapitre III : Extractions sur le domaine public.
+
+###### Article R58-2
+
+Les modalités d'instruction des autorisations domaniales sont fixées par décret contresigné par le ministre chargé du domaine
+et le ministre chargé de la gestion du domaine public concerné, dans le cadre des dispositions du décret n° 80-470 du 18 juin
+1980 et du décret n° 79-1108 du 20 décembre 1979.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Cite**:
+
+	  - Décret n°79-1108 du 20 décembre 1979
+	  - Décret n°80-470 du 18 juin 1980
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R58-4
+
+Un arrêté du ministre chargé de la gestion du domaine public maritime, pris après consultation du ministre chargé des mines,
+fixe les conditions dans lesquelles sont établies les demandes d'autorisation domaniale sur le domaine public maritime dans
+les cas où l'octroi de ces autorisations n'est pas subordonné à l'obtention d'un titre minier.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R58-5
+
+La notice ou l'étude d'impact exigée par le décret n° 77-1141 du 12 octobre 1977 et par les décrets n° 80-204 du 11 mars 1980
+et n° 80-470 du 18 juin 1980 doivent être jointes à la demande d'autorisation domaniale.
+
+**Nota:**
+
+Le décret n° 80-204 du 11 mars 1980 a été abrogé par l'article 38 du décret n° 95-427 du 19 avril 1995.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Décret n°77-1141 du 12 octobre 1977
+	  - Décret n°80-204 du 11 mars 1980
+	  - Décret n°80-470 du 18 juin 1980
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R58-6
+
+Le ministre chargé de la gestion du domaine public maritime fixe, par arrêté pris après avis du ministre chargé des pêches
+maritimes, les prescriptions techniques applicables aux extractions sur ce domaine.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R58-7
+
+La redevance domaniale due pour l'occupation ou l'utilisation du domaine public est fixée selon le cas par le directeur des
+services fiscaux ou par le conseil d'administration du port autonome maritime.
+
+Sans préjudice des dispositions de l'article 13 du décret n° 80-470 du 18 juin 1980, le ministre chargé du domaine peut
+déterminer par arrêtés, pris après consultation du ministre chargé de la gestion du domaine public maritime ou du ministre
+chargé de la gestion du domaine public fluvial, selon le domaine concerné, les modalités de liquidation et de perception des
+redevances, et notamment les tarifs minimaux applicables aux quantités extraites, selon la nature des substances.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Décret n°80-470 du 18 juin 1980 - art. 13
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 #### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.
@@ -6444,6 +6638,51 @@ estimation du montant de la dépense qu'entraîneront ces travaux.
 	  - Code du domaine de l'Etat - art. R86 (M)
 
 
+###### Article R83
+
+L'affectation définitive ou provisoire est prononcée par arrêté conjoint du ministre chargé du domaine et du ministre sous
+l'autorité duquel se trouve placé le service qui est appelé à en bénéficier.
+
+Cet arrêté mentionne l'adhésion du ministre qui se dessaisit de l'immeuble ou, le cas échéant, la décision du Premier
+ministre visée à l'article R. 86.
+
+Il précise, d'une manière détaillée, le ou les services à l'usage desquels l'immeuble est destiné et l'utilisation qui sera
+faite de cet immeuble.
+
+La remise effective d'un immeuble au nouveau service affectataire est constatée par un procès-verbal dressé
+contradictoirement entre le représentant de ce service et celui du service détenteur, avec le concours d'un représentant du
+service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1313 1949-09-27 art. 3, art. 5
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Décret n°72-398 du 16 mai 1972 - art. 17 (Ab)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
+	  - Code du domaine de l'Etat - art. A64 (V)
+	  - Code du domaine de l'Etat - art. R84 (VT)
+	  - Code du domaine de l'Etat - art. R85 (VT)
+	  - Code du domaine de l'Etat - art. R87 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°84-285 1984-04-13 art. 3 JORF 18 avril 1984
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R86 (M)
+
+
 ###### Article R85
 
 Les arrêtés prévus à l'article précédent doivent préciser, d'une manière détaillée le ou les services à l'usage desquels
@@ -6499,6 +6738,40 @@ lorsque celle-ci est saisie dans les conditions prévues par l'article R. 82 (2e
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R82 (M)
+
+
+###### Article R87
+
+Les arrêtés pris en exécution des présentes dispositions sont publiés au Journal officiel, sauf si leurs dispositions
+intéressent la défense nationale.
+
+Toutefois, et sous la même réserve, les arrêtés pris par les commissaires de la République en application de l'article R. 84
+sont publiés au Recueil des actes administratifs de la préfecture du département de situation des immeubles et, le cas
+échéant, au recueil des actes administratifs de la préfecture de région.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1313 1949-09-27 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Décret n°84-285 1984-04-13 art. 5 JORF 18 avril 1984
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R84 (M)
 
 
 ###### Article R88
@@ -8947,6 +9220,194 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.
 
+###### Article R145
+
+Les concessions prévues à l'article L. 64 sont précédées d'une instruction administrative et, sauf dans les cas prévus au
+dernier alinéa de l'article R. 145-2, d'une enquête publique.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°84-285 1984-04-13 art. 6 JORF 18 avril 1984
+	  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L64
+	  - Code du domaine de l'Etat - art. R145-2
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
+
+	**Anciens textes**:
+
+	  - Ordonnance 1825-09-23
+
+
+###### Article R145-1
+
+La demande de concession est adressée au chef du service chargé de la gestion du domaine concerné avec un dossier établi aux
+frais du demandeur et comprenant :
+
+1° La description des terrains qui font l'objet de la demande et des travaux envisagés, les plans vérifiés et approuvés par
+le service maritime ou le service chargé de la gestion du cours d'eau domanial concerné ;
+
+2° Le cas échéant, l'étude d'impact ou la notice prévues par le décret n° 77-1141 du 12 octobre 1977.
+
+La demande est, dans tous les cas, soumise pour avis au directeur des services fiscaux.
+
+Lorsque la demande porte sur le domaine maritime, elle est soumise à l'avis du préfet maritime, du directeur des affaires
+maritimes et de la commission départementale des rivages de la mer ; ces avis sont réputés favorables à défaut de réponse
+dans le délai de deux mois.
+
+En outre :
+
+1° Les demandes de concessions d'endigage font l'objet des notifications prévues à l'article 4, premier alinéa, du décret n°
+66-413 du 17 juin 1966 ;
+
+2° Les concessions de lais et relais de la mer sont soumises à la procédure d'instruction mixte dans les conditions prévues
+par la loi n° 52-1265 du 29 novembre 1952 et par les textes relatifs à son application.
+
+Lorsque la demande porte sur le domaine fluvial, l'avis du général commandant la région militaire est demandé, l'absence de
+réponse dans un délai de deux mois valant avis favorable.
+
+Dans les départements d'outre-mer, en ce qui concerne tant le domaine fluvial que le domaine maritime, les avis du préfet
+maritime et du général commandant la région militaire sont donnés par les officiers généraux commandants supérieurs des
+forces armées.
+
+Les autorités militaires visées aux alinéas précédents sont autorisées à déléguer leur signature à l'un de leurs adjoints.
+
+**Nota:**
+
+La loi 52-1265 du 29 novembre 1952 a été abrogée par la loi 2002-276 du 27 février 2002.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°52-1265 du 29 novembre 1952
+	  - Décret n°66-413 du 17 juin 1966 - art. 4
+	  - Décret n°77-1141 du 12 octobre 1977
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 6 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-20 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-21 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
+
+
+###### Article R145-2
+
+Le dossier de la demande est ensuite soumis à une enquête publique selon la procédure applicable à l'opération envisagée ou,
+à défaut, dans les formes prévues par les articles R. 11-4 à R. 11-14 du code de l'expropriation pour cause d'utilité
+publique. 
+
+Toutefois, dans les cas où il est fait application de cette dernière procédure, l'enquête publique n'est pas requise lorsque
+la demande porte sur des terrains d'une superficie inférieure à 500 mètres carrés ou lorsque l'opération envisagée a déjà
+fait l'objet d'une enquête publique remontant à moins de deux ans.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 6 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R145 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-22 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-4 (V)
+	  - Code de l'expropriation pour cause d'utilité publique
+
+
+###### Article R146
+
+Les dispositions de l'article R. 130, premier alinéa, sont applicables aux concessions accordées en application de l'article
+L. 64.
+
+Toutefois, lorsque l'opération a donné lieu à une enquête publique, la concession est approuvée par décret en Conseil d'Etat
+en cas d'avis défavorable du commissaire enquêteur ou de la commission d'enquête portant sur ladite opération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L107
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°77-1141 1977-10-12 art. 14 VIII JORF 13 octobre 1977
+	  - Décret n°84-285 1984-04-13 art. 7 JORF 18 avril 1984
+
+	**Cité par**:
+
+	  - Décret n°83-228 du 22 mars 1983 - art. 8 (M)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L64 (Ab)
+	  - Code du domaine de l'Etat - art. R130 (Ab)
+
+
 ###### Article R147
 
 Les dispositions de l'article R. 130 premier alinéa, sont applicables aux concessions prévues par l'article L. 64.
@@ -9293,6 +9754,46 @@ cet effet par le ministre des finances.
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+
+###### Article R152-1
+
+L'assentiment du préfet maritime ou, dans les départements d'outre-mer, de l'officier général commandant supérieur des forces
+armées, doit être demandé pour les autorisations relatives à la formation d'établissement de quelque nature que ce soit sur
+la mer et sur ses rivages. L'absence de réponse dans un délai de deux mois vaut accord.
+
+Les autorités militaires désignées ci-dessus sont habilitées à déléguer leur signature à un de leurs adjoints.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°84-285 1962-03-14 art. 8 JORF 18 avril 1984
+
+	**Cité par**:
+
+	  - Décret n°83-228 du 22 mars 1983 - art. 15 (VT)
+	  - Décret n°83-228 du 22 mars 1983 - art. 8 (VT)
+	  - Décret n°2004-308 du 29 mars 2004 - art. 4 (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 7 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Liens**:
+
+	  - CODIFIE: Code général de la propriété des personnes publ... - art. R2124-56 (V)
 
 
 ### Titre II : Procédure - Instances
