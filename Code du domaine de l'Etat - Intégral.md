@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1993-08-18
+Version Consolidée au 1994-01-01
 
 # Partie législative
 
@@ -13801,6 +13801,31 @@ finances et du ministre chargé des armées (air).
 
 
 ## Livre IV : Dispositions diverses
+
+### Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+###### Article D19
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, le produit de l'exploitation des forêts de l'Etat et, en
+général, toutes les créances provenant de la gestion desdites forêts sont encaissés par l'agent comptable de l'Office
+national des forêts.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer
 
