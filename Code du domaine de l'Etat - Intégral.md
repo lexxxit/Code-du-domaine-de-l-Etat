@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1989-10-13
+Version Consolidée au 1989-10-14
 
 # Partie législative
 
@@ -8698,7 +8698,9 @@ ou culturel ;
 
 3° Immeubles classés en réserve naturelle ou dont le caractère naturel doit être préservé ;
 
-4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme ou d'aménagement de toute nature.
+4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme ou d'aménagement de toute nature ;
+
+5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions prévues aux articles R. 169 à R. 169-3.
 
 **Liens relatifs à cet article**
 
@@ -8706,9 +8708,15 @@ ou culturel ;
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 1 JORF 14 octobre 1989
+
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L51-1 (V)
+	  - Code du domaine de l'Etat - art. L87 (M)
+	  - Code du domaine de l'Etat L51-1, L87, R169 à R169-3
 
 	**Cité par**:
 
@@ -10750,165 +10758,398 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R164
 
-Les terrains dépendant de la zone de cinquante pas géométriques peuvent, quelle que soit leur valeur, être cédés à l'amiable,
-après avis de la commission départementale des opérations immobilières, de l'architecture et des espaces protégés. La
-commission nationale des opérations immobilières et de l'architecture connaît, au lieu et place des commissions
-départementales normalement compétentes, des projets de l'espèce que le Premier ministre, de sa propre initiative ou à la
-demande d'un ministre, du préfet d'un département d'outre-mer ou du président de la commission nationale, décide de lui
-soumettre en raison de leur intérêt exceptionnel.
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 ne peut être déclassée qu'en vue de
+son aliénation.
+
+Le déclassement est prononcé par arrêté du préfet. Toutefois, lorsque la dépendance à déclasser comprend des terrains ayant
+le caractère de lais et relais de la mer, le déclassement est prononcé par arrêté conjoint du ministre chargé de la mer et du
+ministre chargé du domaine.
+
+Le déclassement prend effet à la date du transfert de propriété.
+
+L'acte opérant le transfert de propriété vise l'arrêté prévu au présent article.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L142
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L87
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R169 (M)
 	  - Code du domaine de l'Etat - art. R170-1 (Ab)
 	  - Code du domaine de l'Etat - art. R170-5 (Ab)
+	  - Code du domaine de l'Etat - art. R170-7 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Décret n°74-402 1974-05-06 art. 9 JORF 14 mai 1974
+	  - Code général de la propriété des personnes publ... - art. R5111-1 (V)
 
 
 ###### Article R165
 
-Si l'administration décide la vente, au profit de particuliers, de terrains occupés en vertu d'un titre administratif de
-jouissance reconnu valable ou sur lesquels des constructions ont été édifiées par un tiers, ces terrains sont cédés à
-l'amiable aux occupants qui, dans le délai de six mois à compter de la notification qui leur est faite, souscrivent un
-engagement d'acquérir aux conditions fixées par le service des domaines.
+Les terrains compris dans la zone définie à l'article L. 87 et occupés en vertu d'un titre administratif de jouissance ou sur
+lesquels des constructions ont été édifiées antérieurement à l'entrée en vigueur de la loi n° 86-2 du 3 janvier 1986 relative
+à l'aménagement, la protection et la mise en valeur du littoral peuvent être déclassés aux fins de cession aux occupants
+lorsque ceux-ci ont souscrit aux conditions contenues dans une offre de cession qui leur est notifiée par le directeur des
+services fiscaux. Cette offre est caduque à l'expiration d'un délai de six mois à compter de la notification si l'occupant
+n'a pas souscrit dans ce délai aux conditions qu'elle spécifie.
+
+Le transfert de propriété ne peut avoir lieu qu'après l'entière exécution des conditions mises à la cession. Le prix est fixé
+selon les dispositions applicables à l'aliénation des immeubles du domaine privé.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L143
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°86-2 du 3 janvier 1986
+	  - Code du domaine de l'Etat - art. L87
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-2 (V)
 
 
 ###### Article R166
 
-Le préfet, après avis d'une commission dont la composition est déterminée par décret, peut décider que les terrains
-disponibles de la zone des cinquante pas géométriques seront utilisés pour favoriser le développement de l'économie agricole.
-Ces terrains seront, directement ou par l'intermédiaire des organismes prévues à l'article R. 167, soit cédés à titre onéreux
-ou loués à des exploitants agricoles désignés par les soins du préfet, soit échangés contre des terrains à vocation agricole
-dont celui-ci aura reconnu opportune l'acquisition par l'Etat ou par lesdits organismes.
+Une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 ne peut être mise à la disposition
+d'un département ministériel ou d'un établissement public de l'Etat que par arrêté conjoint du ministre chargé du domaine, du
+ministre chargé de la mer et du ministre sous l'autorité duquel se trouve le service ou l'établissement public appelé à en
+bénéficier.
 
-Après avis de la même commission, le préfet peut décider que les terrains reçus en échange par l'Etat ou par les organismes
-prévus audit article R. 167 seront cédés à titre onéreux ou loués aux exploitants qu'il aura désignés.
+**Nota:**
 
-Les terrains en cause de la zone des cinquante pas géométriques ou ceux reçus en échange par l'Etat qui n'auraient été ni
-cédés ni loués pourront être affectés au ministère de l'agriculture.
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-561 1961-06-03 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. D18-1 (Ab)
-	  - Code du domaine de l'Etat - art. R167 (M)
+	  - Code du domaine de l'Etat - art. R167 (Ab)
 	  - Code du domaine de l'Etat - art. R168 (M)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L87
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-3 (V)
 
 
 ###### Article R167
 
-Les terrains affectés au ministère de l'agriculture seront gérés, aménagés et lotis, soit directement par ses services, soit,
-sous leur contrôle technique, par l'intermédiaire des sociétés d'Etat prévues à l'article de la loi n° 46-860 du 30 avril
-1946, des institutions de crédit agricole mutuel prévues au chapitre VI du titre Ier du livre V du code rural, ou, le cas
-échéant, des sociétés d'aménagement foncier et d'établissement rural prévues à l'article 15 de la loi n° 60-808 du 5 août
-1960. L'intervention de ces organismes peut être conjointe.
+Si une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87, mise à la disposition d'un
+département ministériel ou d'un établissement public de l'Etat, cesse d'être utile au bénéficiaire sans être mise
+concomitamment à la disposition d'un autre bénéficiaire dans les conditions prévues à l'article R. 166, elle fait l'objet
+d'un procès-verbal de remise en gestion au service maritime. Le procès-verbal est dressé, contradictoirement entre le
+représentant de ce service et celui du département ministériel ou de l'établissement antérieurement gestionnaire, par le
+représentant du service des domaines.
 
-Ces terrains pourront ensuite être cédés à titre onéreux ou loués aux exploitants désignés par le préfet après avis de la
-commission prévue à l'article R. 166.
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°46-860 1946-04-30
-	  - Loi n°60-808 1960-08-05 art. 15
-	  - Code du domaine de l'Etat - art. R166 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°61-561 1961-06-03 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L87
+	  - Code du domaine de l'Etat - art. R166 (Ab)
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R168 (M)
 
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-4 (V)
+
 
 ###### Article R168
 
-Nul ne peut obtenir la mise à sa disposition, en propriété ou en jouissance, de terres, en application des articles R. 166 ou
-R. 167, sans avoir accepté un cahier des charges type et, sauf dispense décidée dans les conditions déterminées par arrêté
-préfectoral, sans avoir adhéré à un groupement d'exploitants agricoles agréé par le préfet ou, s'il s'agit d'un groupement
-agricole, sans que ledit groupement ait été agréé par le préfet.
+Les projets d'aliénation et de transfert de gestion sont soumis à l'avis de la commission des cinquante pas géométriques
+constituée dans le département.
+
+Cette commission est présidée par le préfet ou son représentant et comprend :
+
+1° Quatre représentants des services de l'Etat désignés par le préfet ;
+
+2° Un représentant du conseil régional et un représentant du conseil général désignés par ces assemblées.
+
+Le maire de la commune sur le territoire de laquelle est situé l'immeuble dont l'aliénation ou le transfert sont envisagés
+siège avec voix délibérative.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+Le président peut inviter aux séances de la commission, avec voix consultative, toute personne dont l'avis lui paraît utile.
+
+**Nota:**
+
+Décret n° 2009-634 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commissions des
+cinquante pas géométriques).
+
+L'article 1 du décret n° 2014-592 du 6 juin 2014 a renouvelé pour une durée d'un an à compter du 8 juin 2014 les Commissions
+des cinquante pas géométriques.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-561 1961-06-03 art. 3
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
 
 	**Cité par**:
 
 	  - Décret n°2009-634 du 6 juin 2009 - art. (V)
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code du domaine de l'Etat - art. R166 (M)
-	  - Code du domaine de l'Etat - art. R167 (M)
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D5111-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R5111-5 (V)
 
 
 ###### Article R169
 
-Quelle que soit la valeur des terrains domaniaux aliénés ou échangés, les opérations seront dispensées de l'intervention des
-commissions prévues à l'article R. 164.
+Les conventions de gestion conclues au profit des communes en application des articles L. 51-1 et L. 89 sont consenties par
+le préfet, dans les conditions prévues à l'article R. 128-3, pour une durée qui ne peut excéder dix-huit ans.
+
+Elles ne peuvent porter que sur l'ensemble de la zone définie à l'article L. 87 située sur le territoire de la commune à
+l'exclusion des immeubles confiés en gestion à des services ou établissements publics de l'Etat. Peuvent en être exclus des
+périmètres comprenant ces immeubles ou des secteurs dont l'Etat conserve la gestion.
+
+Elles déterminent les secteurs dont la commune deviendra propriétaire au plus tard à l'expiration de la convention. Elles
+peuvent en exclure des immeubles dont l'Etat conservera la propriété.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°61-561 1961-06-03 art. 4
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L51-1
+	  - Code du domaine de l'Etat - art. L87
+	  - Code du domaine de l'Etat - art. L89
+	  - Code du domaine de l'Etat - art. R128-3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R169-1 (Ab)
+	  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-7 (V)
+
+
+###### Article R169-1
+
+Les dispositions des articles R. 128-4 (II et III) et R. 128-5 à R. 128-7 restent applicables au domaine inclus dans les
+conventions conclues conformément à l'article R. 169.
+
+Toutefois, les revenus mentionnés à l'article R. 128-6 sont affectés aux charges et opérations énumérées à cet article et
+concernant les secteurs non cessibles de la zone.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. R128-4
+	  - Code du domaine de l'Etat - art. R128-6
+	  - Code du domaine de l'Etat - art. R169 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-8 (V)
+
+
+###### Article R169-2
+
+Le directeur des services fiscaux fixe le prix des terrains cédés en vertu de l'article L. 89 en déduisant de leur valeur
+vénale déterminée par ses soins la plus-value résultant des améliorations apportées par la commune qui n'ont pas été
+financées par des subventions de l'Etat.
+
+Lorsque la cession porte sur des terrains déterminés par un avenant à la convention initiale, la déduction retient la plus-
+value résultant d'améliorations qui n'ont été financées ni par subvention de l'Etat ni en application de l'article R. 128-6.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
+	**Créé par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R164 (M)
+	  - Code du domaine de l'Etat - art. L89
+	  - Code du domaine de l'Etat - art. R128-6
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R5111-9 (V)
+
+
+###### Article R169-3
+
+Toute cession d'une dépendance du domaine public maritime comprise dans la zone définie à l'article L. 87 et incluse dans le
+périmètre d'une convention de gestion conclue en application des articles L. 51-1 et L. 89 distrait de plein droit cette
+dépendance du champ de cette convention.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°89-734 1989-10-13 art. 2 JORF 14 octobre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L51-1
+	  - Code du domaine de l'Etat - art. L87
+	  - Code du domaine de l'Etat - art. L89
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5111-10 (V)
 
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
@@ -13105,68 +13346,6 @@ finances et du ministre chargé des armées (air).
 ## Livre IV : Dispositions diverses
 
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer
-
-#### Chapitre Ier : Zone des cinquante pas géométriques.
-
-###### Article D18-1
-
-Dans les départements de la Guadeloupe de la Martinique et de la Réunion, la commission prévue à l'article R. 166 est
-dénommée "Commission des cinquante pas géométriques".
-
-Elle comprend sous la présidence du préfet ou de son représentant :
-
-Trois délégués du conseil général ;
-
-Deux délégués de l'association des maires ;
-
-Le président de la chambre d'agriculture ;
-
-Le président de la chambre d'industrie et de commerce ;
-
-Le président de la fédération départementale des exploitants agricoles ;
-
-Un salarié agricole désigné par le préfet sur proposition des organisations ouvrières ;
-
-Le directeur des services fiscaux ;
-
-L'ingénieur en chef, directeur départemental de l'agriculture ;
-
-Le représentant dans le département de l'Office national des forêts ;
-
-Le fonctionnaire chargé de l'inspection des lois sociales en agriculture ;
-
-Le délégué aux affaires économiques.
-
-Les collectivités, organisations et associations proposent ou désignent, en même temps que des délégués titulaires, des
-délégués suppléants.
-
-Les présidents des chambres d'agriculture et des chambres d'industrie et de commerce sont suppléés par un vice-président.
-
-En cas d'empêchement, les fonctionnaires peuvent se faire représenter par le fonctionnaire qui les supplée normalement dans
-leur service.
-
-Peuvent être appelés à participer, à titre consultatif, aux travaux de la commission : le maire de la commune intéressée, le
-conseiller général du canton, les chefs des services publics éventuellement intéressés et, de manière générale, toute
-personne dont l'avis paraît utile. Le secrétariat de la commission est assuré par les services de la préfecture.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R166 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
-
 
 #### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.
 
