@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-03-24
 
 # Partie législative
 
@@ -7763,15 +7763,24 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article R105-1
 
 L'office national des forêts a tous pouvoirs techniques et financiers d'administration sur les forêts et terrains à boiser ou
-à restaurer du domaine privé de l'Etat dont la gestion et l'équipement lui sont confiés en application de l'article 1er
-(paragraphe I, alinéa 1er) de la loi n° 64-1278 du 23 décembre 1964.
+à restaurer du domaine privé de l'Etat dont la gestion et l'équipement lui sont confiés en application de l'article L. 121-2
+du code forestier.
 
 Le service des domaines établit et passe en la forme administrative, pour le compte de l'office, les actes, contrats et
-conventions qui confèrent aux bénéficiaires des droits privatifs sur ces forêts et terrains.
+conventions qui confèrent aux bénéficiaires des droits privatifs sur ces forêts et terrains. Toutefois, les actes de
+concession de pâturage n'excédant pas neuf ans sont passés par l'office, suivant un contrat type approuvé par le ministre
+chargé des forêts et le ministre chargé du domaine. Lorsque leur durée est supérieure à trois ans, ces actes sont approuvés
+par le directeur des services fiscaux territorialement compétent.
 
 Dans les bois, forêts et terrains à boiser du domaine privé de l'Etat non mentionnés au premier alinéa du présent article,
 les baux forestiers domaniaux sont proposés et leurs conditions techniques fixées respectivement par les directeurs régionaux
 ou le directeur général de l'office selon des modalités fixées par arrêté du ministre de l'agriculture.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -7779,17 +7788,25 @@ ou le directeur général de l'office selon des modalités fixées par arrêté 
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-273 1988-03-18 art. 5 JORF 24 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R67 (Ab)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Code général de la propriété des personnes publ... - art. R2222-36 (M)
 
 	**Cite**:
 
-	  - Loi n°64-1278 du 23 décembre 1964 - art. 1, v. init.
+	  - Code forestier - art. L121-2
 
 
 #### Chapitre II : Domaine mobilier.
