@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1998-07-03
+Version Consolidée au 1998-09-04
 
 # Partie législative
 
@@ -4112,15 +4112,25 @@ la limite de cinq ans supplémentaires.
 Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date du
 transfert de propriété, cette période de trente ans étant réduite de la durée effective de la période probatoire.
 
-Les dispositions prévues à l'alinéa précédent peuvent être étendues, dans des conditions fixées par décret en Conseil d'Etat,
-aux agriculteurs ayant réalisé depuis au moins cinq ans avant l'entrée en vigueur du présent article un programme de mise en
-valeur des terres mises à leur disposition par l'Etat.
+Peuvent également bénéficier de cessions gratuites les agriculteurs qui, depuis leur installation, antérieure à la date de
+publication de l'ordonnance n° 98-777 du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
+l'aménagement et la mise en valeur des terres mises à leur disposition par l'Etat, les ont exploitées directement à des fins
+exclusivement agricoles et qui s'engagent à les maintenir à cet usage pendant trente ans à compter de la date de transfert de
+propriété.
+
+Les dispositions du présent article sont applicables aux personnes morales dont l'objet est essentiellement agricole et dont
+plus de 50 % du capital social est détenu par des personnes physiques répondant aux conditions requises pour bénéficier à
+titre individuel de ces dispositions.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance 98-777 1998-09-02
+
 	**Modifié par**:
 
-	  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
 
 	**Cité par**:
 
@@ -4278,6 +4288,181 @@ leurs moyens de subsistance de la forêt.
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L5143-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+##### Section 4 : Cessions de terrains domaniaux n'entrant pas dans les catégories régies par les sections 1, 2 et 3.
+
+###### Article L91-4
+
+A l'intérieur de zones délimitées par l'autorité administrative après consultation des communes et en tenant compte tant des
+documents d'urbanisme en vigueur que de l'état effectif d'occupation des sols, les terrains peuvent faire l'objet de cessions
+gratuites à des personnes physiques dans les conditions prévues à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 4 (V)
+	  - Code du domaine de l'Etat - art. R170-62 (Ab)
+	  - Code du domaine de l'Etat - art. R170-67 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5144-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L91-5
+
+Peuvent bénéficier de cessions gratuites les personnes physiques occupant, à la date de publication de l'ordonnance n° 98-777
+du 2 septembre 1998, sur les terrains mentionnés à l'article précédent, des constructions principalement affectées à leur
+habitation.
+
+Ces personnes ne doivent pas être déjà, directement ou par personnes interposées, propriétaires d'un bien immobilier ou
+titulaires d'un droit réel immobilier, à moins que ce droit n'entre dans le champ d'application des dispositions de l'article
+68-13 du code minier.
+
+A la date de leur demande de cession, les mêmes personnes doivent :
+
+- avoir leur domicile fiscal en Guyane ;
+
+- être soit ressortissantes d'un Etat membre de la Communauté européenne, soit détentrices d'un titre de séjour régulier
+d'une durée supérieure à un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 4 (V)
+
+	**Cite**:
+
+	  - Ordonnance 98-777 1998-09-02
+	  - Code minier 68-13
+
+	**Modifié par**:
+
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5144-2 (V)
+
+
+###### Article L91-6
+
+La cession gratuite ne peut porter que sur un seul terrain, dont la superficie ne doit pas excéder un plafond déterminé par
+décret.
+
+Ce terrain ne peut faire l'objet, à peine de nullité de la cession, d'une aliénation volontaire pendant une durée de quinze
+ans à compter de son acquisition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. D21 (Ab)
+	  - Code du domaine de l'Etat - art. R170-64 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5144-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+##### Section 5 : Dispositions communes et diverses.
+
+###### Article L91-7
+
+Lorsqu'ils ne sont pas utilisés conformément à l'objet qui a justifié leur cession gratuite en application des dispositions
+des articles L. 91-1, L. 91-2, L. 91-3, les immeubles cédés reviennent gratuitement dans le patrimoine de l'Etat à moins que
+le cessionnaire ne soit autorisé à en conserver la propriété contre le paiement d'un prix correspondant à leur valeur vénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1 (M)
+	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. L91-3 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-71 (Ab)
+	  - Code forestier - art. L172-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5145-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L91-8
+
+Un décret en Conseil d'Etat fixe les formes et conditions des concessions et cessions prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5145-2 (V)
 
 	**Codifié par**:
 
