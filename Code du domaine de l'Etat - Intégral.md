@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1962-11-18
+Version Consolidée au 1963-06-23
 
 # Partie législative
 
@@ -6464,6 +6464,31 @@ lieu ou, à défaut, par l'agent désigné par le directeur des services fiscaux
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
+
+
+###### Article A114
+
+Le taux de la taxe forfaitaire visée au premier alinéa de l'article A. 113 est fixé à 8 % en cas de vente effectuée avec
+publicité et concurrence et à 4 % en cas de cession amiable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Anciens textes**:
+
+	  - Arrêté 1963-06-07 art. 1
+
+	**Cité par**:
+
+	  - Code de la route - art. R289-1 (Ab)
+	  - Code de la route. - art. R325-29 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A113 (M)
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.
