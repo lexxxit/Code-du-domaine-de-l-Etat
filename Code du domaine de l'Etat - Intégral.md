@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1998-09-04
+Version Consolidée au 1998-09-19
 
 # Partie législative
 
@@ -13339,6 +13339,433 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R5111-10 (V)
+
+
+###### Article R169-4
+
+Il est fait application à la commission départementale de vérification des titres instituée dans le département de la Guyane
+par l'article L. 88-2 des dispositions des articles L. 170-11 à R. 170-18 et R. 170-20 à R. 170-27, sous réserve des
+modifications suivantes :
+
+- le premier alinéa de l'article R. 170-13 est remplacé par les dispositions suivantes : "La commission départementale de
+vérification des titres siège à Cayenne auprès de la chambre détachée de la cour d'appel de Fort-de-France" ;
+
+- à l'article R. 170-14, les mots : "des articles R. 170-15 à R. 170-27" sont remplacés par les mots : "des articles R.
+170-15 à R. 170-18 et R. 170-20 à R. 170-27 ;
+
+- à l'article R. 170-27, les mots : "devant la cour d'appel dans le ressort de laquelle siège la commission" sont remplacés
+par :
+
+"devant la chambre détachée de la cour d'appel de Fort-de-France qui siège à Cayenne".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 2 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L88-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-13 (M)
+	  - Code du domaine de l'Etat - art. R170-14 (M)
+	  - Code du domaine de l'Etat L88-2, L170-11 à R170-18, R170-20 à R170-27, R170-13, R170-14
+
+
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique
+
+###### Article R170-11
+
+Chacune des commissions départementales de vérification des titres instituée dans les départements de la Guadeloupe et de la
+Martinique par l'article L. 89-2 comprend :
+
+- un magistrat du siège en activité, ou un magistrat honoraire de l'ordre judiciaire, résidant dans le département, proposé
+par le premier président de la cour d'appel, après avis de l'assemblée des magistrats du siège de la cour d'appel dans le
+ressort de laquelle se situe le département ;
+
+- un magistrat de la chambre régionale des comptes des Antilles et de la Guyane proposé par le président de celle-ci ;
+
+- un membre, en activité ou honoraire, du corps des tribunaux administratifs et des cours administratives d'appel, résidant
+dans le département et proposé par le président du tribunal administratif.
+
+Ces membres sont nommés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie, des
+finances et de l'industrie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-16 (M)
+
+
+###### Article R170-12
+
+Sont associés aux travaux de la commission départementale de vérification des titres :
+
+- un notaire inscrit sur la liste des notaires du département, désigné par le président de la commission sur présentation de
+la chambre départementale des notaires ;
+
+- un représentant du directeur départemental de l'équipement ;
+
+- un représentant du directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cité par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
+	  - Décret n°98-836 du 14 septembre 1998 - art. 4 (V)
+	  - Code du domaine de l'Etat - art. R170-21 (Ab)
+	  - Code du domaine de l'Etat - art. R170-24 (M)
+
+
+###### Article R170-13
+
+La commission départementale de vérification des titres siège à la cour d'appel dans le ressort de laquelle se situe le
+département.
+
+Le président de la commission peut toutefois décider de tenir des audiences au siège des tribunaux d'instance ou des
+tribunaux de grande instance du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R169-4 (V)
+
+
+###### Article R170-14
+
+La procédure devant la commission est régie par les dispositions du livre Ier du nouveau code de procédure civile, sous
+réserve des dispositions des articles R. 170-15 à R. 170-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R169-4 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat R170-15 à R170-27
+
+
+###### Article R170-15
+
+Les titres soumis à la vérification de la commission en application du deuxième alinéa de l'article L. 89-2 sont soit déposés
+au secrétariat de celle-ci contre délivrance d'un reçu, soit adressés audit secrétariat par lettre recommandée avec demande
+d'avis de réception.
+
+Les titres et, le cas échéant, les documents joints sont fournis en quatre exemplaires dont l'un au moins est certifié
+conforme à l'original.
+
+Un registre spécial tenu par le secrétariat de la commission porte mention du dépôt ou de la réception des titres. Un arrêté
+du préfet du département précise les modalités suivant lesquelles ces mentions sont portées à la connaissance du public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-18 (M)
+
+
+###### Article R170-16
+
+Le délai mentionné à l'article L. 89-2 court à compter de la publication au Journal officiel de l'arrêté interministériel
+mentionné à l'article R. 170-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-11 (M)
+
+
+###### Article R170-17
+
+Les requérants peuvent présenter leurs explications à la commission et ont la faculté de se faire assister ou représenter
+dans les conditions fixées à l'article 828 du nouveau code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Nouveau code de procédure civile 828
+
+
+###### Article R170-18
+
+Dans le délai d'un mois à compter de la date de dépôt ou de la réception mentionné à l'article R. 170-15, un exemplaire des
+titres et documents est adressé par lettre recommandée, avec demande d'avis de réception, par le secrétariat de la commission
+au directeur des services fiscaux. Celui-ci consulte les archives de la commission créée en application de l'article 10 du
+décret n° 55-885 du 30 juin 1955 pour vérifier si elles contiennent des pièces relatives aux titres en cause.
+
+Le directeur des services fiscaux rend compte à la commission et adresse à celle-ci les documents figurant dans lesdites
+archives.
+
+Il présente, s'il le juge utile, ses observations, qui sont communiquées aux parties par le secrétariat de la commission.
+
+La commission ne peut examiner la demande avant l'expiration d'un délai de trois mois à compter de la date de réception de la
+transmission mentionnée au premier alinéa par le directeur des services fiscaux, sauf si la réponse de celui-ci lui est
+parvenue avant l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
+	  - Code du domaine de l'Etat - art. R170-15 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+
+###### Article R170-19
+
+Un exemplaire des titres et documents est adressé, dans le délai d'un mois, par le secrétariat de la commission au préfet
+pour l'application du huitième alinéa de l'article L. 89-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+
+
+###### Article R170-20
+
+Le président de la commission désigne, au sein de celle-ci, un rapporteur pour chacune des demandes présentées à la
+commission. Le rapporteur est chargé d'entendre le requérant ou son représentant et toute personne dont il juge l'audition
+utile.
+
+Le rapport expose l'objet de la demande et les moyens des parties ; il précise les questions de fait et de droit soulevées
+par la requête et fait mention des éléments propres à éclairer le débat.
+
+Le magistrat chargé du rapport peut, si les parties ne s'y opposent pas, tenir seul l'audience pour entendre les plaidoiries.
+Il en rend compte à la commission dans son délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+
+###### Article R170-21
+
+Le président convoque les membres de la commission et les personnes mentionnées à l'article R. 170-12. La convocation
+mentionne les noms des requérants, les titres dont la vérification est demandée, la localisation des immeubles sur lesquels
+portent ces titres et la date du dépôt ou de réception de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-12 (M)
+
+
+###### Article R170-22
+
+Le procureur de la République près le tribunal de grande instance dans le ressort duquel la commission a son siège reçoit
+copie de la convocation adressée aux membres de la commission.
+
+Il peut intervenir pour faire connaître son avis sur l'application de la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+
+###### Article R170-23
+
+Le requérant, ou son représentant, est avisé au moins un mois à l'avance et par lettre recommandée, avec demande d'avis de
+réception, du lieu, du jour et de l'heure à laquelle les titres en sa possession seront examinés par la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+
+###### Article R170-24
+
+Après avoir entendu, au cours de l'audience publique, le rapport du rapporteur et les observations du requérant ou de son
+représentant et, le cas échéant, des autres parties, la commission se prononce sur la validité des titres présentés. Les
+personnes visées à l'article R. 170-12 ne participent pas à ses délibérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-12 (M)
+
+
+###### Article R170-25
+
+Les décisions de la commission sont motivées. Les décisions concernant les titres examinés sans que le notaire ait pu prêter
+son concours aux travaux de la commission, en application de la deuxième phrase du cinquième alinéa de l'article L. 89-2, en
+portent mention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+
+
+###### Article R170-26
+
+La décision est notifiée au requérant ou à son représentant, aux autres parties à l'instance, au préfet du département et au
+procureur de la République, par le secrétariat de la commission, par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
+
+
+###### Article R170-27
+
+Les décisions de la commission peuvent faire l'objet, dans les deux mois de leur notification, d'un recours devant la cour
+d'appel dans le ressort de laquelle siège la commission.
+
+L'appel est formé et jugé selon la procédure avec représentation obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 1 () JORF 19 septembre 1998
 
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
