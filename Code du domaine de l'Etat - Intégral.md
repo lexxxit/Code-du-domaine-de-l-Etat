@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-06-19
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -1013,6 +1013,47 @@ des personnes publiques.
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
+###### Article L31
+
+Les bénéficiaires d'autorisations ou de concessions de toute nature concernant le domaine public national peuvent acquitter
+la redevance à leur charge par apposition d'un timbre fiscal sur le titre qui leur a été remis. Quelle que soit la date de ce
+titre, ils peuvent être tenus, à raison du chiffre et du mode de fixation des redevances, de se libérer soit par versement
+d'acomptes mensuels, soit d'avance, par périodes triennales ou pour toute la durée de l'autorisation ou de la concession, si
+cette durée n'excède pas cinq ans.
+
+Toutefois, pour les besoins de la défense nationale, les bénéficiaires peuvent être tenus de se libérer soit par versement
+d'acomptes, soit d'avance, pour tout ou partie de la durée de l'autorisation ou de la concession, quelle que soit cette
+durée.
+
+Des arrêtés du ministre de l'économie et des finances fixent les conditions d'application de ces différents modes de
+règlement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Cité par**:
+
+	  - Loi - art. 36 (V)
+	  - Code des postes et des communications électronique - art. L42-2 (M)
+	  - Code du domaine de l'Etat - art. A31 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 22 (V) JORF 11 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2125-4 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2322-3 (Ab)
+
+
 ###### Article L32
 
 En cas de retard dans le paiement des redevances, les sommes restant dues sont majorées d'un intérêt moratoire dont le taux
@@ -1041,6 +1082,79 @@ est fixé par décision du ministre des finances.
 	  - Décret n°62-298 1962-03-14
 
 
+###### Article L33
+
+Le service des domaines peut réviser les conditions financières des autorisations ou concessions, à l'expiration de chaque
+période stipulée pour le paiement de la redevance, nonobstant, le cas échéant, toutes dispositions contraires de l'acte
+d'autorisation ou de concession.
+
+Lorsque la redevance a été payée d'avance, ces dispositions sont applicables pour la part de la redevance correspondant à la
+période restant à courir.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'abrogation des dispositions du code du domaine de l'Etat mentionnées au I de l'article 7 ne
+prendra effet qu'à compter de la publication des dispositions règlementaires correspondantes du code général de la propriété
+des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°89-391 du 15 juin 1989 - art. 13 (V)
+	  - Décret n°89-405 du 20 juin 1989 - art. 13 (V)
+	  - Décret n°92-648 du 8 juillet 1992 - art. 13 (V)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+	  - Décret n°2009-1349 du 29 octobre 2009 (V)
+	  - Code du domaine de l'Etat - art. A22 (V)
+	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+	  - Code du domaine de l'Etat - art. R57 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 22 (V) JORF 11 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2125-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+
+###### Article L33-1
+
+En cas de retrait de l'autorisation avant le terme prévu, pour un motif autre que l'inexécution de ses clauses et conditions,
+la redevance versée d'avance est restituée prorata temporis au titulaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°2004-804 du 9 août 2004 - art. 22 (V) JORF 11 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2125-6 (V)
+
+
 ###### Article L34
 
 Les communes qui gèrent elles-mêmes leur service d'eau potable sont exonérées de toute redevance qui serait due en raison de
@@ -1064,68 +1178,6 @@ l'occupation du domaine public par leurs canalisations ou réservoirs.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
-
-
-##### Section 2 : Fixation des redevances.
-
-###### Article L31
-
-Les bénéficiaires d'autorisations ou de concessions de toute nature concernant le domaine public national peuvent acquitter
-la redevance à leur charge par apposition d'un timbre fiscal sur le titre qui leur a été remis. Quelle que soit la date de ce
-titre, ils peuvent être tenus, à raison du chiffre et du mode de fixation des redevances, de se libérer soit par versement
-d'acomptes mensuels, soit d'avance, par périodes triennales ou pour toute la durée de l'autorisation ou de la concession, si
-cette durée n'excède pas cinq ans.
-
-Des arrêtés du ministre de l'économie et des finances fixent les conditions d'application de ces différents modes de
-règlement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°70-576 1970-07-03 art. 11 JORF 5 juillet 1970
-
-	**Cité par**:
-
-	  - Loi - art. 36 (V)
-	  - Code des postes et des communications électronique - art. L42-2 (M)
-	  - Code du domaine de l'Etat - art. A31 (V)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publiqu - art. L2125-4 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
-
-
-###### Article L33
-
-Le service des domaines peut reviser les conditions financières des autorisations ou concessions, à l'expiration de chaque
-période stipulée pour le paiement de la redevance, nonobstant, le cas échéant, toutes dispositions contraires de l'acte
-d'autorisation ou de concession.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
-
-	**Modifié par**:
-
-	  - Loi n°70-576 1970-07-03 art. 11 JORF 5 juillet 1970
-
-	**Cité par**:
-
-	  - Décret n°89-391 du 15 juin 1989 - art. 13 (V)
-	  - Décret n°89-405 du 20 juin 1989 - art. 13 (V)
-	  - Décret n°92-648 du 8 juillet 1992 - art. 13 (V)
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
-	  - Décret n°2009-1349 du 29 octobre 2009 (V)
-	  - Code du domaine de l'Etat - art. A22 (V)
-	  - Code du domaine de l'Etat - art. R128-8 (Ab)
-	  - Code du domaine de l'Etat - art. R57 (Ab)
 
 
 ##### Section 3 : Occupations constitutives de droits réels.
