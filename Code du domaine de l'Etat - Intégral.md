@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1995-04-22
+Version Consolidée au 1995-05-07
 
 # Partie législative
 
@@ -6411,6 +6411,561 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R2125-3 (V)
+
+
+##### Section 3 : Occupations constitutives de droits réels
+
+###### Article R57-1
+
+La présente section fixe les conditions de constitution, sur tout ou partie de la dépendance domaniale dont l'occupation est
+autorisée, du droit réel prévu par les articles L. 34-1 à L. 34-9 ainsi que les conditions de transmission totale ou
+partielle de ce droit.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-9 (V)
+
+
+##### Sous-section 1 : Délivrance et retrait du titre constitutif de droit réel sur le domaine public de l'Etat ou d'un établissement public de l'Etat
+
+##### Paragraphe 1 : Délivrance du titre.
+
+###### Article R57-2
+
+I. - Dans le cas où l'occupation du domaine public de l'Etat ou du domaine propre d'un établissement public de l'Etat a pour
+fondement une concession de service public, d'outillage public ou d'installations portuaires de plaisance, cette concession
+peut être constitutive de droit réel pour son titulaire dans la mesure et aux conditions prévues par le cahier des charges et
+sous réserve que les dispositions correspondantes du cahier des charges aient reçu l'accord, selon que le montant des travaux
+mis à la charge du concessionnaire est inférieur ou supérieur à 20000000 F hors taxes, du préfet ou du ministre chargé du
+domaine et du ministre intéressé.
+
+II. - Dans les cas autres que celui prévu au I, la délivrance d'un titre d'occupation, quelle que soit sa forme, constitutif
+de droit réel, sur le domaine public de l'Etat ou d'un établissement public de l'Etat est régie par les articles R. 57-3 et
+R. 57-4 ci-après.
+
+III. - Dans les cas prévus aux I et II, la redevance d'occupation du domaine public est, sous réserve des règlements
+particuliers, fixée comme il est dit aux articles R. 55 à R. 57.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R57-3 (V)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-3, R57-4, R55 à R57
+
+
+###### Article R57-3
+
+I. - La demande de titre d'occupation constitutif de droit réel sur le domaine public de l'Etat est adressée au préfet ou, si
+elle concerne le domaine public militaire, à l'autorité militaire.
+
+Toutefois, elle est adressée à l'établissement public, ou autre organisme, gestionnaire de ce domaine s'il tient expressément
+du texte qui lui en confie ou concède la gestion ou d'une disposition réglementaire générale le pouvoir de délivrer des
+titres constitutifs de droits réels sur ce domaine.
+
+La demande de titre d'occupation constitutif de droit réel sur le domaine public propre d'un établissement public est
+adressée à ce dernier.
+
+II. - Le dossier de la demande, adressée par pli recommandé avec demande d'avis de réception postal ou déposée contre
+décharge, comporte :
+
+1° Les nom, prénoms, qualité, nationalité et domicile du demandeur ou, si la demande émane d'une personne morale, les
+précisions suivantes : nature, dénomination, siège social et objet de la personne morale ainsi que les nom, prénoms, qualité,
+pouvoirs du signataire de la demande et, le cas échéant, du ou des représentants habilités auprès de l'administration ;
+
+2° Une note précisant :
+
+- la localisation, les caractéristiques et la superficie de la dépendance domaniale concernée et la durée pour laquelle
+l'occupation est sollicitée ;
+
+- la nature de l'activité envisagée ainsi que la nature, l'estimation, le calendrier et les modalités de financement des
+investissements prévus et, le cas échéant, la localisation et le montant global des investissements à financer par crédit-
+bail ;
+
+3° Un extrait de plan cadastral représentant la dépendance domaniale dont l'occupation est demandée et, le cas échéant, un
+projet de document modificatif du parcellaire ;
+
+4° Un plan masse faisant apparaître l'emplacement des ouvrages, constructions et installations de caractère immobilier prévus
+et une fiche descriptive de ces ouvrages, constructions et installations ;
+
+5° Des justifications de la capacité technique et financière du demandeur à entreprendre et mener à leur terme les travaux
+projetés.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2004-18 du 6 janvier 2004 - art. 3 (Ab)
+	  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+	  - Code de la défense. - art. R5131-3 (M)
+	  - Code du domaine de l'Etat - art. R57-12 (VD)
+	  - Code du domaine de l'Etat - art. R57-16 (Ab)
+	  - Code du domaine de l'Etat - art. R57-2 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (Ab)
+	  - Code général des collectivités territoriales - art. R4424-9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-12 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-13 (V)
+
+
+###### Article R57-4
+
+Il est statué sur la demande dans les conditions ci-après :
+
+I. - Dans le cas visé au premier alinéa du I de l'article R. 57-3, après instruction par le chef du service déconcentré de
+l'Etat concerné, la décision relève de la compétence du préfet.
+
+Toutefois, si l'instruction de la demande, qui comporte obligatoirement la consultation du directeur des services fiscaux et,
+le cas échéant, de l'établissement public ou organisme gestionnaire du domaine public en cause, fait apparaître que tout ou
+partie des ouvrages, constructions et installations de caractère immobilier dont la réalisation est envisagée sont
+nécessaires à la continuité du service public auquel est affecté le domaine public concerné par la demande, la décision ne
+relève de la compétence du préfet que lorsque le montant des travaux projetés est inférieur à 20000000 F hors taxes.
+
+Dans le cas contraire, elle relève de la compétence conjointe du ministre concerné et du ministre chargé du domaine auxquels
+le préfet transmet la demande accompagnée de son avis.
+
+Lorsque la demande concerne le domaine public militaire, la décision relève dans tous les cas de la compétence du ministre de
+la défense et du ministre chargé du domaine, auxquels l'autorité militaire transmet la demande accompagnée de son avis.
+
+II. - Dans les cas visés aux deuxième et troisième alinéas du I de l'article R. 57-3, la décision est prise par l'autorité
+compétente de l'établissement public ou autre organisme gestionnaire.
+
+Toutefois, s'il apparaît à cette autorité que tout ou partie des ouvrages, constructions et installations de caractère
+immobilier dont la réalisation est envisagée sont nécessaires à la continuité du service public auquel est affecté le domaine
+public concerné par la demande, il ne peut y être fait droit que sur accord préalable du ministre de tutelle et du ministre
+chargé du domaine, ou du préfet après avis du directeur des services fiscaux, selon que le montant des travaux projetés est
+ou non supérieur à 20000000 F hors taxes.
+
+Faute d'obtention de cet accord préalable dans un délai de deux mois à compter de la saisine du préfet ou de quatre mois à
+compter de la saisine des ministres, l'autorité compétente de l'établissement public ou autre organisme gestionnaire est
+tenue de refuser le caractère constitutif de droit réel au titre d'occupation du domaine public demandé.
+
+III. - Lorsque des règlements soumettent les autorisations d'occupation du domaine public délivrées en application de
+l'article L. 28 à des procédures de délivrance ou d'approbation particulières, ces procédures demeurent applicables pour la
+délivrance d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions des I
+et II ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Décret n°69-535 du 21 mai 1969 - art. 37 (V)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 2 (VT)
+	  - Décret n°91-796 du 20 août 1991 - art. 4 (Ab)
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 12 (Ab)
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 13 (V)
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 5 (VD)
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 7 (V)
+	  - Code de l'aviation civile - art. R221-11 (V)
+	  - Code de l'aviation civile - art. R223-2 (V)
+	  - Code de l'aviation civile - art. R253-5 (Ab)
+	  - Code de l'aviation civile - art. R260-2 (V)
+	  - Code de la voirie routière - art. R122-5-1 (V)
+	  - Code des ports maritimes - art. R*113-25 (M)
+	  - Code des ports maritimes - art. R*122-10 (Ab)
+	  - Code des ports maritimes - art. R*122-11-1 (Ab)
+	  - Code des ports maritimes - art. R132-3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-10 (VD)
+	  - Code du domaine de l'Etat - art. R57-14 (Ab)
+	  - Code du domaine de l'Etat - art. R57-2 (Ab)
+	  - Code général des collectivités territoriales - art. R4424-11 (V)
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L28 (Ab)
+	  - Code du domaine de l'Etat - art. R57-3 (V)
+
+
+###### Article R57-5
+
+I. - Le titre d'occupation constitutif de droit réel doit, dans tous les cas, comporter la détermination précise de la
+consistance du droit réel conféré, de la durée pour laquelle il est conféré ainsi que toutes autres mentions nécessaires à la
+publicité foncière.
+
+II. - Il doit aussi comporter l'énoncé des conditions auxquelles ce droit est conféré, à savoir :
+
+1° Les ouvrages, constructions et installations de caractère immobilier à édifier et, le cas échéant, la liste de ceux qui
+doivent être maintenus en état jusqu'à l'expiration de la durée de validité du titre ;
+
+2° Le montant et les modalités de paiement de la redevance domaniale ;
+
+3° Le cas échéant, les obligations de service public imposées au titulaire de l'autorisation.
+
+III. - Il peut également préciser les règles de détermination de l'indemnité couvrant le préjudice direct, matériel et
+certain causé par son retrait avant le terme prévu pour un motif autre que l'inexécution de ses conditions.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-17 (V)
+
+
+##### Paragraphe 2 : Retrait du titre.
+
+###### Article R57-6
+
+I. - Dans le cas où l'autorité qui a délivré le titre constitutif de droit réel envisage, pour quelque motif que ce soit, de
+le retirer en totalité ou en partie avant le terme fixé, le titulaire du titre à cette date doit en être informé par pli
+recommandé avec demande d'avis de réception postal, deux mois au moins avant le retrait, sauf respect, en cas de concession,
+du délai particulier prévu par le cahier des charges.
+
+II. - Dans le cas où le retrait envisagé a pour motif l'inexécution des clauses et conditions de l'autorisation, l'autorité
+qui l'a délivrée en informe les créanciers régulièrement inscrits selon les mêmes modalités deux mois avant le retrait.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cité par**:
+
+	  - Décret n°2004-18 du 6 janvier 2004 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-18 (V)
+
+
+##### Sous-section 2 : Transmission du droit réel et conditions de recours au crédit-bail.
+
+###### Article R57-7
+
+I. - Préalablement à la signature de tout contrat ayant pour objet, ou pour effet par voie de fusion, absorption ou scission
+de sociétés, la transmission entre vifs, totale ou partielle, du droit réel qui a été conféré par un titre d'occupation du
+domaine public en cours de validité, la personne physique ou morale qui, par l'effet de ce contrat, se trouvera totalement ou
+partiellement substituée au titulaire de ce titre doit être agréée par l'autorité qui l'a délivré.
+
+II. - La demande d'agrément, qui est adressée à cette autorité par pli recommandé avec demande d'avis de réception postal
+comporte :
+
+1° Les nom, prénoms, profession, nationalité et domicile de demandeur ou, si la demande émane d'une personne morale, les
+précisions suivantes : nature, dénomination, siège social et objet de la personne morale ainsi que les nom, prénoms, qualité,
+pouvoirs du signataire de la demande et, le cas échéant, du ou des représentants habilités auprès de l'administration ;
+
+2° Les documents nécessaires à l'identification de l'immeuble concerné par la cession ou la transmission envisagée ainsi que
+du titulaire actuel sur cet immeuble du droit réel conféré par le titre d'occupation du domaine public ;
+
+3° Des justifications de la capacité technique et financière du demandeur à respecter, pour ce qui concerne l'immeuble en
+cause, les conditions auxquelles le titre d'occupation du domaine public a conféré un droit réel ;
+
+4° Une copie du projet de contrat de cession ou de transmission totale ou partielle du droit réel et, le cas échéant, si la
+cession envisagée a pour but de permettre le financement d'investissements par crédit-bail, une copie du projet de contrat de
+crédit-bail ;
+
+5° L'engagement de payer la redevance domaniale correspondant au droit réel cédé. En cas de cession partielle de ce droit,
+cet engagement doit porter sur la quote-part de redevance contractuellement mise à la charge du cessionnaire ;
+
+6° Si le demandeur envisage de modifier l'utilisation de l'immeuble concerné par le projet de cession, sa demande doit en
+faire état avec toutes justifications appropriées, notamment compte tenu de l'affectation générale du domaine public dont cet
+immeuble constitue une dépendance.
+
+III. - Le silence gardé pendant un délai de trois mois à compter de la date de l'avis de réception de la demande par
+l'autorité à laquelle elle a été adressée vaut agrément de la cession du droit réel aux conditions convenues entre les
+parties.
+
+Toutefois, seul un agrément exprès peut autoriser le cessionnaire à modifier l'utilisation de l'immeuble faisant l'objet du
+contrat.
+
+En cas de cession partielle, l'avis de l'autorité qui a fixé la redevance doit être recueilli sur la répartition de cette
+redevance prévue par les parties et l'agrément peut être refusé en cas de disproportion manifeste entre cette répartition et
+l'importance relative de l'immeuble sur lequel porte le droit réel objet du contrat par rapport à celui ou ceux conservés par
+le cédant.
+
+IV. - Dans le cas où, sur le fondement de l'article L. 34-2, un créancier du titulaire du droit réel entend provoquer la
+cession forcée de tout ou partie de ce droit, il est procédé comme il est dit ci-après :
+
+1° Le poursuivant avertit l'autorité qui a délivré le titre d'occupation constitutif de droit réel de la publication du
+commandement valant saisie.
+
+2° Celle-ci, dans les vingt jours de la réception de cette lettre, fait publier dans un ou plusieurs journaux d'annonces
+légales un avis comportant :
+
+- la localisation et les caractéristiques de l'immeuble saisi ;
+
+- la durée de validité du titre d'occupation restant à courir et les références de ce titre ;
+
+- le montant et les modalités de paiement de la redevance domaniale fixée par ce titre ou, si le droit réel porte également
+sur d'autres immeubles que l'immeuble saisi, la quote-part de cette redevance afférente à l'immeuble saisi, laquelle doit
+être déterminée après avis de l'autorité qui a fixé la redevance ;
+
+- la mention que la participation à l'adjudication et, le cas échéant, à la surenchère est subordonnée à l'agrément préalable
+du postulant par l'autorité qui a délivré le titre d'occupation du domaine public constitutif du droit réel ;
+
+- l'indication de la date limite et de l'adresse à laquelle doit lui être adressée la demande d'agrément par lettre
+recommandée avec demande d'avis de réception postal et du contenu du dossier à joindre à la demande. Ce dossier doit
+comporter les éléments énumérés aux 1°, 2°, 3° et 6° du II ci-dessus ainsi que l'engagement de payer la redevance domaniale
+mentionnée dans l'avis publié.
+
+3. Le silence gardé pendant un délai de trois mois à compter de la date de l'avis de réception de la demande par l'autorité à
+laquelle elle a été adressée vaut agrément du postulant. Toutefois seul un agrément exprès peut l'autoriser, pour le cas où
+il serait déclaré adjudicataire, à modifier ultérieurement l'utilisation de l'immeuble.
+
+4. Lorsque le droit réel porte également sur d'autres immeubles que l'immeuble saisi, l'autorité compétente pour délivrer
+l'agrément doit notifier à l'avocat du poursuivant, en vue de son insertion dans le cahier des charges de l'adjudication
+prévu à l'article 688 du code de procédure civile, le montant et les modalités de paiement de la quote-part de la redevance
+domaniale afférente à l'immeuble saisi.
+
+5° Les dispositions des 1 à 4 ci-dessus ne font pas obstacle à la conversion de la saisie en vente volontaire.
+
+V. - Le contrat ou le titre d'adjudication, qui doit porter mention de l'agrément exprès ou tacite du cessionnaire, emporte à
+sa date et pour l'immeuble ou les immeubles qu'il concerne substitution de ce dernier dans les droits et obligations
+afférents au titre d'occupation du domaine public sous réserve, le cas échéant, des dispositions de la décision d'agrément
+autorisant une modification ultérieure de l'utilisation dudit ou desdits immeubles.
+
+En cas de cession partielle, le contrat ou titre d'adjudication emporte soustraction de l'immeuble cédé du titre d'occupation
+du cédant.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-2
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R57-9 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-19 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-20 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-21 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-25 (M)
+	  - Code général de la propriété des personnes publ... - art. R2122-26 (V)
+
+
+###### Article R57-8
+
+I. - La transmission au conjoint survivant ou à l'héritier du droit réel sur le domaine public dont était titulaire une
+personne physique est subordonnée à l'agrément du pétitionnaire par l'autorité qui a délivré ce titre.
+
+II. - La demande, qui doit être adressée à cette autorité par lettre recommandée avec avis de réception postal dans un délai
+de six mois à compter du décès, doit comporter :
+
+1° Les nom, prénoms, profession, nationalité et domicile du demandeur ;
+
+2° Les documents établissant la consistance du droit réel sur le domaine public dont le défunt était titulaire à la date de
+son décès ;
+
+3° Un acte de notoriété établissant la qualité du demandeur ;
+
+4° Le cas échéant, un acte notarié ou enregistré établissant l'absence d'opposition des autres héritiers à la demande
+d'agrément ;
+
+5° Des justifications de la capacité technique et financière du demandeur à être substitué au défunt dans les droits et
+obligations que ce dernier tenait, à la date de son décès, du droit réel dont il était titulaire à cette date ;
+
+6° Si le demandeur envisage de modifier l'utilisation de l'immeuble, sa demande doit en faire état avec toutes justifications
+appropriées, compte tenu notamment de l'affectation générale du domaine public dont cet immeuble constitue une dépendance.
+
+III. - Le silence gardé, pendant un délai de trois mois à compter de la date de l'avis de réception de la demande, par
+l'autorité à laquelle elle a été adressée vaut agrément de la transmission du droit réel dont le défunt était titulaire à la
+date de son décès.
+
+Toutefois, seul un agrément exprès peut autoriser le demandeur à modifier ultérieurement l'utilisation de l'immeuble
+concerné.
+
+IV. - L'acte constatant le transfert du droit réel, qui doit porter mention de l'agrément exprès ou tacite, emporte
+transmission au jour du décès des droits et obligations afférents au titre du défunt, sous réserve, le cas échéant, des
+dispositions de la décision d'agrément autorisant une modification ultérieure de l'utilisation des immeubles.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-22 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-23 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-24 (V)
+
+
+###### Article R57-9
+
+I. - Les ouvrages, constructions et installations de caractère immobilier prévus par un titre d'occupation du domaine public
+constitutif de droit réel ne peuvent être financés par crédit-bail que si le premier alinéa de l'article L. 34-7 ne l'exclut
+pas et sans préjudice de l'application des dispositions de l'article R. 57-7.
+
+II. - En outre, lorsque le titulaire ou demandeur du titre d'occupation du domaine public constitutif de droit réel est un
+organisme entrant dans le champ d'application du deuxième alinéa de l'article L. 34-7, la signature du contrat du crédit-bail
+est subordonnée à un agrément préalable selon les modalités ci-après :
+
+1° La demande d'agrément doit comporter les éléments suivants :
+
+- copie du titre d'occupation ou de la demande de titre, le cas échéant ;
+
+- statuts de l'organisme demandeur et liste de ses principaux actionnaires ou associés ;
+
+- désignation, description et valeur des biens dont le financement en crédit-bail est envisagé ;
+
+- copie du projet de contrat de crédit-bail et, le cas échéant, du projet de cession totale ou partielle au crédit-bailleur
+du droit réel attaché au titre d'occupation du domaine public ;
+
+- statuts du crédit-bailleur ;
+
+- modalités de financement du crédit-bailleur ;
+
+- comptes prévisionnels du crédit-bailleur se rapportant à l'opération ;
+
+- avis du contrôleur d'Etat ou du contrôleur financier placé auprès de l'organisme demandeur.
+
+2° Sous réserve des dispositions du 3, le dossier mentionné au 1 est adressé pour agrément au ministre du budget par pli
+recommandé avec demande d'avis de réception postal.
+
+3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 20000000 F hors taxes, le dossier
+est adressé, dans les mêmes formes, au trésorier-payeur général du lieu de situation de l'investissement projeté qui est
+compétent pour délivrer l'agrément.
+
+4° A défaut de notification d'une décision contraire, l'agrément est réputé accordé à l'expiration d'un délai de quatre mois.
+Ce délai est réduit à deux mois dans le cas visé au 3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-7 (Ab)
+	  - Code du domaine de l'Etat - art. R57-7 (V)
 
 
 #### Chapitre II : Transfert de gestion.
