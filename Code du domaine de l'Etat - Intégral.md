@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-02-08
 
 # Partie législative
 
@@ -2212,20 +2212,53 @@ public et détenus par un service de l'Etat qui n'en a plus l'emploi ou en a dé
 que tous objets de même nature acquis à l'Etat par droit de confiscation, préemption, déshérence, prise de guerre ou
 autrement, sont, nonobstant toute disposition contraire, vendus par le service des domaines ou avec son concours, au profit
 du Trésor, à l'exception des objets de caractère historique, artistique ou scientifique susceptibles d'être placés dans les
-musées nationaux pour y être classés dans le domaine public.
+musées nationaux pour y être classés dans le domaine public ainsi que les oeuvres contrefaisantes visées par la loi du 9
+février 1895 sur les fraudes en matière artistique.
+
+Les oeuvres contrefaisantes visées par la loi du 9 février 1895 précitée et confisquées dans les conditions prévues par les
+articles 3 et 3-1 de ladite loi sont soit détruites, soit déposées dans les musées nationaux, après avis du ministère chargé
+de la culture.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L68 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception des mots " après avis du ministère chargé de la culture " qui seront abrogés à compter de la publication des
+dispositions règlementaires correspondantes du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L321-36 (V)
+	  - Code du domaine de l'Etat - art. L69-1 (Ab)
+	  - Loi n°2000-642 du 10 juillet 2000 - art. 58 (Ab)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-40 (V)
+	  - Code général de la propriété des personnes publiqu - art. L3211-19 (V)
 
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
 
-	**Cité par**:
+	**Liens**:
 
-	  - Loi n°2000-642 du 10 juillet 2000 - art. 58 (Ab)
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
-	  - Code de commerce. - art. L321-36 (V)
-	  - Code du domaine de l'Etat - art. L69-1 (Ab)
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+	**Cite**:
+
+	  - Loi n°1895-02-09 art. 3, art. 3-1
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 36 () JORF 8 février 1994
+	  - Loi n°94-102 du 5 février 1994 - art. 37 () JORF 8 février 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 
 ###### Article L69
