@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-02-08
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -2271,11 +2271,21 @@ Elles doivent être faites avec publicité et concurrence.
 Toutefois, pour des considérations de défense nationale, d'utilité publique ou d'opportunité, des cessions amiables peuvent
 être consenties par le service des domaines, tant à des particuliers qu'à des services publics.
 
-Sous les sanctions édictées par l'article 175 du code pénal, les agents préposés aux ventes de toutes nature ne peuvent
-s'immiscer directement ni indirectement dans l'achat, ni accepter aucune rétrocession des objets dont la vente leur est
-confiée.
+Sous les sanctions encourues pour le délit de prise illégale d'intérêts prévu par l'article 432-12 du code pénal, les agents
+préposés aux ventes de toute nature ne peuvent s'immiscer directement ni indirectement dans l'achat, ni accepter aucune
+rétrocession des objets dont la vente leur est confiée.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L69 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception de ses trois premiers alinéas qui seront abrogés à compter de la publication des dispositions règlementaires
+correspondantes du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 153 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -2286,17 +2296,27 @@ confiée.
 	  - Code du domaine de l'Etat - art. A115 (V)
 	  - Code du domaine de l'Etat - art. L67 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-36 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-38 (V)
+	  - Code général de la propriété des personnes publiqu - art. L3221-6 (V)
+
 	**Cite**:
 
-	  - Code pénal 175
+	  - Code pénal - art. 432-12 (M)
 
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°89-936 1986-12-29 art. 48 JORF 30 décembre 1989
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ###### Article L69-1
