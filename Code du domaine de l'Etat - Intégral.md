@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-06-02
+Version Consolidée au 1987-07-05
 
 # Partie législative
 
@@ -6241,29 +6241,40 @@ interministériel.
 
 ###### Article R66
 
-Les locations d'immeubles domaniaux sont consenties par le préfet, après fixation, par le directeur départemental des impôts
-chargé du domaine, des conditions financières du contrat.
+Les locations d'immeubles domaniaux sont consenties par le préfet, après fixation, par le directeur des services fiscaux, des
+conditions financières du contrat.
 
-Toutefois, le ministre des finances autorise les locations d'une durée qui excède dix-huit ans et qui ne sont pas consenties
-dans les conditions définies à l'article R. 69.
+Toutefois, les baux emphytéotiques, les baux à construction, les concessions immobilières de la loi n° 67-1253 du 30 décembre
+1967 d'orientation foncière ainsi que toute autre location constitutive de droits réels sont autorisés dans les conditions
+prévues pour les aliénations.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L44
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
-	**Modifié par**:
-
-	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
-
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R69 (V)
+	  - Loi n°67-1253 du 30 décembre 1967
+
+	**Modifié par**:
+
+	  - Décret n°87-492 1987-07-03 art. 1 JORF 5 juillet 1987
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2222-1 (V)
 
 
 ###### Article R67
