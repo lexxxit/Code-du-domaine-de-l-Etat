@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-04-16
+Version Consolidée au 1987-05-21
 
 # Partie législative
 
@@ -9730,6 +9730,29 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Abrogé par**:
 
 	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1991.
+
+###### Article R148-4
+
+Les dispositions des articles R. 129 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux visés à
+l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-335 1987-05-19 art. 1 JORF 21 mai 1987
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R129 (M)
+	  - Code du domaine de l'Etat - art. R138 (V)
 
 
 #### Chapitre II : Domaine mobilier.
