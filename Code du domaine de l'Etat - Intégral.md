@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-02-01
+Version Consolidée au 1992-02-08
 
 # Partie législative
 
@@ -6994,6 +6994,44 @@ service des domaines.
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R86 (M)
+
+
+###### Article R84
+
+Les transformations apportées au sein d'un même département ministériel à l'utilisation ou la gestion d'un immeuble domanial
+font l'objet d'un arrêté concerté du ministre chargé du domaine et du ministré intéressé.
+
+Toutefois, pour les transformations concernant les immeubles utilisés par des services déconcentrés de l'Etat, les préfets
+peuvent recevoir délégation de pouvoirs par arrêté conjoint du ministre chargé du domaine et du ministre intéressé. Cette
+délégation est donnée au préfet de département selon que les services concernés exercent leurs compétences à l'échelon de la
+région ou du département.
+
+Dans le cas prévu à l'alinéa précédent, lorsque l'un des services concernés exerce ses compétences à l'échelon de la région
+et l'autre à l'échelon du département, la décision est prise par arrêté conjoint du préfet de la région et du préfet du
+département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1313 1949-09-27 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (V)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (V)
+	  - Code du domaine de l'Etat - art. R87 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°84-285 1984-04-13 art. 3, art. 4 JORF 18 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
 
 
 ###### Article R85
