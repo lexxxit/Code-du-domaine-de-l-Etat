@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1988-02-12
 
 # Partie législative
 
@@ -4340,44 +4340,60 @@ Passé ce délai, il est statué par l'autorité compétente sur l'acceptation o
 
 ###### Article R24
 
-La modification de l'affectation des charges résultant des dons et legs faits à l'Etat doit tendre à permettre l'exécution de
-prestations comparables par leur nature à celles que le disposant avait initialement imposées.
+Lorsqu'une libéralité consentie à l'Etat est assortie de charges ou conditions, le ministre compétent pour prendre l'arrêté
+prévu à l'article L. 11 est celui qui a qualité pour exécuter les charges ou conditions ou, si l'exécution de ces charges ou
+conditions ne relève d'aucun autre ministre, le ministre chargé du domaine.
 
-La réduction des charges résultant de dons et legs doit tendre à rétablir l'équilibre entre les revenus perçus et les
-prestations imposées.
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L11
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R37 (M)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 3
+	  - Code général de la propriété des personnes publ... - art. R1121-1 (V)
 
 
 ###### Article R25
 
-La restitution des dons et legs doit être motivée par l'impossibilité ou la difficulté d'assurer, pour insuffisance de
-revenus ou pour toute autre cause, l'exécution des volontés du disposant.
+L'autorité compétente pour réviser les conditions et charges dont est assortie une libéralité consentie à l'Etat dispose à
+cet effet des mêmes pouvoirs que ceux qui sont attribués au juge par l'article 900-4 du code civil.
 
-La restitution doit porter sur la totalité des biens originairement compris dans la libéralité qui se retrouvent en nature à
-la date de l'arrêté interministériel prévu par l'article L. 14 ; elle s'étend en outre au produit net des aliénations
-effectuées avant cette même date. Le disposant ou ses ayants droit reprennent les biens restitués en l'état où ils se
-trouvent.
+**Nota:**
 
-Il ne peut être procédé à la restitution de libéralités comprenant soit des immeubles classés monuments historiques ou portés
-à l'inventaire supplémentaire prévu à l'article 2 de la loi du 31 décembre 1913, soit des projets mobiliers classés en vertu
-de l'article 14 de ladite loi, que sur avis conforme du ministre chargé des affaires culturelles.
+Conformément à l'article 10 de l'ordonnance n° 2006-460 du 21 avril 2006, ces dispositions abrogées en vertu du III de
+l'article 7 restent en vigueur en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles
+Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences en matière domaniale
+des collectivités de Nouvelle-Calédonie, de Polynésie française et des îles Wallis et Futuna à la date d'entrée en vigueur de
+la présente ordonnance.
+
+Aux termes du 1° de l'article 10 de l'ordonnance n° 2016-1255 du 28 septembre 2016, ces dispositions, en tant qu'elles
+s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Wallis et Futuna, sous réserve des compétence en matière
+domaniale des collectivités de Nouvelle-Calédonie, de Polynésie française et de Wallis et Fututna à la date d'entrée en
+vigueur de l'ordonnance du 28 septembre, sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -4385,10 +4401,13 @@ de l'article 14 de ladite loi, que sur avis conforme du ministre chargé des aff
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du domaine de l'Etat - art. L14 (V)
-	  - Loi n°1913-12-31 art. 2, art. 14
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -4400,30 +4419,49 @@ de l'article 14 de ladite loi, que sur avis conforme du ministre chargé des aff
 
 	  - Code général de la propriété des personnes publiqu - art. L2222-13 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 4
+	  - Code civil - art. 900-4 (M)
 
 
 ###### Article R26
 
-Aucune restitution de libéralités ni réduction ou modification d'affectation des charges d'une libéralité ne peut intervenir
-avant l'expiration d'un délai de cinq ans à compter de l'acceptation du don ou du legs, à moins que le disposant ou ses
-ayants droit n'y consentent expressément.
+La restitution des libéralités peut être décidée dans les mêmes cas que ceux qui sont prévus pour la révision.
 
-Passé ce délai, il ne peut être procédé auxdites restitutions, réductions de charges ou modifications d'affectation des
-charges qu'après que l'auteur de la libéralité ou ses ayants droit aient été invités à présenter leurs observations dans les
-conditions indiquées aux articles R. 28 et R. 29.
+La restitution porte sur la totalité des biens originairement compris dans la libéralité qui se retrouvent en nature à la
+date de l'arrêté interministériel prévu à l'article L. 14 ; elle s'étend en outre au produit net des aliénations effectuées
+avant cette même date. Le disposant ou ses ayants droit reprennent les biens restitués en l'état où ils se trouvent.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2006-460 du 21 avril 2006, ces dispositions abrogées en vertu du III de
+l'article 7 restent en vigueur en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles
+Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences en matière domaniale
+des collectivités de Nouvelle-Calédonie, de Polynésie française et des îles Wallis et Futuna à la date d'entrée en vigueur de
+la présente ordonnance.
+
+Aux termes du 1° de l'article 10 de l'ordonnance n° 2016-1255 du 28 septembre 2016, ces dispositions, en tant qu'elles
+s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Wallis et Futuna, sous réserve des compétence en matière
+domaniale des collectivités de Nouvelle-Calédonie, de Polynésie française et de Wallis et Fututna à la date d'entrée en
+vigueur de l'ordonnance du 28 septembre, sont abrogées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L14 (V)
 
 	**Cité par**:
 
@@ -4431,38 +4469,17 @@ conditions indiquées aux articles R. 28 et R. 29.
 	  - Code du domaine de l'Etat - art. R37 (M)
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code du domaine de l'Etat - art. R28 (M)
-	  - Code du domaine de l'Etat - art. R29 (M)
-
-	**Modifié par**:
-
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 5
+	  - Code général de la propriété des personnes publiqu - art. L2222-12 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2222-15 (V)
 
 
 ###### Article R27
 
-Les dossiers de demandes en restitution de libéralités et en réduction ou modifications d'affectation des charges de
-libéralités sont instruits à la diligence du ministre compétent et doivent contenir les pièces suivantes :
-
-1° Copie certifiée conforme des actes par lesquels ont été consenties les libéralités et, le cas échéant, des actes
-ultérieurs qui ont modifié les dispositions initiales, ainsi que des arrêtés ou décrets portant acceptation de ces
-libéralités.
-
-2° Note précisant le montant des revenus des libéralités et celui des charges correspondantes depuis l'origine de la
-libéralité, si celle-ci remonte à moins de dix ans et, dans le cas contraire, pendant les dix dernières années.
-
-3° Indication des conditions dans lesquelles sont envisagées les restitutions, réductions ou modifications d'affectation.
-
-4° Avis favorable des ministres de la justice et des finances et, dans le cas prévu à l'article R. 25, dernier alinéa, du
-ministre chargé des affaires culturelles.
-
-3° Dans le cas où l'auteur de la libéralité est décédé, liste de ses ayants droit connus.
+Par dérogation au deuxième alinéa de l'article R. 26, la restitution peut ne pas porter sur les immeubles classés monuments
+historiques ou inscrits à l'inventaire supplémentaire prévu à l'article 2 de la loi du 31 décembre 1913 susvisée, ou sur les
+meubles classés en vertu de l'article 14 de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -4470,9 +4487,14 @@ ministre chargé des affaires culturelles.
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R25 (M)
+	  - Code du domaine de l'Etat - art. R26 (M)
+	  - Loi n°1913-12-31 art. 2, art. 14
 
 	**Cité par**:
 
@@ -4485,36 +4507,33 @@ ministre chargé des affaires culturelles.
 
 	  - Code général de la propriété des personnes publiqu - art. L2222-16 (V)
 
-	**Modifié par**:
-
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 6, art. 7
-
 
 ###### Article R28
 
-Lorsque l'adresse du disposant ou de ses ayants droit est connue, les réductions ou modifications envisagées ou le projet de
-restitution sont portés à leur connaissance par le préfet du département du dernier domicile ou de la dernière résidence
-connus en France du disposant ou, à défaut, par le préfet de l'un des lieux où les biens sont situés ou détenus.
+La révision ou la restitution n'est possible qu'après que le disposant ou, s'il est décédé, ses ayants droit ont été informés
+du projet et ont reçu communication d'une note précisant le montant des revenus des libéralités et de celui des charges
+correspondantes depuis l'origine de la libéralité, si celle-ci remonte à moins de dix ans ou, dans le cas contraire, pendant
+les dix dernières années, ainsi que les conditions dans lesquelles sont envisagées les restitution ou révision.
 
-Le préfet impartit au disposant ou à ses ayants droit un délai d'un mois pour prendre connaissance du dossier à la préfecture
-et faire connaître par écrit leur adhésion ou leur opposition sauf à formuler, le cas échéant, toutes observations ou
-propositions qui leur paraîtraient opportunes.
+**Nota:**
 
-Les intéressés peuvent toutefois, s'ils justifient d'une difficulté à se déplacer obtenir l'envoi à leur adresse d'une copie
-des pièces énoncées à l'article R. 27 (1°, 2° et 3°).
-
-Les diverses communications prévues aux alinéas ci-dessus sont faites par lettre recommandée avec demande d'avis de
-réception.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -4522,17 +4541,9 @@ réception.
 	  - Code du domaine de l'Etat - art. R39 (M)
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code du domaine de l'Etat - art. R27 (M)
-
-	**Modifié par**:
-
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 8
+	  - Code général de la propriété des personnes publ... - art. R2222-21 (V)
 
 
 ###### Article R29
@@ -4578,17 +4589,19 @@ prendre connaissance du dossier à la préfecture, exprimer leur adhésion ou le
 
 ###### Article R30
 
-Les arrêtés interministériels prévus aux articles L. 13 et L. 14 sont signés par le ministre intéressé et par les ministres
-de la justice et des finances.
+Les arrêtés interministériels prévus aux articles L. 12 et L. 14 sont signés par le ministre de la justice, le ministre
+chargé du domaine et par le ministre qui a qualité pour exécuter les charges ou conditions dont est assortie la libéralité.
+Lorsque la libéralité comprend des biens mentionnés à l'article R. 27, les arrêtés sont également signés par le ministre
+chargé des monuments historiques.
 
-Les décrets prévus à l'article L. 13 sont pris, après avis du Conseil d'Etat, sur le rapport des ministres désignés à
-l'alinéa précédent.
+Ces arrêtés sont publiés au Journal officiel. Ils sont en outre notifiés individuellement aux personnes intéressées dont
+l'adresse est connue.
 
-Les décrets et arrêtés sont publiés au Journal officiel. Ils sont en outre notifiés individuellement aux personnes
-intéressées dont l'adresse est connue.
+**Nota:**
 
-Les arrêtés de restitution doivent mentionner, par référence aux articles R. 32 à R. 35, les modalités de remise aux ayants
-droit et de liquidation éventuelle des biens compris dans la libéralité.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -4596,23 +4609,27 @@ droit et de liquidation éventuelle des biens compris dans la libéralité.
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L13 (Ab)
-	  - Code du domaine de l'Etat - art. L14 (V)
-	  - Code du domaine de l'Etat L13, L14, R32 à R35
+	  - Code du domaine de l'Etat - art. L12
+	  - Code du domaine de l'Etat - art. L14
+	  - Code du domaine de l'Etat - art. R27
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R38 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1901-12-24 art. 1
+	  - Code général de la propriété des personnes publ... - art. R2222-23 (V)
 
 
 ###### Article R31
@@ -4643,16 +4660,22 @@ prononcé la réduction ou la modification des charges et dans les mêmes formes
 
 ###### Article R32
 
-La restitution des biens compris dans une libéralité est constatée par un procès-verbal établi par le directeur des impôts
-chargé des questions domaniales dans le département du lieu de situation des immeubles donnés ou légués. Toutefois, lorsque
-ces immeubles sont situés dans les départements différents ou lorsque la libéralité ne comporte que des biens meubles, le
-directeur compétent est spécialement désigné par le ministre des finances.
+La restitution des biens compris dans une libéralité est constatée par un procès-verbal établi par le directeur des services
+fiscaux du lieu de situation des immeubles donnés ou légués. Toutefois, lorsque ces immeubles sont situés dans des
+départements différents ou lorsque la libéralité ne comporte que des biens meubles, le directeur compétent est spécialement
+désigné par le ministre chargé du domaine.
 
 Ce procès-verbal est signé par le préfet du département et par le disposant ou ses ayants droit qui acceptent la restitution.
-Il y est annexé un inventaire des biens restitués, et un état des sommes et titres versés à la caisse des dépôts et
+Il y est annexé un inventaire des biens restitués, et un état des sommes et titres versés à la Caisse des dépôts et
 consignations en application de l'article L. 14.
 
 S'il y a plusieurs ayants droit, les biens sont restitués à celui ou à ceux d'entre eux qui en acceptent la remise.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -4660,37 +4683,40 @@ S'il y a plusieurs ayants droit, les biens sont restitués à celui ou à ceux d
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 1 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L14 (V)
+	  - Code du domaine de l'Etat - art. L14
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R34 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1896-02-01 art. 3
+	  - Code général de la propriété des personnes publ... - art. R2222-24 (V)
 
 
 ###### Article R33
 
 Si le disposant ou tous ses ayants droit sont restés inconnus ou inactifs, s'ils ont refusé de signer le procès-verbal de
 restitution, ou si malgré cette signature les meubles n'ont pu faire l'objet d'une remise effective, la gestion des biens est
-confiée au directeur des impôts visé à l'article précédent par une ordonnance rendue à la requête du préfet par le président
-du tribunal de grande instance dans le ressort duquel se trouve le siège de la direction des impôts appelée à gérer les
-biens.
+confiée au directeur des services fiscaux visé à l'article précédent par une ordonnance rendue à la requête du préfet par le
+président du tribunal de grande instance dans le ressort duquel se trouve le siège de la direction des service fiscaux
+appelée à gérer les biens.
 
 La requête est introduite au plus tard six mois après la date de publication au Journal officiel de l'arrêté de restitution.
 
-L'ordonnance du président du tribunal est signifiée au disposant ou à ses ayants droit dont l'adresse est connue.
-
-Dans le cas contraire, la signification est faite conformément aux dispositions des articles 69 8° et 158 2 du code de
-procédure civile ; en outre l'ordonnance est alors publiée par extrait au Journal officiel.
+L'ordonnance du président du tribunal est signifiée au disposant ou à ses ayants droit dont l'adresse est connue. Dans le cas
+contraire, la signification est faite conformément aux dispositions de l'article 659 du nouveau code de procédure civile ; en
+outre l'ordonnance est alors publiée par extrait au Journal officiel.
 
 La remise des biens aux domaines par l'administration détentrice est constatée par un procès-verbal dressé
 contradictoirement.
@@ -4701,17 +4727,9 @@ contradictoirement.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
-
-	  - Code de procédure civile 69, 158
-
 	**Modifié par**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1896-02-01 art. 4
+	  - Décret n°88-138 1988-02-10 art. 1 JORF 12 février 1988
 
 
 ###### Article R34
@@ -4860,13 +4878,22 @@ comptes des trois derniers exercices écoulés.
 
 ###### Article R37
 
-Les dispositions des articles R. 24 et R. 26 sont applicables aux demandes en réduction des charges résultant de libéralités
-faites au profit d'établissements publics à caractère national ainsi qu'aux demandes en modification d'affectation des
-charges résultant de libéralités faites à des établissements publics de l'Etat, autres que des établissements publics
-d'assistance ou de bienfaisance.
+Les dispositions des articles R. 25 à R. 27 sont applicables aux demandes de restitution des libéralités consenties aux
+établissements publics de l'Etat et aux demandes en révision des conditions et charges grevant les libéralités consenties aux
+établissements publics de l'Etat autres que les établissements hospitaliers.
 
-Les dispositions des articles R. 25 et R. 26 sont applicables aux demandes en restitution des libéralités faites aux
-établissements publics de l'Etat autres que les établissements d'assistance ou de bienfaisance.
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2006-460 du 21 avril 2006, ces dispositions abrogées en vertu du III de
+l'article 7 restent en vigueur en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, dans les îles
+Wallis et Futuna et dans les Terres australes et antarctiques françaises, sous réserve des compétences en matière domaniale
+des collectivités de Nouvelle-Calédonie, de Polynésie française et des îles Wallis et Futuna à la date d'entrée en vigueur de
+la présente ordonnance.
+
+Aux termes du 1° de l'article 10 de l'ordonnance n° 2016-1255 du 28 septembre 2016, ces dispositions, en tant qu'elles
+s'appliquent en Nouvelle-Calédonie, en Polynésie française et à Wallis et Futuna, sous réserve des compétence en matière
+domaniale des collectivités de Nouvelle-Calédonie, de Polynésie française et de Wallis et Fututna à la date d'entrée en
+vigueur de l'ordonnance du 28 septembre, sont abrogées.
 
 **Liens relatifs à cet article**
 
@@ -4874,27 +4901,25 @@ Les dispositions des articles R. 25 et R. 26 sont applicables aux demandes en re
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du domaine de l'Etat - art. R24 (M)
-	  - Code du domaine de l'Etat - art. R25 (M)
-	  - Code du domaine de l'Etat - art. R26 (M)
+	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R38 (V)
 
+	**Cite**:
+
+	  - Code du domaine de l'Etat R25 à R27
+
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L2222-17 (V)
-
-	**Modifié par**:
-
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 3
 
 
 ###### Article R38
@@ -4959,11 +4984,11 @@ prendre connaissance du dossier et à formuler leur avis dans les conditions pr�
 
 ###### Article R40
 
-Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses ayants droit sont inconnues, le préfet fait
-publier les mesures envisagées dans les conditions prévues à l'article R. 29, une affiche devant en outre être apposée à la
-mairie du lieu de situation de l'établissement.
+Si un même testament contient des libéralités distinctes à diverses personnes administratives, les autorités qualifiées se
+prononcent séparément sur l'acceptation de chaque libéralité lorsqu'aucune réclamation des héritiers ne s'est produite dans
+les délais fixés par les articles R. 22 et R. 23.
 
-Les intéressés peuvent faire connaître leur avis dans les conditions prévues par le dernier alinéa de l'article R. 29.
+Dans le cas contraire, un seul décret en Conseil d'Etat statue sur l'acceptation des diverses libéralités.
 
 **Liens relatifs à cet article**
 
@@ -4971,38 +4996,35 @@ Les intéressés peuvent faire connaître leur avis dans les conditions prévues
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 3, art. 4 JORF 12 février 1988
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R29 (M)
+	  - Code du domaine de l'Etat - art. R22 (M)
+	  - Code du domaine de l'Etat - art. R23 (M)
 
 	**Anciens textes**:
 
 	  - Code du domaine de l'Etat - art. R44 (Ab)
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 6
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
 
 ###### Article R41
 
-La réduction des charges grevant une libéralité faite à un établissement public national d'assistance ou de bienfaisance
-ainsi que la réduction ou la modification de l'affectation des charges grevant une libéralité faite à un établissement public
-national autre qu'un établissement d'assistance ou de bienfaisance sont autorisées par arrêté interministériel du ministre de
-tutelle, du ministre de la justice et du ministre des finances, lorsque l'auteur de la libéralité ou ses ayants droit ont
-donné leur accord.
+Lorsqu'une libéralité est assortie d'une charge stipulée au profit d'un tiers personnellement désigné, celui-ci est consulté,
+si son adresse est connue, dans les mêmes conditions que l'auteur de la libéralité sur tout projet de révision de la charge
+dont il bénéficie ou de restitution de la libéralité.
 
-S'il y a désaccord entre l'établissement gratifié et l'auteur de la libéralité ou ses ayants droit, la mesure envisagée doit
-être prise par décret en Conseil d'Etat, pris sur le rapport des mêmes ministres.
+**Nota:**
 
-La restitution des dons et legs faits à des établissements publics de l'Etat autres que les établissements publics
-d'assistance ou de bienfaisance est dans tous les cas autorisée par un arrêté ministériel pris dans les conditions indiquées
-à l'alinéa 1er.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -5012,15 +5034,15 @@ d'assistance ou de bienfaisance est dans tous les cas autorisée par un arrêté
 
 	**Modifié par**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+	  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
 
 	**Abrogé par**:
 
-	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 fevrier 1988
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 7
+	  - Code général de la propriété des personnes publ... - art. R2222-30 (V)
 
 
 ###### Article R42
