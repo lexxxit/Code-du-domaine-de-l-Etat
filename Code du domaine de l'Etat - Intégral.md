@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-04-05
 
 # Partie législative
 
@@ -17304,6 +17304,22 @@ Lorsque le prix excède 500000 F, l'opération doit être approuvée par le mini
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L69 (M)
+
+
+###### Article A115-1
+
+Pour l'application des dispositions de l'article L. 69-1, la valeur vénale unitaire des biens mobiliers pouvant être cédés
+gratuitement est fixée à 10000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L69-1 (M)
 
 
 ###### Article A116
