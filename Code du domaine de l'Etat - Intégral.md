@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1973-06-29
+Version Consolidée au 1973-08-10
 
 # Partie législative
 
@@ -10214,6 +10214,103 @@ bénéficier des présentes dispositions sont déchus de plein droit de leur con
 
 	  - Code du domaine de l'Etat - art. D28 (Ab)
 	  - Code du domaine de l'Etat - art. D29 (Ab)
+
+
+###### Article D31-1
+
+Les concessions d'immeubles domaniaux dont l'octroi aux communes du département de la Guyane est autorisé par l'article L.
+91, deuxième alinéa, sont accordées par arrêté conjoint du ministre des finances et du ministre chargé des départements
+d'outre-mer, sur la proposition du préfet formulée après avis du directeur des services fiscaux et de la commission
+départementale des opérations immobilières, de l'architecture et des espaces protégés.
+
+Les arrêtés, auxquels sont annexés un plan et un état de consistance, précisent la destination d'intérêt général assignée par
+la commune attributaire à chaque immeuble ou ensemble immobilier concédé ; ils sont publiés au Journal officiel.
+
+Les immeubles concédés doivent, sous réserve des autorisations ultérieures de changement d'affectation ou d'aliénation
+prévues à l'article D. 31-2, recevoir obligatoirement la destination assignée dans l'arrêté de concession, sous peine de
+résolution de la concession.
+
+Les communes bénéficiaires doivent justifier devant le préfet de l'accomplissement des travaux d'intérêt général et de
+l'utilisation des immeubles. Le service des domaines vérifie les justifications produites, contrôle l'état d'accomplissement
+des travaux et la conformité de l'utilisation des immeubles.
+
+Les concessions sont consenties pour une durée de dix années, sauf application, le cas échéant, des dispositions de l'article
+D. 31-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°73-783 1973-08-04 art. 1 JORF 10 août 1973
+
+	**Abrogé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. D31-2 (Ab)
+	  - Code du domaine de l'Etat - art. L91 (Ab)
+	  - Code du domaine de l'Etat L91, annexe, D31-2, D31-3
+
+
+###### Article D31-2
+
+Les biens concédés aux communes se répartissent en deux catégories :
+
+1° Immeubles bâtis ou non bâtis affectés à des services ou usages publics :
+
+2° Terrains dont les Bonis et les tribus indiennes autochtones ont la jouissance en nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°73-783 1973-08-04 art. 1 JORF 10 août 1973
+
+	**Abrogé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. D31-1 (Ab)
+
+
+###### Article D32
+
+Toutes les instances auxquelles donnent lieu les concessions sont suivies par le service des domaines dans les conditions
+fixées par la législation domaniale en vigueur et notamment par les articles L. 80 à L. 84 et R. 158 à R. 162.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-18 1961-01-10 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°73-783 1973-08-04 art. 2 JORF 10 août 1973
+
+	**Abrogé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat L80 à L84, R158 à R162
 
 
 #### Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.
