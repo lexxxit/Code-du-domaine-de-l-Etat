@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-09-11
 
 # Partie législative
 
@@ -10560,7 +10560,17 @@ ou culturel ;
 
 4° Immeubles acquis en vue de la réalisation ultérieure d'opérations d'urbanisme ou d'aménagement de toute nature ;
 
-5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions prévues aux articles R. 169 à R. 169-3.
+5° Immeubles compris dans la zone définie à l'article L. 87, dans les conditions prévues aux articles R. 169 à R. 169-3 ;
+
+6° Immeubles militaires compris dans un site ayant fait l'objet d'une décision de restructuration prise par le ministre de la
+défense en application d'une loi de programmation militaire lorsque leur cession à la valeur estimée par le service des
+domaines n'est pas possible.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -10570,18 +10580,28 @@ ou culturel ;
 
 	**Modifié par**:
 
-	  - Décret n°89-734 1989-10-13 art. 1 JORF 14 octobre 1989
+	  - Décret n°97-833 du 4 septembre 1997 - art. 1 () JORF 11 septembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L51-1 (V)
-	  - Code du domaine de l'Etat - art. L87 (M)
-	  - Code du domaine de l'Etat L51-1, L87, R169 à R169-3
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. L51-1
+	  - Code du domaine de l'Etat - art. L87
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R128-3 (Ab)
 	  - Code du domaine de l'Etat - art. R128-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L2123-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-8 (V)
 
 
 ###### Article R128-2
@@ -10632,15 +10652,42 @@ l'Etat par le ministre chargé du domaine, sur proposition du ministre affectata
 convention peut prévoir que des conventions annexes seront signées par les représentants du ministre chargé du domaine dans
 les départements ou pays où sont situés les immeubles concernés.
 
+Lorsqu'elle porte sur un immeuble militaire visé au 6 de l'article R. 128-1, la convention de gestion est également signée
+par le ministre de la défense ou son représentant.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°97-833 du 4 septembre 1997 - art. 2 () JORF 11 septembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R128-1
+
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R169 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. L2123-2 (M)
+	  - Code général de la propriété des personnes publ... - art. R2123-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-9 (V)
 
 
 ###### Article R128-4
@@ -10729,8 +10776,9 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R128-6
 
-Les revenus de toute nature produits par les immeubles visés dans la convention et que le gestionnaire est autorisé à
-percevoir sont affectés, par ordre de priorité, aux seules opérations suivantes :
+I. - Les revenus de toute nature produits par les immeubles énumérés aux points 1 à 5 de l'article R. 128-1 visés dans la
+convention et que le gestionnaire est autorisé à percevoir sont affectés, par ordre de priorité, aux seules opérations
+suivantes :
 
 1° Acquitter, dans la mesure où ils ont été mis à sa charge par la convention, les dépenses de gestion ou d'aménagement
 afférentes aux immeubles ainsi que les impôts et taxes qui les grèvent ou qui sont dus à raison de leur exploitation ;
@@ -10741,14 +10789,35 @@ afférentes aux immeubles ainsi que les impôts et taxes qui les grèvent ou qui
 
 Le solde est versé chaque année à l'Etat.
 
-Le gestionnaire remet au représentant du ministre chargé du domaine, un compte rendu de gestion établi dans les conditions
-prévues par la convention et tient à sa disposition les pièces justificatives jugées nécessaires.
+II. - Les revenus de toute nature produits par les immeubles militaires visés au 6 de l'article R. 128-1 et que le
+gestionnaire est autorisé à percevoir sont affectés, par ordre de priorité, aux opérations suivantes :
+
+1° Acquitter les dépenses de conservation de l'immeuble ;
+
+2° Régler les impôts et taxes qui le grèvent ou qui sont dus à raison de son exploitation ;
+
+3° Rechercher des possibilités de réutilisation de l'immeuble dans l'intérêt de l'économie locale ;
+
+4° Réaliser les opérations, non énumérées ci-dessus, mais mentionnées au paragraphe I.
+
+Le solde est versé chaque année à l'Etat.
+
+III. - Le gestionnaire remet au représentant du ministre chargé du domaine un compte rendu de gestion établi dans les
+conditions prévues par la convention et tient à sa disposition les pièces justificatives jugées nécessaires. Pour les
+immeubles militaires visés au 6 de l'article R. 128-1, le compte rendu de gestion est également remis au représentant du
+ministre de la défense.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Cité par**:
 
@@ -10757,6 +10826,27 @@ prévues par la convention et tient à sa disposition les pièces justificatives
 	  - Code du domaine de l'Etat - art. R169-1 (Ab)
 	  - Code du domaine de l'Etat - art. R169-2 (Ab)
 	  - Code du patrimoine. - art. R141-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°97-833 du 4 septembre 1997 - art. 3 () JORF 9 septembre 1997
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R128-1
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2123-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-6 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-7 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-12 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-13 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-14 (V)
 
 
 ###### Article R128-7
