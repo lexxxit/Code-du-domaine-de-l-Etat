@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1978-03-25
 
 # Partie législative
 
@@ -11245,6 +11245,33 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.
 
 ##### Paragraphe 1 : Dispositions générales.
+
+###### Article A01
+
+Les chiffres limites visés aux articles R. 3 à R. 5 sont fixés comme il suit :
+
+1° Article R. 3 : 30000 F.
+
+2° Article R. 4 : 100000 F.
+
+3° Article R. 5 : 100000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1975-10-07 art. 1, art. 2, art. 3 JORF 6 novembre 1975
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R3 (V)
+	  - Code du domaine de l'Etat - art. R4 (V)
+	  - Code du domaine de l'Etat R3 à R5, R3, R4
+
 
 ###### Article A02
 
