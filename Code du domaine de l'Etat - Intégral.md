@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-02-03
 
 # Partie législative
 
@@ -12042,6 +12042,89 @@ résultant du titre de l'autorisation ou de la concession.
 
 ##### A) Arrêtés individuels.
 
+###### Article A40
+
+Les demandes pour extractions sur le domaine public maritime de sables, terres, pierres, galets ou de tous matériaux et
+produits autres que les amendements marins sont soumises à une première instruction de la part du chef du service maritime.
+
+Les demandes pour extractions dans le lit des cours d'eau domaniaux de sables, graviers, pierres ou de tous autres matériaux
+sont soumises à une première instruction de la part du chef du service chargé de la police des eaux de ces cours d'eau.
+
+Ces chefs de service examinent si les permissions sollicitées peuvent être accordées sans inconvénient. Dans la négative, la
+décision de rejet est prise par l'autorité définie à l'article R. 53.
+
+Dans l'affirmative, et pour les extractions dans le lit des cours d'eau domaniaux, les chefs de service recueillent :
+
+L'avis du directeur départemental de l'agriculture s'il s'agit d'un cours d'eau non canalisé et si le chef de service chargé
+de la police des eaux est un chef de service de la navigation ou un directeur départemental de l'équipement ;
+
+L'avis du directeur départemental de l'équipement ou du chef du service de la navigation si le chef de service chargé de la
+police des eaux est le directeur départemental de l'agriculture ;
+
+Les chefs de service chargés de la première instruction formulent les conditions à prescrire au point de vue de la
+conservation et de la police du domaine public maritime ou fluvial comme à celui de toute autre convenance du service qui
+leur est confié.
+
+Ils présentent en outre des propositions relativement aux prix qu'il conviendrait de fixer.
+
+Lorsqu'ils estiment que les extractions doivent être favorables soit à la conservation du rivage ou au maintien des passes
+d'entrée aux ports, soit au maintien du chenal, ou à tout autre intérêt public dont la sauvegarde leur est confiée, ils
+examinent si ces extractions ne doivent pas être autorisées moyennant un prix réduit ou à titre gratuit. Ils présentent des
+propositions motivées à cet égard.
+
+Dans les cas prévus par les règlements sur les travaux mixtes, les chefs de service se conforment aux prescriptions de ces
+règlements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1977-01-18 art. 1 JORF 3 février 1977
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A46 (V)
+	  - Code du domaine de l'Etat - art. A48 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R53 (M)
+
+
+###### Article A42
+
+Lorsqu'il y a accord entre les représentants de tous les services intéressés, l'autorisation d'opérer les extractions est
+accordée par l'autorité définie à l'article R. 53.
+
+Lorsque cet accord n'existe pas, l'affaire est soumise à l'administration supérieure pour y être statuée par le ministre de
+l'économie et des finances et par le ministre de l'équipement ouet le ministre de l'agriculture, selon leur compétence
+respective.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1977-01-18 art. 2 JORF 3 février 1977
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A45 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R53 (M)
+
+
 ###### Article A43
 
 En cas de dissentiment entre ces ministres sur la question de savoir si des extractions doivent ou non être autorisées à
@@ -12130,6 +12213,99 @@ règlement est toujours susceptible d'être revisé sur demande faite par l'un d
 	  - Code du domaine de l'Etat - art. A42 (V)
 	  - Code du domaine de l'Etat - art. A43 (V)
 	  - Code du domaine de l'Etat - art. R53 (M)
+
+
+###### Article A46
+
+Lorsque les demandes en autorisation d'extraction entrent dans les prévisions du règlement de police pris en exécution de
+l'article précédent, le service chargé de la première instruction visé à l'article A. 40 le constate, sans consultation
+préalable des autres services, par la délivrance d'un récépissé où sont reproduits in extenso les prix et conditions
+générales fixés par ledit règlement et les conditions particulières applicables dans l'espèce.
+
+Ce récépissé est rédigé en double exemplaire : le premier est adressé immédiatement au directeur des services fiscaux,
+l'autre au comptable des impôts chargé de le remettre, après paiement du prix stipulé et de la taxe forfaitaire, à
+l'intéressé qui peut alors seulement commencer les extractions.
+
+Le service chargé de la première instruction informe l'intéressé de la transmission du récépissé au comptable des impôts
+auprès duquel il l'invite à retirer cette pièce.
+
+Avis de la délivrance du récépissé est donné à l'administration des affaires maritimes en cas d'extraction sur le domaine
+public maritime, et dans les autres cas, s'il y a lieu, à ce même fonctionnaire, au directeur départemental de l'équipement,
+au directeur départemental de l'agriculture et au directeur du génie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1977-01-18 art. 3 JORF 3 février 1977
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A40 (V)
+
+
+##### C) Dispositions communes.
+
+###### Article A47
+
+Les autorisations d'extraire des matériaux du domaine public maritime ou fluvial sont accordées après appel à la concurrence
+chaque fois que le directeur des services fiscaux estime, sur avis technique conforme du chef du service chargé de la
+première instruction, que cette procédure est favorable à une meilleure exploitation du lot considéré. L'opération a lieu
+selon les règles tracées par les articles A. 107 et A. 116.
+
+Les conditions d'exploitation imposées à l'acquéreur sont énoncées dans un cahier des charges particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1977-01-18 art. 4 JORF 3 février 1977
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A107 (M)
+	  - Code du domaine de l'Etat - art. A116 (M)
+
+
+###### Article A48
+
+Les autorisations auxquelles s'appliquent les articles A. 40 à A. 47 sont accordées à titre précaire et elles sont
+révocables, sans indemnité, à la première réquisition de l'administration. 
+
+Le retrait des permissions est prononcé par l'autorité définie à l'article R. 53. Dans le cas où cette décision est de la
+compétence du préfet, elle est prise sur proposition du chef de service chargé de la première instruction visée à l'article
+A. 40. Toutefois, en cas de désaccord entre les services intéressés, la décision est prise par le ministre de l'équipement ou
+le ministre de l'agriculture.
+
+La révocation des permissions peut être prononcée soit à la demande du directeur des services fiscaux pour inexécution des
+conditions financières, soit à la demande du chef du service chargé de la première instruction visée à l'article A. 40 en cas
+d'inexécution de toutes autres conditions, sans préjudice, s'il y a lieu, des poursuites pour contravention de grande voirie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A40 (V)
+	  - Code du domaine de l'Etat - art. R53 (M)
+	  - Code du domaine de l'Etat A40 à A47, R53, A40
 
 
 ##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.
