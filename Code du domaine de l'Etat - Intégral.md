@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1986-01-04
+Version Consolidée au 1986-02-11
 
 # Partie législative
 
@@ -16292,6 +16292,55 @@ service autre que le service affectataire des objets et matériels momentanémen
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
+
+
+###### Article A102
+
+La location amiable de biens mobiliers du domaine privé est constatée par une convention préparée par le directeur des
+services fiscaux qui fixe les conditions financières de l'opération. Cette convention est conclue par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A116-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2222-6 (V)
+
+
+###### Article A103
+
+La mise des biens mobiliers du domaine privé à la disposition d'un service autre que le service affectataire est constatée
+par un procès-verbal dressé par le directeur des services fiscaux qui fixe les conditions financières de l'opération. Ce
+procès-verbal est approuvé par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A116-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2222-6 (V)
 
 
 ###### Article A104
