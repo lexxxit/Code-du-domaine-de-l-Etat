@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1983-02-22
+Version Consolidée au 1983-06-01
 
 # Partie législative
 
@@ -16137,6 +16137,70 @@ conditions prévues à l'article A. 119.
 
 
 ## Livre IV : Dispositions diverses
+
+### Titre IV : Dispositions spéciales aux départements d'outre-mer.
+
+#### Chapitre V : Concessions de logements.
+
+###### Article A120-1
+
+Les dispositions de l'article A. 92 sont applicables dans les cas visés à l'article D. 35.
+
+Toutefois, pour les personnels militaires, le pourcentage d'abattement tenant compte de l'obligation de loger dans les locaux
+concédés est fixé dans tous les cas à 10 % de la valeur locative, sans préjudice de la majoration de 3 % applicable lorsque
+les locaux sont particulièrement éloignés du centre de la localité.
+
+En outre, pour les mêmes personnels, le pourcentage d'abattement tenant compte des charges anormales que la concession fait
+supporter à son bénéficiaire comprend, outre le pourcentage de 0 à 18 % prévu à l'article A. 92, un pourcentage
+supplémentaire de 20 % lorsque l'obligation faite à l'agent logé de rejoindre son lieu d'affectation sans son mobilier le
+contraint à conserver un logement dans la métropole ou à placer ce mobilier dans un garde-meubles.
+
+L'abattement total ne peut toutefois, en aucun cas, excéder 50 % de la valeur locative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Créé par**:
+
+	  - Arrêté 1983-06-01 art. 1, art. 3 JORF 20 juin 1983 en vigueur le 1er juin 1983
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A121 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A92 (V)
+	  - Code du domaine de l'Etat - art. D35 (V)
+
+
+###### Article A121
+
+Les dispositions des articles A. 93-1 à A. 93-8 sont applicables dans les départements de la Guadeloupe, de la Guyane
+française, de la Martinique et de la Réunion.
+
+Toutefois, pour le calcul de l'abattement prévu à l'article R. 100, il est fait application, en ce qui concerne les
+personnels militaires, des dispositions des deuxième, troisième et quatrième alinéas de l'article A. 120-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1983-06-01 art. 2, art. 3 JORF 8 juin 1983 en vigueur le 1er juin 1983
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A120-1 (V)
+	  - Code du domaine de l'Etat - art. R100 (V)
+	  - Code du domaine de l'Etat A93-1 à A93-8, R100, A120-1
+
 
 ### Titre V : Dispositions particulières et finales.
 
