@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1969-02-10
+Version Consolidée au 1969-03-19
 
 # Partie législative
 
@@ -4586,6 +4586,41 @@ des opérations immobilières.
 #### Chapitre Ier : Domaine immobilier
 
 ##### Section 1 : Dispositions générales.
+
+###### Article R130
+
+Lorsqu'il est procédé, en vertu des lois ou règlements spéciaux, à la cession amiable d'immeubles domaniaux ou de droits
+immobiliers appartenant à l'Etat, le prix en est fixé par le directeur départemental des impôts chargé du domaine et
+l'aliénation est consentie par le préfet, quelle que soit la valeur des biens décés.
+
+A défaut d'accord amiable, le prix est fixé comme en matière d'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L85
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R139 (M)
+	  - Code du domaine de l'Etat - art. R146 (M)
+	  - Code du domaine de l'Etat - art. R147 (Ab)
+	  - Code du domaine de l'Etat - art. R148 (M)
+	  - Code du domaine de l'Etat - art. R170-54 (Ab)
+
 
 ###### Article R131
 
