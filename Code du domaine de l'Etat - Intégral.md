@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1969-02-07
+Version Consolidée au 1969-02-10
 
 # Partie législative
 
@@ -7745,6 +7745,56 @@ publicité et concurrence et à 4 % en cas de cession amiable.
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. A113 (M)
+
+
+###### Article A115
+
+La cession amiable, dans le cas où elle est autorisée par l'article L. 69 (3ème alinéa), est constatée au moyen d'une
+soumission, approuvée par le préfet. Le prix est fixé par le directeur départemental des impôts chargé du domaine.
+
+Lorsque le prix excède 500000 F, l'opération doit être approuvée par le ministre des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A116-1 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L69 (M)
+
+
+###### Article A116
+
+La cession de matériel à un autre service de l'Etat est constatée par un procès-verbal dressé par le directeur départemental
+des impôts chargé du domaine, qui fixe le prix de cession sur estimation contradictoire ou après expertise. Le procès-verbal,
+signé par les représentants des services cédants et cessionnaires, est approuvé par le préfet.
+
+Lorsque le prix de cession excède 500000 F, l'opération doit être approuvée par le ministre des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A116-1 (V)
+	  - Code du domaine de l'Etat - art. A47 (V)
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.
