@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1980-09-18
+Version Consolidée au 1981-02-18
 
 # Partie législative
 
@@ -11937,6 +11937,90 @@ quelle que soit la nature des biens, les avis prévus par les articles R. 3 à R
 	  - Code du domaine de l'Etat R3 à R5
 
 
+###### Article A03
+
+I. - Les limites minimales de consultation des commissions départementales pour l'examen des projets visés à l'article R. 10
+sont fixées comme il suit, sous réserve des dispositions du II ci-après :
+
+1° Article R. 10 (1°) : 30000 F.
+
+2° Article R. 10 (2°) : 100000 F.
+
+3° Article R. 10 (3°) : 100000 F.
+
+4° Article R. 10 (4°) :
+
+a) Projets concernant les établissements d'enseignement des premier et second degrés, les écoles normales et les écoles
+nationales de perfectionnement : 2000000 F.
+
+b) Projets concernant les équipements sportifs et socio-éducatifs : 2000000 F.
+
+c) Tous autres projets, à l'exception de ceux visés à l'article A. 04 (4° a et b)) qui relèvent uniquement de la compétence
+des commissions régionales : 5000000 F.
+
+II. - Pour les projets dont la réalisation est poursuivie sur le territoire de la ville de Paris, les limites minimales
+fixées au I sont portées aux chiffres suivants :
+
+1° : 40000 F.
+
+2° et 3° : 400000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A04 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R10 (V)
+
+
+###### Article A04
+
+Les limites minimales de consultation des commissions régionales pour l'examen des projets visés à l'article R. 10 sont
+fixées aux chiffres suivants :
+
+1° Article R. 10 (1°) : 300000 F.
+
+2° Article R. 10 (2°) : 3000000 F.
+
+3° Article R. 10 (3°) : 3000000 F.
+
+4° Article R. 10 (4°) :
+
+a) Projets relevant du ministère de la défense : 10000000 F.
+
+b) Projets poursuivis par le secrétariat d'Etat aux postes et télécommunications et à la télédiffusion lorsqu'ils concernent
+les ouvrages de commutation et de transmission du trafic, de transport et de distribution de voies de télécommunication :
+10000000 F.
+
+c) Tous autres projets, à l'exception de ceux visés à l'article A. 03 (4° a et b) qui relèvent, quel que soit leur montant,
+des commissions départementales : 10000000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1981-02-11 art. 1 JORF 18 février 1981
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A03 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R10 (V)
+
+
 ##### Paragraphe 2 : Dispositions spéciales.
 
 ###### Article A1
@@ -12072,6 +12156,42 @@ prévues par cette législation.
 	  - Code des assurances - art. A431-5 (M)
 
 
+###### Article A2
+
+Les limites minimales de consultation des commissions visées à l'article R. 10 sont portées aux chiffres suivants en ce qui
+concerne les projets d'opérations immobilières dont la réalisation est poursuivie par les établissements publics nationaux à
+caractère industriel ou commercial dans le cadre de leurs activités d'entreprise publique :
+
+1° Projets visés à l'article R. 10 (1°) : 325000 F ;
+
+2° Projets visés à l'article R. 10 (2°) : 3250000 F.
+
+Ces dispositions ne s'appliquent pas lorsque les établissements susvisés :
+
+- Bénéficient d'un monopole légal pour la production, le transport, la commercialisation, l'importation ou l'exportation de
+produits ou services ;
+
+- Ou sont concessionnaires de l'Etat pour des services publics ou des travaux publics ;
+
+- Ou reçoivent à titre permanent le concours financier de l'Etat pour la réalisation de leurs opérations immobilières ou de
+construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1981-02-11 art. 2 JORF 18 février 1981
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R10 (V)
+
+
 ###### Article A3
 
 Sont dispensées de l'examen des commissions visées à l'article R. 10, sous réserve que leur prix n'excède pas l'évaluation
@@ -12107,6 +12227,35 @@ le caractère confidentiel au sens de l'article D. 2 ne sont pas soumis aux disp
 	  - Code de l'urbanisme - art. L123-9 (M)
 	  - Code de l'urbanisme - art. L211-3 (M)
 	  - Code de l'urbanisme - art. L212-3 (M)
+
+
+###### Article A4
+
+La commission départementale des opérations immobilières et de l'architecture est compétente, dès lors que leur montant
+excède les limites minimales de consultation fixées par l'article A. 03 I, à l'égard des projets d'acquisition autres que
+ceux dispensés de son examen en vertu de l'article A. 3 I, effectués par l'Etat, même sur les ressources du fonds national
+d'aménagement foncier et d'urbanisme, et les établissements publics de l'Etat, dans les conditions prévues aux paragraphes a,
+b, c et d dudit article.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1963-02-28 art. 1 JORF 16 mars 1963
+	  - Arrêté 1965-03-30 art. 1 JORF 17 avril 1965
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1975-06-02 art. 3 JORF 15 juin 1975
+	  - Arrêté 1978-03-15 art. 6 JORF 18 mars 1978
+	  - Arrêté 1981-02-11 art. 3 JORF 18 février 1981
 
 
 ###### Article A5
