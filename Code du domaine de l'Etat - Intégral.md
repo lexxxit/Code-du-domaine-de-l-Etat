@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -1442,12 +1442,12 @@ tutelle et du ministre chargé du domaine.
 
 Les dispositions de la présente section et de l'article 3 de la loi n° 94-631 du 25 juillet 1994 complétant le code du
 domaine de l'Etat et relative à la constitution de droits réels sur le domaine public sont applicables sur le domaine public
-de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements, mis à
-disposition de ces départements ou ayant fait l'objet, à leur profit, d'un transfert de gestion.
+de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements et des communes,
+mis à disposition de ces départements et de ces communes ou ayant fait l'objet à leur profit d'un transfert de gestion.
 
 Les autorisations, décisions et agréments mentionnés aux articles L. 34-1, L. 34-2, L. 34-3 et L. 34-4 sont pris ou accordés,
-après consultation du représentant de l'Etat, par le président du conseil général. Ils peuvent également être pris ou
-accordés par le concessionnaire, lorsque les termes de la concession le prévoient expressément.
+après consultation du représentant de l'Etat, par le président du conseil général ou par le maire selon le cas. Ils peuvent
+également être pris ou accordés par le concessionnaire, lorsque les termes de la concession le prévoient.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -1465,16 +1465,25 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code du domaine de l'Etat - art. L34-3 (Ab)
 	  - Code du domaine de l'Etat - art. L34-4 (Ab)
 
-	**Créé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 56 () JORF 19 novembre 1997
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-475 du 29 mai 2000
 	  - TXT_SOURCE: Décret n°2000-475 du 29 mai 2000 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°2003-1054 du 30 octobre 2003
 	  - TXT_SOURCE: Décret n°2003-1054 du 30 octobre 2003 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 102 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-17 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2122-18 (V)
 
 
 ###### Article L34-9
@@ -2051,6 +2060,49 @@ de la propriété des personnes publiques.
 	**Liens**:
 
 	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+
+###### Article L51-2
+
+Pour la réalisation des objectifs fixés à l'article L. 322-1 du code de l'environnement, le Conservatoire de l'espace
+littoral et des rivages lacustres peut se voir attribuer par convention des immeubles relevant du domaine public de l'Etat
+pour une durée n'excédant pas trente ans. Le renouvellement de la convention se fait dans les mêmes formes que la passation.
+
+La gestion est réalisée dans les mêmes conditions que celles prévues à l'article L. 322-9 du code de l'environnement.
+
+Cette convention d'attribution peut habiliter le conservatoire, ou le gestionnaire tel que défini à l'article L. 322-9
+mentionné ci-dessus, à accorder des autorisations d'occupation temporaire non constitutives de droits réels et à percevoir
+les produits à son profit, à condition qu'il supporte les charges correspondantes.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article, en particulier pour ce qui concerne les
+règles applicables au recouvrement des produits domaniaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°75-293 du 21 avril 1975 - art. 10-1 (Ab)
+	  - Arrêté du 8 avril 2005 - art. Annexe (V)
+	  - Code de l'environnement - art. D422-126 (V)
+	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+	  - Code du domaine de l'Etat - art. R128-9 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 160 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L322-1 (M)
+	  - Code de l'environnement - art. L322-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
 
 
 ## Livre III : Aliénation des biens domaniaux
@@ -3516,11 +3568,12 @@ réservés.
 
 ###### Article L88-1
 
-Dans les départements de Guyane et de la Réunion, les espaces naturels situés à l'intérieur de la zone définie à l'article L.
-87 sont remis en gestion au Conservatoire de l'espace littoral et des rivages lacustres pour être gérés dans les conditions
-prévues aux articles L. 243-1 à L. 243-10 du code rural. En cas de refus du conservatoire, la gestion de ces espaces naturels
-peut être confiée à une collectivité territoriale en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent
-code, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
+Dans les départements de Guyane et de la Réunion et la collectivité départementale de Mayotte, les espaces naturels situés à
+l'intérieur de la zone définie à l'article L. 87 sont remis en gestion au Conservatoire de l'espace littoral et des rivages
+lacustres pour être gérés dans les conditions prévues aux articles L. 322-1 à L. 322-10 du code de l'environnement. En cas de
+refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité territoriale ou un groupement
+de collectivités territoriales en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent code, passée après
+accord du Conservatoire de l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
 
@@ -3529,19 +3582,27 @@ code, passée après accord du Conservatoire de l'espace littoral et des rivages
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi n°2002-276 du 27 février 2002 - art. 167 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L51-1 (V)
 	  - Code du domaine de l'Etat - art. L87 (M)
-	  - Code rural L243-1 à L243-10
+	  - Code de l'environnement L322-1 à L322-10
 
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L5331-7 (VT)
+	  - Code général de la propriété des personnes publiqu - art. L5113-1 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5331-7 (V)
 
 
 ###### Article L88-2
@@ -3955,27 +4016,31 @@ extrait de la division parcellaire.
 ###### Article L89-7
 
 Les espaces naturels délimités selon les modalités de l'article L. 89-1 sont remis en gestion au Conservatoire de l'espace
-littoral et des rivages lacustres pour être gérés dans les conditions prévues aux articles L. 243-1 à L. 243-10 du code
-rural. En cas de refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité territoriale
-en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent code, passée après accord du Conservatoire de
-l'espace littoral et des rivages lacustres.
+littoral et des rivages lacustres pour être gérés dans les conditions prévues aux articles L. 322-1 à L. 322-10 du code de
+l'environnement. En cas de refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité
+territoriale ou un groupement de collectivités territoriales en vertu d'une convention de gestion prévue à l'article L. 51-1
+du présent code, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L243-1 à L243-10
-	  - Code du domaine de l'Etat - art. L51-1 (V)
-	  - Code du domaine de l'Etat - art. L89-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+	  - Loi n°2002-276 du 27 février 2002 - art. 167 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L51-1 (V)
+	  - Code du domaine de l'Etat - art. L89-1 (Ab)
+	  - Code de l'environnement L322-1 à L322-10
 
 	**Nouveaux textes**:
 
