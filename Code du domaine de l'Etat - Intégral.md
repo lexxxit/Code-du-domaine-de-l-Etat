@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-04
 
 # Partie législative
 
@@ -2917,21 +2917,41 @@ législation et de la réglementation relatives à la délimitation du rivage de
 
 ###### Article L87
 
-A l'exclusion des parcelles appartenant en toute propriété à des particuliers et à des collectivités publiques ou privées en
-vertu de titres antérieurs au décret n° 55-885 du 30 juin 1955 et reconnus valables, ainsi que des immeubles qui, par leur
-nature ou leur destination, relèvent de la domanialité publique, la zone définie à l'article précédent fait partie du domaine
-privé de l'Etat.
+La zone comprise entre la limite du rivage de la mer et la limite supérieure de la zone dite des cinquante pas géométriques
+définie à l'article L. 86 du présent code fait partie du domaine public maritime. Ces dispositions s'appliquent sous réserve
+des droits des tiers à l'entrée en vigueur de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la
+mise en valeur du littoral. Elles ne s'appliquent pas :
+
+- aux parcelles appartenant en propriété à des personnes publiques ou privées qui peuvent justifier de leur droit ;
+
+- aux immeubles qui dépendent soit du domaine public autre que maritime, soit du domaine privé de l'Etat affecté aux services
+publics ;
+
+- aux terrains domaniaux gérés par l'Office national des forêts en application de l'article L. 121-2 du code forestier.
+
+Le déclassement de ceux de ces terrains qui ne seraient plus utiles à la satisfaction des besoins d'intérêt public est
+prononcé dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-885 1955-06-30
 
 	**Codifié par**:
 
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°86-2 1986-01-03
+	  - Code du domaine de l'Etat - art. L86 (Ab)
+	  - Code forestier - art. L121-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 37 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -2949,37 +2969,62 @@ privé de l'Etat.
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L2111-4 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5111-1 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5111-3 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5111-4 (V)
 
 
 ###### Article L88
 
-Dans les départements de la Guadeloupe, de la Guyane française et de la Martinique, les prescriptions prévues par les
-articles 2262 et 2265 du code civil ne peuvent, éventuellement, commencer à courir au profit des occupants de terrains de la
-zone des cinquante pas géométriques qu'à partir de la date de clôture des opérations de délimitation de la réserve. Cette
-date est fixée par arrêté interministériel.
+Les droits des tiers résultant soit de titres valides en vertu des dispositions de l'article 10 du décret n° 55-885 du 30
+juin 1955 relatif à l'introduction dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la
+Réunion, de la législation et de la réglementation métropolitaines concernant le domaine public maritime et l'exécution des
+travaux mixtes, et modifiant le statut de la zone dite des cinquante pas géométriques existant dans ces départements, soit de
+ventes ou promesses de vente consenties ultérieurement par l'Etat, soit enfin, dans le département de la Réunion, des
+éventuelles prescriptions acquises à la date de promulgation de la loi n° 86-2 du 3 janvier 1986 précitée, sont expressément
+réservés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
+	  - Loi n°86-2 1986-01-03
 
 	**Codifié par**:
 
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 38 () JORF 4 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L5111-3 (V)
 
-	**Cite**:
-
-	  - Code civil - art. 2262 (V)
-	  - Code civil - art. 2265 (V)
-
 
 ###### Article L89
 
-Toute décision d'incorporation au domaine public ou au domaine forestier de l'Etat, toute affectation à un service public de
-l'Etat, toute aliénation font perdre définitivement aux immeubles qui en font l'objet le caractère de dépendance de la zone
-des cinquante pas géométriques.
+La commune peut obtenir, après déclassement, la cession à son profit de terrains susceptibles d'aménagement, situés dans la
+zone dite des cinquante pas géométriques dépendant du domaine public de l'Etat.
+
+Cette cession ne peut concerner que des terrains classés en zone urbaine par un plan d'occupation des sols opposable aux
+tiers et inclus dans un périmètre géré par la commune en vertu d'une convention de gestion de l'article L. 51-1.
+
+La cession doit avoir pour but la réalisation d'opérations d'aménagement conformes au code de l'urbanisme et notamment aux
+objectifs définis au troisième alinéa de son article L. 156-3.
+
+Le paiement du prix de cession peut être échelonné ou différé, sur la demande de la commune, dans un délai ne pouvant excéder
+la date d'achèvement de chaque tranche de travaux ou à la date d'utilisation ou de commercialisation des terrains si elle est
+antérieure. Dans ce cas, il est actualisé à la date du ou des règlements.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -2987,6 +3032,15 @@ des cinquante pas géométriques.
 
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Loi n°86-2 du 3 janvier 1986 - art. 38 () JORF 4 janvier 1986
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L51-1 (V)
+	  - Code de l'urbanisme - art. L156-3 (M)
 
 	**Cité par**:
 
