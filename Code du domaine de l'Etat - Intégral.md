@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1987-08-19
+Version Consolidée au 1987-09-02
 
 # Partie législative
 
@@ -5995,176 +5995,28 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.
-
-###### Article R59
-
-Conformément à l'article premier du décret n° 57-1190 du 25 octobre 1957, les associations de pêche et de pisciculture
-constituées en conformité de la loi du 1er juillet 1901 et de l'article 402 du code rural peuvent obtenir sans adjudication
-publique et dans les conditions fixées aux articles R. 60 à R. 65 l'affermage de la pêche aux lignes dans certains lots de
-pêche sur les fleuves, rivières et canaux du domaine public visés à l'article 403 du même code.
-
-Dans les mêmes lots, l'Etat peut soit adjuger la pêche aux engins, soit la mettre en réserve, soit en limiter l'exercice à la
-pêche de l'anguille dans les conditions prévues par la réglementation en vigueur.
-
-Pour être admises à bénéficier de la disposition du premier alinéa, les associations précitées doivent prendre l'engagement
-de n'utiliser aucun instrument de pêche autre que la ligne plombée ordinaire, la ligne flottante, la vermée et la balance à
-écrevisses, chaque sociétaire ne pouvant se servir simultanément de plus de trois lignes et de dix balances et seulement de
-jour et sous sa surveillance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 402, 403
-	  - Décret n°57-1190 1957-10-25
-	  - Code du domaine de l'Etat R60 à R65
-	  - Loi n°1901-07-01
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. R61 (Ab)
-
-
-###### Article R60
-
-Conformément à l'article 2 du décret n° 57-1190 du 25 octobre 1957, à l'occasion de chaque renouvellement général des
-locations, le ministre de l'agriculture, le ministre chargé des travaux publics et le ministre chargé des transports
-déterminent, chacun en ce qui le concerne, quelles que soient la répartition et la consistance antérieure des lots, les lots
-dans lesquels la pêche aux lignes peut être affermée sans adjudication aux associations susmentionnées et, parmi ces lots,
-ceux dans lesquels la pêche aux engins peut être soit adjugée, soit mise en réserve, soit limitée à la pêche à l'anguille.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 2
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
-
-
-###### Article R61
-
-Conformément à l'article 3 du décret n° 57-1190 du 25 octobre 1957, lors de chaque renouvellement général des locations,
-toute association qui désire obtenir la location amiable de l'un des lots mentionnés à l'article précédent est tenue
-d'adresser, à cet effet une demande en double exemplaire au directeur des services fiscaux du département de la situation des
-lots par lettre recommandée, huit mois au moins avant l'expiration des baux en cours.
-
-La demande doit contenir explicitement l'engagement indiqué au dernier alinéa de l'article R. 59.
-
-Si l'association demanderesse est déjà détentrice d'un lot de pêche, elle doit justifier, à l'appui de sa demande de
-location, des améliorations apportées par elle à ce lot, notamment des mesures appliquées pour la répression du braconnage et
-pour le repeuplement. Elle indique également les ressources financières dont elle dispose pour continuer à assurer dans
-l'avenir ces diverses améliorations.
-
-L'association qui n'est pas détentrice d'un lot de pêche doit, à l'appui de sa demande, prendre l'engagement de pratiquer
-dans le lot sollicité de sérieuses mesures de répression du braconnage et de repeuplement et justifier de l'existence de
-moyens financiers suffisants pour l'exécution de cet engagement.
-
-Si l'association ne satisfait pas aux conditions d'attribution du lot demandé, notamment en ce qui concerne les engagements
-relatifs à la répression du braconnage et au repeuplement, notification motivée du rejet de sa demande lui est faite par le
-service des domaines au plus tard quatre mois avant l'expiration des baux en cours.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 3
-	  - Code du domaine de l'Etat - art. R59 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
-
-
-###### Article R62
-
-Conformément à l'article 4 du décret n° 57-1190 du 25 octobre 1957, le prix des lots réservés pour la location amiable et
-pour lesquels une seule demande a été formulée est fixé, après avis du service gestionnaire, par le service des domaines et
-notifié par lui au moyen d'une lettre recommandée avec demande d'avis de réception, quatre mois au moins avant l'expiration
-des baux en cours, à l'association qui a présenté sa demande dans le délai prescrit et qui remplit les conditions
-d'attribution requises.
-
-A défaut d'accord écrit sur le prix demandé par le service des domaines et parvenu à ce service trois mois avant l'expiration
-des baux en cours, les lots sont mis en adjudication publique.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 4
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
-
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales
 
 ###### Article R63
 
-Conformément à l'article 5 du décret n° 57-1190 du 25 octobre 1957, les lots de pêche aux lignes réservés pour la location
-amiable et demandés par plusieurs associations satisfaisant aux conditions d'attribution exigées sont mis en adjudication
-restreinte entre ces associations.
-
-Toutefois, si un lot de pêche réservé pour la location amiable est demandé par plusieurs associations acceptant les
-conditions d'affermage et s'il est déjà détenu par l'une de ces associations en vertu d'une location à elle consentie soit à
-l'amiable, dans les conditions fixées au présent chapitre, soit à la suite d'une adjudication restreinte, le lot peut être
-attribué par préférence à cette dernière association.
+Les conditions d'exploitation par adjudication, amodiation amiable ou licence du droit de pêche qui appartient à l'Etat dans
+les eaux du domaine public fluvial et dans les parties non salées, déterminées par décret, des cours d'eau et canaux non
+dominaux affluant à la mer, qui se trouvaient comprises dans les limites de l'inscription maritime antérieurement aux 8
+novembre et 28 décembre 1926, sont fixées par le décret n° 87-719 du 28 août 1987.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 5
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 5
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Cite**:
+
+	  - Décret n°87-719 1987-08-28
+
+	**Modifié par**:
+
+	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
 
 	**Cité par**:
 
@@ -6172,63 +6024,6 @@ attribué par préférence à cette dernière association.
 	  - Code du domaine de l'Etat - art. A60 (V)
 	  - Code du domaine de l'Etat - art. A69 (Ab)
 	  - Code du domaine de l'Etat - art. A70 (Ab)
-
-
-###### Article R64
-
-Conformément à l'article 6 du décret n° 57-1190 du 25 octobre 1957, l'affermage des lots attribués à l'amiable est consenti
-pour la durée fixée par décision ministérielle.
-
-Il fait l'objet d'un acte administratif passé par le préfet et, le cas échéant, par le chef de service intéressé lorsque la
-compétence de celui-ci excède l'étendue du département.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 6
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
-
-
-###### Article R65
-
-Conformément à l'article 7 du décret n° 57-1190 du 25 octobre 1957, un cahier des charges commun à l'adjudication, à
-l'affermage amiable et à l'adjudication restreinte du droit de pêche aux lignes arrêté par décision conjointe des ministres
-intéressés, détermine les obligations et les droits des parties. La procédure d'adjudication est fixée par arrêté
-interministériel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-1190 1957-10-25 art. 7
-
-	**Anciens textes**:
-
-	  - Décret n°57-1190 1957-10-25 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
 
 
 ### Titre II : Domaine privé
@@ -15115,14 +14910,13 @@ domaines.
 	  - Code du domaine de l'Etat A49 à A58
 
 
-#### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.
+#### Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.
 
 ###### Article A60
 
-L'adjudication du droit de pêche exercé au profit de l'Etat en vertu de l'article 403 du code rural a lieu, sur la base du
-loyer annuel, soit au rabais, soit aux enchères verbales avec ou sans extinction de feux, soit sur soumissions cachetées,
-soit par combinaison des enchères verbales et des soumissions cachetées, selon les indications données par l'avis relatif à
-l'adjudication.
+Lorsque le droit de pêche de l'Etat mentionné à l'article R. 63 est loué par voie d'adjudication, le commissaire de la
+République choisit, après avis du directeur des services fiscaux, un des modes d'adjudication prévus aux articles A. 61 à A.
+63 ci-après.
 
 **Liens relatifs à cet article**
 
@@ -15132,26 +14926,35 @@ l'adjudication.
 
 	**Modifié par**:
 
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 	**Cite**:
 
-	  - Code rural 403
+	  - Code du domaine de l'Etat - art. R63 (M)
+	  - Code du domaine de l'Etat R63, A61 à A63
 
 
 ###### Article A61
 
-Le service des domaines décide du mode d'adjudication, après avis du service gestionnaire.
+L'adjudication aux enchères, avec ou sans extinction de feux, a lieu sur la mise à prix annoncée par le président du bureau
+d'adjudication, les enchères devant être exprimées à haute voix.
+
+Les enchères ne peuvent être moindres de 20 F pour les mises à prix de 500 F et au-dessous, de 50 F pour celles de 501 F à
+1000 F, de 100 F pour celles de 1001 F à 10000 F, de 200 F pour celles au-dessus de 10000 F.
+
+L'adjudication n'est prononcée qu'autant qu'une enchère au moins a été portée sur le montant de la mise à prix. Elle est
+tranchée au profit de l'enchérisseur le plus offrant, après que deux bougies se sont éteintes successivement sur la dernière
+enchère ou que deux appels se sont succédés sans qu'une nouvelle enchère ait été portée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 2
 
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 	**Cité par**:
 
@@ -15160,17 +14963,35 @@ Le service des domaines décide du mode d'adjudication, après avis du service g
 
 ###### Article A62
 
-Pour un même lot, l'adjudication de la pêche aux lignes précède, le cas échéant, celle de la pêche aux engins.
+En cas d'adjudication sur soumissions cachetées , les offres, distinctes pour chaque lot et rédigées conformément au modèle
+arrêté par l'administration, sont remises, sous enveloppe cachetée portant les références du lot de pêche, au président du
+bureau d'adjudication avant l'ouverture de la séance. Elles peuvent être adressées par pli recommandé au président et au lieu
+de l'adjudication, sous double enveloppe, l'enveloppe intérieure portant la seule inscription "Soumission pour l'adjudication
+du ..., lot de pêche n° ...".
+
+Les enveloppes contenant les soumissions sont ouvertes aussitôt après l'énoncé, par le représentant du domaine, du chiffre
+limite au-dessous duquel les offres ne sont pas retenues.
+
+Les soumissions ne peuvent être retirées, ni modifiées, après l'ouverture de la séance d'adjudication.
+
+L'adjudication est prononcée au profit du soumissionnaire dont l'offre, régulière en la forme et au moins égale au prix
+limite, est la plus élevée. En cas d'égalité entre les offres, le lot est tiré au sort entre les concurrents, selon le mode
+fixé par le président du bureau d'adjudication, à moins que, tous étant présents ou représentés, l'un ne réclame la mise aux
+enchères ; le concours est alors ouvert entre eux seuls, dans les conditions prévues à l'article A. 61.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 3
 
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A61 (M)
 
 	**Cité par**:
 
@@ -15179,14 +15000,15 @@ Pour un même lot, l'adjudication de la pêche aux lignes précède, le cas éch
 
 ###### Article A63
 
-L'adjudication a lieu publiquement par devant le préfet ou son délégué, assisté d'un représentant du service gestionnaire et
-d'un représentant du service des domaines.
+En cas d'adjudication par combinaison des enchères verbales et des soumissions cachetées, ces dernières doivent être rédigées
+et remises ou adressées au président du bureau d'adjudication dans les conditions prévues à l'article A. 62. Elles ne peuvent
+être ni retirées ni modifiées après l'ouverture de la séance d'adjudication.
 
-L'avis relatif à l'adjudication indique les lieux où sont déposés le cahier des charges générales et le cahier des clauses
-spéciales.
+Il est procédé en premier lieu aux enchères verbales puis à l'ouverture des enveloppes contenant les soumissions cachetées.
 
-Au moment de l'adjudication, l'ordre des lots peut être modifié et certains lots peuvent être retirés de l'adjudication sans
-que les amateurs puissent élever aucune réclamation ni prétendre à une indemnité quelconque.
+L'adjudication est prononcée au profit de l'enchérisseur ou du soumissionnaire le plus offrant sous réserve, s'il s'agit du
+soumissionnaire, que son offre soit supérieure à la mise à prix. En cas d'égalité d'offres, il est procédé conformément aux
+dispositions du dernier alinéa de l'article A. 62.
 
 **Liens relatifs à cet article**
 
@@ -15194,28 +15016,19 @@ que les amateurs puissent élever aucune réclamation ni prétendre à une indem
 
 	  - Arrêté 1962-03-14
 
-	**Anciens textes**:
-
-	  - Arrêté 1965-05-12 art. 4
-
 	**Modifié par**:
 
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A62 (M)
 
 
 ###### Article A64
 
-L'adjudication au rabais a lieu sur la mise à prix annoncée par le président du bureau d'adjudication et diminuée
-successivement jusqu'à ce qu'une personne prononce les mots "je prends".
-
-L'adjudication est tranchée au chiffre que le crieur a énoncé ou commencé à énoncer lorsque les mots "je prends" sont
-prononcés.
-
-Si plusieurs personnes se portent simultanément adjudicataires, le lot est tiré au sort entre elles, selon le mode fixé par
-le président du bureau d'adjudication, à moins que l'une de ces personnes ne réclame la mise aux enchères sur le chiffre du
-dernier rabais ; le concours est alors ouvert entre elles seules dans les conditions prévues à l'article A. 65.
-
-Le représentant du service des domaines arrête à son gré l'énoncé des rabais.
+Le droit de préférence prévu au troisième alinéa de l'article 19 du décret mentionné à l'article R. 83 doit être exercé dès
+le prononcé de l'adjudication.
 
 **Liens relatifs à cet article**
 
@@ -15223,25 +15036,21 @@ Le représentant du service des domaines arrête à son gré l'énoncé des raba
 
 	  - Arrêté 1962-03-14
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté 1965-05-12 art. 5
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. A65 (M)
+	  - Code du domaine de l'Etat - art. R83 (M)
 
 
 ###### Article A65
 
-L'adjudication aux enchères verbales, avec ou sans extinction de feux, a lieu sur la mise à prix annoncée par le président du
-bureau d'adjudication, les enchères devant être exprimées à haute voix.
-
-Le montant minimum des enchères est fixé par le cahier des charges.
-
-L'adjudication n'est prononcée qu'autant qu'une enchère au moins a été portée sur le montant de la mise à prix. Elle est
-tranchée au profit de l'enchérisseur le plus offrant, après que deux bougies se soient éteintes successivement sur la
-dernière enchère ou que deux appels se soient succédés sans qu'une nouvelle enchère ait été portée.
+La minute du procès-verbal d'adjudication est signée sur-le-champ par le président et par les membres du bureau. Elle est
+également signée par les adjudicataires ou leurs fondés de pouvoirs, s'ils se présentent ; dans le cas contraire, mention est
+faite de leur absence et notification est faite, par lettre recommandée avec demande d'avis de réception, aux
+soumissionnaires dont les offres sont acceptées.
 
 **Liens relatifs à cet article**
 
@@ -15249,246 +15058,14 @@ dernière enchère ou que deux appels se soient succédés sans qu'une nouvelle 
 
 	  - Arrêté 1962-03-14
 
-	**Anciens textes**:
-
-	  - Arrêté 1965-05-12 art. 6
-
 	**Modifié par**:
 
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. A64 (M)
 	  - Code du domaine de l'Etat - art. A66 (Ab)
-
-
-###### Article A66
-
-En cas d'adjudication sur soumissions cachetées, les offres, distinctes pour chaque lot et rédigées conformément au modèle
-arrêté par l'administration, sont remises, sous enveloppe cachetée portant les références du lot de pêche, au président du
-bureau d'adjudication avant l'ouverture de la séance. Elles peuvent être adressées par pli recommandé au président et au lieu
-de l'adjudication sous double enveloppe, l'enveloppe intérieure portant la seule souscription "Soumission pour l'adjudication
-du ..., lot de pêche n° ...".
-
-Les enveloppes contenant les soumissions sont ouvertes à la date et à l'heure indiquées dans l'avis, aussitôt après l'énoncé
-par le représentant du service des domaines du chiffre limite au-dessous duquel les offres ne seront pas retenues.
-
-Les soumissions ne peuvent être ni retirées ni modifiées après l'ouverture de la séance d'adjudication.
-
-L'adjudication est prononcée au profit du soumissionnaire dont l'offre, régulière en la forme et au moins égale au prix
-limite, est la plus élevée. En cas d'égalité entre les offres, le lot est tiré au sort entre les concurrents, selon le mode
-fixé par le président du bureau d'adjudication, à moins que, tous étant présents, l'un ne réclame la mise aux enchères
-verbales ; le concours est alors ouvert entre eux seuls, dans les conditions prévues à l'article A. 65.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Anciens textes**:
-
-	  - Arrêté 1965-05-12 art. 7
-
-	**Modifié par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. A65 (M)
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. A66-1 (Ab)
-	  - Code du domaine de l'Etat - art. A69 (Ab)
-
-
-###### Article A66-1
-
-En cas d'adjudication par combinaison des enchères verbales et des soumissions cachetées, ces dernières doivent être rédigées
-et remises ou adressées au président du bureau d'adjudication dans les conditions prévues à l'article A. 66 (premier alinéa).
-Elles doivent lui parvenir avant l'ouverture de la séance et ne peuvent être retirées ou modifiées après que celle-ci ait été
-déclarée ouverte.
-
-Il est procédé en premier lieu aux enchères verbales sur la mise à prix annoncée par le président du bureau. Après que deux
-bougies se soient éteintes successivement ou que deux appels se soient succédé sans qu'une enchère ait été portée soit sur la
-mise à prix, soit sur la dernière enchère, les enveloppes contenant les soumissions sont ouvertes.
-
-L'adjudication est prononcée au profit de l'enchérisseur ou du soumissionnaire le plus offrant, cette offre devant être
-supérieure à la mise à prix, majorée du montant de l'enchère minimum prévue au cahier des charges. En cas d'égalité d'offres,
-l'adjudication est tranchée conformément aux dispositions de l'article A. 66 (dernier alinéa).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Créé par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. A66 (Ab)
-
-
-###### Article A67
-
-Quel que soit le mode d'adjudication, le président du bureau d'adjudication, sur avis conforme de ses assesseurs, peut, sans
-avoir à motiver sa décision, refuser d'accepter comme adjudicataire :
-
-D'une part, tout enchérisseur ou soumissionnaire qui paraîtrait ne pas présenter les garanties de solvabilité suffisantes ou
-qui, depuis le 1er janvier de l'année de l'adjudication ou au cours des trois années précédentes, aurait subi une
-condamnation pour infraction à la police de la pêche ;
-
-D'autre part, toute association qui, dans les lots dont elle est déjà détentrice, serait considérée comme n'apportant pas une
-contribution suffisante à la répression du braconnage et au repeuplement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 8
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-
-###### Article A68
-
-Lorsque, faute d'offres suffisantes, certains lots n'ont pu être adjugés, leur adjudication peut être remise, sans
-publication d'un nouvel avis, au jour, à l'heure et au lieu fixés par le président du bureau d'adjudication.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Modifié par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-
-###### Article A69
-
-L'adjudication restreinte prévue par l'article R. 63, premier alinéa, a lieu sur soumissions cachetées, dans les conditions
-déterminées à l'article A. 66, sous réserve des dispositions de l'article A. 70.
-
-Les associations de pêche et de pisciculture, admises à participer à l'adjudication restreinte, sont informées par le service
-des domaines, quinze jours au moins avant la date de l'adjudication, par lettre recommandée avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 10
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. A66 (Ab)
-	  - Code du domaine de l'Etat - art. A70 (Ab)
-	  - Code du domaine de l'Etat - art. R63 (M)
-
-
-###### Article A70
-
-Le droit de préférence prévu par l'article R. 63, deuxième alinéa, doit, le cas échéant, être exercé dès le prononcé de
-l'adjudication, par une déclaration insérée au procès-verbal avant la clôture de celui-ci.
-
-Dans ce cas, l'adjudication est tranchée définitivement au profit de l'association intéressée, pour un prix correspondant à
-l'offre la plus élevée, si elle est au moins égale au prix limite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 11
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. A69 (Ab)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R63 (M)
-
-
-###### Article A71
-
-Les lots non adjugés lors de l'adjudication restreinte sont mis ultérieurement en adjudication publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 12
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
-
-
-###### Article A72
-
-La minute du procès-verbal d'adjudication est signée, sur le champ, par le président et par les membres du bureau, ainsi que
-par les adjudicataires ou leurs fondés de pouvoir, s'ils se présentent. Dans le cas contraire, mention est faite de leur
-absence et notification est faite, par lettre recommandée avec demande d'avis de réception, aux soumissionnaires dont les
-offres ont été acceptées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1961-05-12 art. 13
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Abrogé par**:
-
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
 
 
 ### Titre II : Domaine privé
