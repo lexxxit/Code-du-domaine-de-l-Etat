@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1996-05-18
+Version Consolidée au 1996-11-03
 
 # Partie législative
 
@@ -12523,44 +12523,12 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
 
-##### Section 1 : Actes passés en vue de la mise en valeur agricole des terres domaniales.
-
-###### Article R170-41
-
-La concession est déclarée vacante dans les cas suivants :
-
-1° Renonciation du concessionnaire à la concession ;
-
-2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
-suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
-l'article R. 170-38 ;
-
-3° Déchéance du concessionnaire.
-
-La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R170-37 (M)
-	  - Code du domaine de l'Etat - art. R170-38 (M)
-
-
-##### Section 1 : Mise en valeur agricole des terres domaniales.
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.
 
 ###### Article R170-31
 
 Dans le département de Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet en vue de leur mise en
-valeur agricole :
+valeur agricole et de la réalisation de travaux d'aménagement rural :
 
 1° De concessions en vue de la culture ou de l'élevage dans les conditions prévues aux articles R. 170-32 à R. 170-42 ;
 
@@ -12573,7 +12541,11 @@ et R. 170-44 ;
 170-46 ;
 
 5° De cessions consenties en application des dispositions du troisième alinéa de l'article L. 91-1, dans les conditions
-prévues à la section V du présent chapitre.
+prévues à la section V du présent chapitre ;
+
+6° De conventions passées en application du second alinéa de l'article L. 91-1-1 avec l'établissement public visé audit
+article, en vue de faire bénéficier cet établissement de concessions et de cessions gratuites, dans les conditions prévues à
+l'article R. 170-46-1.
 
 **Liens relatifs à cet article**
 
@@ -12583,8 +12555,8 @@ prévues à la section V du présent chapitre.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 2 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 2 () JORF 3 novembre 1996
 
 	**Cité par**:
 
@@ -12597,9 +12569,36 @@ prévues à la section V du présent chapitre.
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L91-1 (M)
+	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
 	  - Code du domaine de l'Etat - art. R170-43 (M)
 	  - Code du domaine de l'Etat - art. R170-44 (M)
-	  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46, L91-1
+	  - Code du domaine de l'Etat - art. R170-46-1 (M)
+	  - Code du domaine de l'Etat R170-32 à R170-42, R170-43, R170-44, R170-45, R170-46, L91-1, L91-1-1, R170-46-1
+
+
+###### Article R170-31-1
+
+La convention conclue en application du premier alinéa de l'article L. 91-1-1 précise les modalités de mise en oeuvre des
+procédures d'instruction des demandes et de rédaction des actes par l'établissement public.
+
+Les contrats de concession et de cession passés par l'établissement public sont régis par les dispositions des articles R.
+170-32 à R. 170-44 et R. 170-62 à R. 170-67.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 3 () JORF 3 novembre 1996
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
+	  - Code du domaine de l'Etat L91-1-1, R170-32 à R170-44, R170-62 à R170-67
 
 
 ###### Article R170-32
@@ -12625,7 +12624,7 @@ dispositions des articles R. 170-40 à R. 170-42.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cite**:
 
@@ -12653,7 +12652,7 @@ Dans tous les cas, l'administration apprécie s'il y a lieu d'attribuer la conce
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cité par**:
 
@@ -12693,22 +12692,24 @@ Un état des lieux établi contradictoirement est annexé à l'acte de concessio
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 
 ###### Article R170-35
 
-Les formulaires de demande de concession sont établis par le préfet. La demande indique :
+Les formulaires de demande de concession sont établis par le préfet ou, le cas échéant, par l'Etablissement public
+d'aménagement en Guyane, selon un modèle type agréé par le préfet. La demande indique notamment :
 
-1° L'identité, la profession et l'adresse du pétitionnaire ;
+1° L'identité, la profession et l'adresse du demandeur ;
 
 2° La situation exacte et la superficie du terrain demandé ;
 
-3° Le but de l'exploitation et les moyens auxquels le pétitionnaire entend avoir recours.
+3° Le programme technique et économique de l'exploitation envisagée et les moyens auxquels le demandeur aura recours pour sa
+mise en oeuvre.
 
-La demande comporte l'engagement prévu au deuxième alinéa de l'article R. 170-33.
-
-La demande accompagnée des pièces correspondantes est adressée au préfet, qui procède à son instruction.
+La demande comporte l'engagement prévu au deuxième alinéa de l'article R. 170-33. Elle est adressée au préfet, qui fait
+procéder à son instruction, sauf lorsqu'il est fait application de la convention prévue au premier alinéa de l'article L.
+91-1-1. Dans ce cas, la demande est adressée à l'établissement public, qui procède à son instruction.
 
 **Liens relatifs à cet article**
 
@@ -12718,10 +12719,12 @@ La demande accompagnée des pièces correspondantes est adressée au préfet, qu
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 4 () JORF 3 novembre 1996
 
 	**Cite**:
 
+	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
 	  - Code du domaine de l'Etat - art. R170-33 (M)
 
 	**Cité par**:
@@ -12732,7 +12735,8 @@ La demande accompagnée des pièces correspondantes est adressée au préfet, qu
 ###### Article R170-36
 
 Le dossier constitué par la demande, par les pièces versées par le pétitionnaire et par les éléments recueillis par
-l'administration est soumis à une commission chargée d'émettre un avis sur le projet.
+l'administration ou par l'Etablissement public d'aménagement en Guyane est soumis à une commission chargée d'émettre un avis
+sur le projet.
 
 Cette commission est présidée par le préfet ou son représentant et comprend :
 
@@ -12748,15 +12752,29 @@ la chambre d'agriculture ;
 En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
 personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
 
+**Nota:**
+
+Décret n° 2009-634 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé).
+
+L'article 1 du décret n° 2014-592 du 6 juin 2014 a renouvelé pour une durée d'un an à compter du 8 juin 2014 les Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 5 () JORF 3 novembre 1996
 
 	**Cité par**:
 
@@ -12764,6 +12782,15 @@ personne dont l'audition lui paraîtrait utile à comparaître devant la commiss
 	  - Décret n°2014-592 du 6 juin 2014 - art. (V)
 	  - Code du domaine de l'Etat - art. R170-38 (Ab)
 	  - Code du domaine de l'Etat - art. R170-46-1 (M)
+	  - Code du domaine de l'Etat - art. R170-46-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D5141-7 (V)
 
 
 ###### Article R170-37
@@ -12778,6 +12805,12 @@ Les ayants droit éventuels sur tout ou partie du terrain ont quinze jours à co
 pour faire opposition entre les mains du directeur des services fiscaux ; les réclamations qui seraient formulées après ce
 délai ne sont pas prises en compte.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12786,7 +12819,11 @@ délai ne sont pas prises en compte.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cité par**:
 
@@ -12794,6 +12831,11 @@ délai ne sont pas prises en compte.
 	  - Code du domaine de l'Etat - art. R170-41 (Ab)
 	  - Code du domaine de l'Etat - art. R170-45 (Ab)
 	  - Code du domaine de l'Etat - art. R170-46-2 (M)
+	  - Code du domaine de l'Etat - art. R170-46-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-8 (V)
 
 
 ###### Article R170-38
@@ -12822,7 +12864,7 @@ présentée, de nouvelles conditions de mise en valeur agricole.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cite**:
 
@@ -12846,6 +12888,12 @@ date de la concession.
 La redevance est payable d'avance. A défaut de paiement dans les délais prévus par l'acte de concession, la déchéance peut
 être prononcée dans les conditions prévues à l'article R. 170-40.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12854,11 +12902,19 @@ La redevance est payable d'avance. A défaut de paiement dans les délais prévu
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R170-40 (M)
+	  - Code du domaine de l'Etat - art. R170-40
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-11 (V)
 
 
 ###### Article R170-40
@@ -12885,11 +12941,41 @@ un délai de quinze jours.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R170-39 (Ab)
+
+
+###### Article R170-41
+
+La concession est déclarée vacante dans les cas suivants :
+
+1° Renonciation du concessionnaire à la concession ;
+
+2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
+suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
+l'article R. 170-38 ;
+
+3° Déchéance du concessionnaire.
+
+La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat - art. R170-38 (M)
 
 
 ###### Article R170-42
@@ -12904,15 +12990,29 @@ La déclaration précise si la démolition des bâtiments est exigée des intér
 faute par eux d'avoir enlevé les récoltes, le matériel et le cheptel, chacun de ces éléments de l'exploitation sera considéré
 comme abandonné et vendu par l'Etat.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-14 (V)
 
 
 ###### Article R170-43
@@ -12932,7 +13032,7 @@ Il est statué avant l'expiration de celle-ci, faute de quoi la concession est p
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cité par**:
 
@@ -12969,8 +13069,7 @@ l'application des dispositions de l'article R. 170-65.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 3 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cite**:
 
@@ -12992,7 +13091,7 @@ la passation des baux.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
 
 	**Cité par**:
 
@@ -13023,24 +13122,121 @@ collectivité et, en ce qui concerne les terres louées, les délais pendant les
 loyer. La convention précise, en outre, les délais pendant lesquels l'Etat reversera à la collectivité la redevance prévue au
 deuxième alinéa de l'article R. 170-44.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-31 (Ab)
+	  - Code du domaine de l'Etat - art. R170-66 (M)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-44 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-20 (V)
+
+
+###### Article R170-46-1
+
+La convention mentionnée au deuxième alinéa de l'article L. 91-1-1 du code du domaine de l'Etat prévoit :
+
+L'identification des terres domaniales pour lesquelles le bénéfice d'une ou plusieurs concessions gratuites est demandé ;
+
+Le programme des travaux à réaliser par l'établissement public d'aménagement ainsi que les modalités de leur contrôle et de
+leur financement ;
+
+Les délais d'exécution des travaux à la charge de l'établissement public ;
+
+Les sujétions particulières en matière de respect de l'environnement imposées s'il y a lieu à l'établissement public et à ses
+concessionnaires ;
+
+Les conditions dans lesquelles l'établissement public concessionnaire peut, après réalisation des travaux d'aménagement
+rural, bénéficier d'une cession gratuite ;
+
+Les conditions dans lesquelles les terres cédées gratuitement par l'Etat à l'établissement public sont concédées à des tiers,
+notamment celles dont l'inobservation peut entraîner la déchéance du concessionnaire ;
+
+Les conditions dans lesquelles les terres cédées gratuitement par l'Etat à l'établissement public sont cédées à des tiers,
+notamment celles dont l'inobservation peut entraîner la résolution de la cession.
+
+Le projet de convention est adressé au préfet qui le soumet à la commission prévue par l'article R. 170-36.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 1 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 6 () JORF 3 novembre 1996
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-31 (Ab)
-	  - Code du domaine de l'Etat - art. R170-44 (Ab)
-	  - Code du domaine de l'Etat - art. R170-66 (M)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V)
+	  - Code du domaine de l'Etat - art. R170-31 (M)
+	  - Code du domaine de l'Etat - art. R170-46-3 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
+	  - Code du domaine de l'Etat - art. R170-36 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-5 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5141-5 (V)
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales.
+###### Article R170-46-2
+
+Lorsque l'établissement public bénéficie d'une concession gratuite en vue de la réalisation de travaux d'aménagement rural ou
+d'une cession gratuite des terrains aménagés dans le cadre d'une concession, la concession ou la cession est soumise aux
+dispositions de l'article R. 170-37 et des articles R. 170-62-1 à R. 170-66.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 6 () JORF 3 novembre 1996
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat R170-37, R170-62-1 à R170-66
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat - art. R170-46-6 (V)
+
+
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à l'Etablissement public d'aménagement en Guyane.
 
 ###### Article R170-47
 
@@ -13053,6 +13249,12 @@ accordée pour la même durée dans le but de constituer une réserve foncière 
 paiement d'une redevance annuelle établie à titre prévisionnel et payable d'avance ; le montant définitif de la redevance est
 fixé six mois avant la date d'expiration de la concession.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13061,12 +13263,15 @@ fixé six mois avant la date d'expiration de la concession.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 5 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. L91-2
 
 	**Cité par**:
 
@@ -13075,6 +13280,11 @@ fixé six mois avant la date d'expiration de la concession.
 	  - Code du domaine de l'Etat - art. R170-65 (M)
 	  - Code du domaine de l'Etat - art. R170-66 (M)
 	  - Code du domaine de l'Etat - art. R170-69 (Ab)
+	  - Code du domaine de l'Etat - art. R170-70 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-1 (V)
 
 
 ###### Article R170-48
@@ -13088,6 +13298,12 @@ paiement de la redevance pour les années postérieures à son intervention. Si 
 gratuite, les immeubles peuvent, lorsque les conditions à la cession sont remplies, être distraits de la concession et cédés
 à la commune, sur sa demande.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13096,16 +13312,23 @@ gratuite, les immeubles peuvent, lorsque les conditions à la cession sont rempl
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 6 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. L91-2
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-50 (M)
+	  - Code du domaine de l'Etat - art. R170-50 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-2 (V)
 
 
 ###### Article R170-49
@@ -13119,15 +13342,29 @@ collectivité concessionnaire la plus-value qui, éventuellement conférée par 
 les biens cédés a été mise à la charge du cessionnaire par l'acte de cession ; cette plus-value est déterminée par le
 directeur des services fiscaux, déduction faite des subventions accordées par l'Etat pour ces travaux.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-3 (V)
 
 
 ###### Article R170-50
@@ -13152,7 +13389,7 @@ concession. L'arrêté prononçant la déchéance est notifié à la collectivit
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
 
 	**Cite**:
 
@@ -13170,15 +13407,29 @@ consenties en cette qualité et, d'une façon générale, tous les actes, ayant 
 responsabilité de la collectivité vis-à-vis des tiers ne sont pas opposables à l'Etat. Aucune indemnité ne peut être réclamée
 à ce dernier par des tiers envers lesquels la collectivité serait débitrice.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-5 (V)
 
 
 ###### Article R170-52
@@ -13187,6 +13438,12 @@ La reprise de possession des immeubles par l'Etat ne peut avoir lieu que deux mo
 administratifs de la Guyane et la publication, par extrait, dans un journal diffusé dans le département de l'arrêté du préfet
 prononçant la déchéance.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13195,7 +13452,15 @@ prononçant la déchéance.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-6 (V)
 
 
 ###### Article R170-53
@@ -13203,6 +13468,12 @@ prononçant la déchéance.
 Si la déchéance de la concession n'a pas été prononcée, le transfert de propriété a lieu de plein droit à l'expiration de la
 concession, dans les conditions prévues à l'acte de concession et ses avenants.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -13211,8 +13482,15 @@ concession, dans les conditions prévues à l'acte de concession et ses avenants
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 7 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-7 (V)
 
 
 ###### Article R170-54
@@ -13222,11 +13500,20 @@ titre gratuit.
 
 Les cessions qui ne bénéficient pas de la gratuité ont lieu moyennant le paiement d'un prix correspondant à la valeur vénale
 des immeubles, compte tenu de leur consistance à la date de prise d'effet de la concession. Le prix est fixé dans les
-conditions prévues à l'article R. 130.
+conditions prévues à l'article R. 130 (1).
 
 La superficie de référence prévue au 3° du premier alinéa de l'article L. 91-2 est arrêtée par le préfet lors de la première
 demande de cession gratuite, sur proposition du directeur des services fiscaux et après avis de la commission prévue à
 l'article R. 170-55.
+
+**Nota:**
+
+L'article R130 du code du domaine de l'Etat a été abrogé par le décret n° 2004-1175 du 4 novembre 2004 article 1er, néanmoins
+les dispositions de ce même article ont été reprises au 1° de l'article R129-5 de ce même code.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -13236,46 +13523,69 @@ l'article R. 170-55.
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 8 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-2 (M)
-	  - Code du domaine de l'Etat - art. R130 (Ab)
-	  - Code du domaine de l'Etat - art. R170-55 (M)
+	  - Code du domaine de l'Etat - art. L91-2
+	  - Code du domaine de l'Etat - art. R130
+	  - Code du domaine de l'Etat - art. R170-55
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-8 (V)
 
 
 ###### Article R170-54-1
 
 Les cessions consenties en application de la présente section sont constatées par un acte auquel est annexé un extrait du
 plan cadastral. Cet acte indique la consistance et la destination des immeubles ainsi que les délais et les conditions dans
-lesquels les immeubles cédés à la collectivité peuvent faire l'objet d'une aliénation à des tiers.
+lesquels les immeubles cédés à la collectivité ou à l'établissement public d'aménagement en Guyane peuvent faire l'objet
+d'une aliénation à des à des tiers.
 
 L'acte mentionne également la superficie de référence et le total des superficies déjà cédées gratuitement, lorsque la
 cession a lieu en application des dispositions du 3° du premier alinéa de l'article L. 91-2, et la date de la déclaration
 d'utilité publique, lorsque la cession est consentie en application des dispositions du second alinéa de l'article L. 91-2.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 9 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 8 () JORF 3 novembre 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. L91-2
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-9 (V)
 
 
 ###### Article R170-55
 
 Une commission est chargée d'émettre un avis sur les demandes de concession, sur l'exécution des obligations mises à la
 charge de la collectivité par l'acte de concession et sur les demandes de cessions gratuites, pour constituer des réserves
-foncières, présentées par les communes.
+foncières, présentées par les communes ou par l'Etablissement public d'aménagement en Guyane.
 
 Cette commission est présidée par le préfet ou son représentant et comprend :
 
@@ -13290,21 +13600,42 @@ Cette commission est présidée par le préfet ou son représentant et comprend 
 En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
 personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
 
+**Nota:**
+
+Décret n° 2009-634 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé).
+
+L'article 1 du décret n° 2014-592 du 6 juin 2014 a renouvelé pour une durée d'un an à compter du 8 juin 2014 les Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°92-46 du 16 janvier 1992 - art. 10 () JORF 17 janvier 1992
-	  - Décret n°92-46 du 16 janvier 1992 - art. 4 () JORF 17 janvier 1992
+	  - Décret n°96-955 du 31 octobre 1996 - art. 7 () JORF 3 novembre 1996
+	  - Décret n°96-955 du 31 octobre 1996 - art. 9 () JORF 3 novembre 1996
 
 	**Cité par**:
 
 	  - Décret n°2014-592 du 6 juin 2014 - art. (V)
 	  - Code du domaine de l'Etat - art. R170-54 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D5142-10 (V)
 
 
 ##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.
