@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1979-10-19
+Version Consolidée au 1980-03-08
 
 # Partie législative
 
@@ -14149,6 +14149,76 @@ A. 93-4 à A. 93-8.
 
 	  - Code du domaine de l'Etat - art. R94 (V)
 	  - Code du domaine de l'Etat R94, A93-4 à A93-8
+
+
+###### Article A93-4
+
+Les concessions de logement sont accordées par le directeur de l'établissement après avis conforme du conseil
+d'administration et avis du directeur des services fiscaux. Les décisions indiquent la situation et la consistance des locaux
+mis à la disposition des intéressés ainsi que les conditions financières de la concession.
+
+Elles doivent être contresignées :
+
+1° Par le préfet territorialement compétent lorsqu'il s'agit d'un immeuble domanial mis à la disposition de l'établissement
+public dans les conditions visées au deuxième alinéa de l'article A. 93-2 ;
+
+2° Dans tous les cas, par le représentant local du ministre sous l'autorité duquel se trouve placé le bénéficiaire lorsque
+celui-ci n'appartient pas au personnel de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Créé par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Modifié par**:
+
+	  - Arrêté 1980-02-28 art. 1 JORF 8 mars 1980
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A93-2 (V)
+
+
+###### Article A93-5
+
+I. - Les décisions concédant les logements par utilité de service peuvent être établies à titre individuel ou collectif et
+concerner impersonnellement les bénéficiaires en visant leurs emplois ou les postes occupés.
+
+II. - Les décisions concédant les logements par nécessité de service sont toujours individuelles. En cas d'avis défavorable
+du directeur des services fiscaux, elles ne peuvent être prises qu'après avis de la commission départementale des opérations
+immobilières et de l'architecture ou, dans les départements d'outre-mer, de la commission départementale des opérations
+immobilières, de l'architecture et des espaces protégés. Lorsque, s'agissant d'un immeuble visé au dernier alinéa de
+l'article A. 93-2 l'avis de cette commission n'est pas suivi par le conseil d'administration et le directeur de
+l'établissement, le contrôleur financier ou le contrôleur d'Etat placé auprès de l'établissement peut s'opposer à
+l'intervention de la décision.
+
+**Nota:**
+
+NOTA : Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Créé par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Modifié par**:
+
+	  - Arrêté 1980-02-28 art. 2 JORF 8 mars 1980
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A93-2 (V)
 
 
 ###### Article A93-7
