@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -12531,11 +12531,11 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2002.
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 2008.
 
 ###### Article R148-3
 
-Jusqu'au 31 décembre 2002, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+Jusqu'au 31 décembre 2008, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
 voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
@@ -12549,17 +12549,21 @@ ou un établissement public de coopération intercommunale agissant dans le cadr
 l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense.
 
 Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
-amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
+amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix ;
+
+4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
+l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
+	  - Décret n°2003-712 du 28 juillet 2003 - art. 2 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -12579,7 +12583,7 @@ l'article précédent.
 
 	**Modifié par**:
 
-	  - Décret n°97-1119 du 3 décembre 1997 - art. 1 () JORF 5 décembre 1997
+	  - Décret n°2003-712 du 28 juillet 2003 - art. 1 () JORF 2 août 2003
 
 	**Cite**:
 
