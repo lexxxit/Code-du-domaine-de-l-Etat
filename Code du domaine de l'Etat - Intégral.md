@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -693,46 +693,52 @@ l'Etat.
 Sont définitivement acquis à l'Etat :
 
 1° Le montant des coupons, intérêts ou dividendes, atteints par la prescription quinquennale ou conventionnelle et afférents
-à des actions, parts de fondateur ou obligations négociables, émises par toute société commerciale ou civile ou toute
+à des actions, parts de fondateur ou obligations négociables, émises par toute société commerciale ou civile ou par toute
 collectivité soit privée, soit publique ainsi qu'aux certificats pétroliers créés en exécution du décret n° 57-1025 du 10
 septembre 1957 ;
 
 2° Les actions, parts de fondateur, obligations et autres valeurs mobilières des mêmes collectivités, lorsqu'elles sont
 atteintes par la prescription trentenaire ou conventionnelle ;
 
-3° Les dépôts de sommes d'argent et, d'une manière générale, tous avoirs en espèces dans les banques, les établissements de
-crédit et tous autres établissements qui reçoivent des fonds en dépôt ou en compte courant, lorsque ces dépôts ou avoirs
-n'ont fait l'objet de la part des ayants droit d'aucune opération ou réclamation depuis trente années ;
+3° Les dépôts de sommes d'argent et, d'une manière générale, tous avoirs en espèces dans les établissements de crédit et tous
+autres établissements qui reçoivent des fonds en dépôt ou en compte courant, lorsque ces dépôts ou avoirs n'ont fait l'objet
+de la part des ayants droit d'aucune opération ou réclamation depuis trente années ;
 
-4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les banques et autres établissements qui
-reçoivent des titres en dépôt ou pour toute autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet, de la part des
-ayants droit, d'aucune opération ou réclamation depuis trente années.
+4° Les dépôts de titres et, d'une manière générale, tous avoirs en titres dans les établissements de crédit et autres
+établissements qui reçoivent des titres en dépôt ou pour toute autre cause lorsque ces dépôts ou avoirs n'ont fait l'objet,
+de la part des ayants droit, d'aucune opération ou réclamation depuis trente années.
 
 Les transferts des titres nominatifs acquis à l'Etat dans les conditions prévues au présent article sont effectués sur la
 production de ces titres et d'une attestation du directeur des services fiscaux certifiant le droit de l'Etat.
 
-Les agents des impôts (enregistrement et domaines) ont droit de prendre communication au siège des banques, établissements ou
-collectivités visés aux 1°, 2°, 3° et 4°, ou dans leurs agences ou succursales, de tous registres, délibérations, etc.,
-documents quelconques pouvant servir au contrôle des sommes ou titres à remettre à l'Etat.
+Les agents des impôts (enregistrement et domaines) ont droit de prendre communication au siège des établissements de crédit,
+établissements ou collectivités visés aux 1°, 2°, 3° et 4°, ou dans leurs agences ou succursales, de tous registres,
+délibérations, etc., documents quelconques pouvant servir au contrôle des sommes ou titres à remettre à l'Etat.
 
 Les contraventions, et notamment le refus de communication constaté par procès-verbal, la déclaration que les livres,
-contrats ou documents ne sont pas tenus ou leur destruction avant les délais prescrits sont punies d'une amende de 10 à 100
-F, augmentée, le cas échéant, d'une somme égale au montant des coupons, intérêts, dividendes, dépôts ou avoirs ou à la valeur
-nominale des titres pour le versement ou la remise desquels une omission, une dissimulation ou une fraude quelconque a été
-commise au préjudice de l'Etat par la société, la collectivité ou l'établissement intéressé.
+contrats ou documents ne sont pas tenus ou leur destruction avant les délais prescrits sont punies d'une amende de 1,5 à 15
+euros, augmentée, le cas échéant, d'une somme égale au montant des coupons, intérêts, dividendes, dépôts ou avoirs ou à la
+valeur nominale des titres pour le versement ou la remise desquels une omission, une dissimulation ou une fraude quelconque a
+été commise au préjudice de l'Etat par la société, la collectivité ou l'établissement intéressé.
 
-Indépendamment de cette amende, les sociétés ou compagnies françaises ou étrangères et touts autres assujettis aux
+Indépendamment de cette amende, les sociétés ou compagnies françaises ou étrangères et tous autres assujettis aux
 vérifications des agents de l'administration, doivent, en cas d'instance, être condamnés à représenter les pièces ou
-documents non communiqués, sous une astreinte de 1 F au minimum par chaque jour de retard. Cette astreinte, non soumise à
-décimes, commence à courir de la date de la signature par les parties ou de la notification du procès-verbal qui est dressé
+documents non communiqués, sous une astreinte de 0,15 euro au minimum par chaque jour de retard. Cette astreinte, non soumise
+à décimes, commence à courir de la date de la signature par les parties ou de la notification du procès-verbal qui est dressé
 pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
-moyen d'une mention inscrite par un agent de contrôle sur les principaux livres de la société ou de l'établissement, que
+moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres de la société ou de l'établissement, que
 l'administration a été mise à même d'obtenir la communication ordonnée.
 
 Le recouvrement de l'amende et de l'astreinte est assuré, les réclamations et les instances sont présentées ou introduites et
 jugées suivant les règles applicables en matière domaniale.
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L27 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception de son 6ème alinéa qui sera abrogé à compter de la publication des dispositions règlementaires correspondantes du
+code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -749,17 +755,34 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code forestier - art. L513-7 (T)
 	  - Code rural - art. L124-12 (M)
 
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
 	**Anciens textes**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 (M)
 
 	**Nouveaux textes**:
 
+	  - Code général de la propriété des personnes publ... - art. R1126-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L1126-1 (V)
+	  - Code général de la propriété des personnes publiqu - art. L1126-1 (M)
+	  - Code général de la propriété des personnes publiqu - art. L2222-21 (M)
+	  - Code général de la propriété des personnes publiqu - art. L2222-22 (V)
 
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ###### Article L27 bis
@@ -2672,48 +2695,65 @@ correspondantes du code général de la propriété des personnes publiques.
 
 ###### Article L69-1
 
-Les ventes mentionnées à l'article L. 68 ne peuvent être réalisées à un prix inférieur à la valeur vénale des biens cédés.
+Les ventes mentionnées à l'article L. 68 ne peuvent être réalisées à un prix inférieur à la valeur vénale des biens cédés. 
 
 Toutefois, les biens autres que les véhicules automobiles et dont la valeur n'excède pas un plafond fixé par arrêté du
-ministre chargé du domaine peuvent être cédés gratuitement à des Etats étrangers dans le cadre d'une action de coopération.
+ministre chargé du domaine peuvent être cédés gratuitement à des Etats étrangers dans le cadre d'une action de coopération. 
 
 De même, les biens meubles, autres que les véhicules automobiles, et dont la valeur unitaire n'excède pas un plafond fixé par
 arrêté du ministre chargé du domaine, peuvent être cédés gratuitement à des associations relevant de la loi du 1er juillet
-1901 relative au contrat d'association visées au 2 de l'article 238 bis du code général des impôts et dont les ressources
-sont affectées à des oeuvres d'assistance, notamment à la redistribution gratuite de biens meubles aux personnes les plus
-défavorisées. Lesdites associations ne pourront procéder à la rétrocession, à titre onéreux, des biens ainsi alloués à peine
-d'être exclues du bénéfice des présentes mesures.
+1901 relative au contrat d'association visées au b du 1 de l'article 238 bis du code général des impôts et dont les
+ressources sont affectées à des oeuvres d'assistance, notamment à la redistribution gratuite de biens meubles aux personnes
+les plus défavorisées. Lesdites associations ne pourront procéder à la rétrocession, à titre onéreux, des biens ainsi alloués
+à peine d'être exclues du bénéfice des présentes mesures. 
 
 De même, les services de l'Etat, les collectivités territoriales et leurs établissements sont autorisés à céder gratuitement
-les matériels informatiques dont ils n'ont plus l'emploi et dont la valeur unitaire n'excède pas 1000 F aux associations de
-parents d'élèves et aux associations de soutien scolaire. Ces associations s'engagent par écrit à n'utiliser les matériels
+les matériels informatiques dont ils n'ont plus l'emploi et dont la valeur unitaire n'excède pas 152 euros aux associations
+de parents d'élèves et aux associations de soutien scolaire. Ces associations s'engagent par écrit à n'utiliser les matériels
 qui leur sont cédés que pour l'objet prévu par leurs statuts, à l'exclusion de tout autre. Elles ne peuvent procéder à la
 rétrocession, à titre onéreux, des biens ainsi alloués, à peine d'être exclues du bénéfice de la présente loi.
 
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L69-1 du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception de la somme 152 euros au quatrième alinéa qui sera abrogée à compter de la publication des dispositions
+règlementaires correspondantes du code général de la propriété des personnes publiques.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 238 bis
-	  - Code du domaine de l'Etat - art. L68 (M)
-	  - Loi n°1901-07-01
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. A115-1 (V)
 	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+	  - Code du domaine de l'Etat - art. A115-1 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L68 (Ab)
 
 	**Nouveaux textes**:
 
+	  - Code général de la propriété des personnes publ... - art. D3212-3 (V)
+	  - Code général de la propriété des personnes publ... - art. D3212-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R3212-2 (V)
 	  - Code général de la propriété des personnes publiqu - art. L3212-2 (V)
+	  - Code général de la propriété des personnes publiqu - art. L3211-18 (V)
+	  - Code général de la propriété des personnes publiqu - art. L3212-3 (V)
 
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 105 () JORF 3 juillet 1998
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 
 ###### Article L70
@@ -2787,29 +2827,37 @@ Aucune taxe locale ne peut être perçue à l'occasion de ces opérations.
 
 ###### Article L73
 
-le prix principal des biens mobiliers vendus par le service des domaines peut être acquitté en obligations cautionnées à 3, 6
+Le prix principal des biens mobiliers vendus par le service des domaines peut être acquitté en obligations cautionnées à 3, 6
 ou 9 mois d'échéance, dans les conditions qui sont fixées par arrêté du ministre des finances. Il en est de même du prix
 principal de la vente des produits des forêts de l'Etat lorsqu'il est encaissé par le service des domaines.
 
 Ces obligations donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont également fixés
 par un arrêté du même ministre.
 
-La remise spéciale ne peut pas dépasser trois quarts de franc pour 100 F.
+La remise spéciale ne peut pas dépasser 0,11 euros pour 15 euros.
 
 Si les obligations ne sont pas apurées à l'échéance, le Trésor poursuit immédiatement, outre le recouvrement des sommes
-garanties, le paiement des intérêts de ces sommes comptés du jour de ladite échéance et calculés d'après le taux d'intérêt
+garanties, le paiement des intérêts de ces sommes comptés du jour de ladite échéance et calculés d'après le taux de l'intérêt
 légal en matière civile.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 annexe JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. A520-7 (V)
 	  - Code du domaine de l'Etat - art. L47 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
 
 
 #### Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.
@@ -4888,11 +4936,21 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Le prix des acquisitions immobilières faites à l'amiable suivant les règles du droit civil pour le compte de l'Etat ou des
 établissements publics nationaux peut être payé au vendeur, après publication de l'acte au fichier immobilier, sans
-l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 50000 F pour
+l'accomplissement des formalités de purge des privilèges et hypothèques inscrits lorsqu'il n'excède pas 7 700 euros pour
 l'ensemble de l'immeuble acquis. La présente disposition est applicable aux acquisitions immobilières faites après exercice
 du droit de préemption.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -4904,9 +4962,13 @@ du droit de préemption.
 	  - Arrêté du 27 octobre 1987 - art. 16 (V)
 	  - Arrêté du 27 juillet 1963 - art. 27 (Ab)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°87-738 du 3 septembre 1987 - art. 2 () JORF 9 septembre 1987
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1212-7 (V)
 
 
 ###### Article R10
@@ -6950,40 +7012,49 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R54
 
-Le montant du droit fixe prévu à l'article L. 29 est de 130 F.
+Le montant du droit fixe prévu à l'article L. 29 est de 20 euros.
 
-Toutefois, ce montant est de 65 F soit lorsque l'occupation temporaire est autorisée par simple récépissé établi et délivré
-dans les conditions prévues aux articles A. 23 et A. 24, soit lorsque l'autorisation nouvelle fait suite à une autorisation
-précédemment accordée sans apporter de modification à la nature, à l'étendue ou aux conditions techniques de l'occupation.
+Toutefois, ce montant est de 10 euros soit lorsque l'occupation temporaire est autorisée par simple récépissé établi et
+délivré dans les conditions prévues aux articles A. 23 et A. 24, soit lorsque l'autorisation nouvelle fait suite à une
+autorisation précédemment accordée sans apporter de modification à la nature, à l'étendue ou aux conditions techniques de
+l'occupation.
 
-Lorsque l'autorisation de voirie donne lieu au paiement d'une redevance au profit de l'Etat, le droit est acquitté au moyen
-de l'apposition d'un timbre fiscal sur le titre d'autorisation préalablement à la remise de ce titre à son titulaire.
+Lorsque l'autorisation de voirie donne lieu au paiement d'une redevance au profit de l'Etat, le droit fixe est perçu en même
+temps et de la même manière que la redevance ou que le premier terme de la redevance.
+
+Lorsqu'il n'y a pas lieu à paiement d'une redevance au profit de l'Etat, le droit est acquitté au moyen de l'apposition d'un
+timbre fiscal sur le titre d'autorisation préalablement à la remise de ce titre à son titulaire.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L33 al. 2 et 3
-
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°81-1030 1981-11-18 art. 1 JORF 20 novembre 1981
-	  - Décret n°71-242 1971-03-30 art. 1 JORF 3 avril 1971
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Cité par**:
 
 	  - Décret n°2001-839 du 14 septembre 2001 - art. ANNEXE (V)
 	  - Code du domaine de l'Etat - art. A30 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. A23 (V)
-	  - Code du domaine de l'Etat - art. A24 (V)
-	  - Code du domaine de l'Etat - art. L29 (Ab)
+	  - Code du domaine de l'Etat - art. A23
+	  - Code du domaine de l'Etat - art. A24
+	  - Code du domaine de l'Etat - art. L29
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ##### Section 2 : Fixation des redevances.
@@ -7163,8 +7234,8 @@ I. - Dans le cas où l'occupation du domaine public de l'Etat ou du domaine prop
 fondement une concession de service public, d'outillage public ou d'installations portuaires de plaisance, cette concession
 peut être constitutive de droit réel pour son titulaire dans la mesure et aux conditions prévues par le cahier des charges et
 sous réserve que les dispositions correspondantes du cahier des charges aient reçu l'accord, selon que le montant des travaux
-mis à la charge du concessionnaire est inférieur ou supérieur à 20000000 F hors taxes, du préfet ou du ministre chargé du
-domaine et du ministre intéressé.
+mis à la charge du concessionnaire est inférieur ou supérieur à 3 000 000 euros hors taxes, du préfet ou du ministre chargé
+du domaine et du ministre intéressé.
 
 II. - Dans les cas autres que celui prévu au I, la délivrance d'un titre d'occupation, quelle que soit sa forme, constitutif
 de droit réel, sur le domaine public de l'Etat ou d'un établissement public de l'Etat est régie par les articles R. 57-3 et
@@ -7173,21 +7244,37 @@ R. 57-4 ci-après.
 III. - Dans les cas prévus aux I et II, la redevance d'occupation du domaine public est, sous réserve des règlements
 particuliers, fixée comme il est dit aux articles R. 55 à R. 57.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R57-3 (V)
-	  - Code du domaine de l'Etat - art. R57-4 (M)
-	  - Code du domaine de l'Etat R57-3, R57-4, R55 à R57
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. R57-3
+	  - Code du domaine de l'Etat - art. R57-4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-11 (V)
+	  - Code général de la propriété des personnes publ... - art. R2125-14 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ###### Article R57-3
@@ -7275,7 +7362,7 @@ Toutefois, si l'instruction de la demande, qui comporte obligatoirement la consu
 le cas échéant, de l'établissement public ou organisme gestionnaire du domaine public en cause, fait apparaître que tout ou
 partie des ouvrages, constructions et installations de caractère immobilier dont la réalisation est envisagée sont
 nécessaires à la continuité du service public auquel est affecté le domaine public concerné par la demande, la décision ne
-relève de la compétence du préfet que lorsque le montant des travaux projetés est inférieur à 20000000 F hors taxes.
+relève de la compétence du préfet que lorsque le montant des travaux projetés est inférieur à 3 000 000 euros hors taxes.
 
 Dans le cas contraire, elle relève de la compétence conjointe du ministre concerné et du ministre chargé du domaine auxquels
 le préfet transmet la demande accompagnée de son avis.
@@ -7290,7 +7377,7 @@ Toutefois, s'il apparaît à cette autorité que tout ou partie des ouvrages, co
 immobilier dont la réalisation est envisagée sont nécessaires à la continuité du service public auquel est affecté le domaine
 public concerné par la demande, il ne peut y être fait droit que sur accord préalable du ministre de tutelle et du ministre
 chargé du domaine, ou du préfet après avis du directeur des services fiscaux, selon que le montant des travaux projetés est
-ou non supérieur à 20000000 F hors taxes.
+ou non supérieur à 3 000 000 euros hors taxes.
 
 Faute d'obtention de cet accord préalable dans un délai de deux mois à compter de la saisine du préfet ou de quatre mois à
 compter de la saisine des ministres, l'autorité compétente de l'établissement public ou autre organisme gestionnaire est
@@ -7300,6 +7387,12 @@ III. - Lorsque des règlements soumettent les autorisations d'occupation du doma
 l'article L. 28 à des procédures de délivrance ou d'approbation particulières, ces procédures demeurent applicables pour la
 délivrance d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions des I
 et II ci-dessus.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -7330,15 +7423,25 @@ et II ci-dessus.
 	  - Code du domaine de l'Etat - art. R57-2 (Ab)
 	  - Code général des collectivités territoriales - art. R4424-11 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Décret n°96-1058 du 2 décembre 1996 - art. 14 () JORF 10 décembre 1996
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L28 (Ab)
-	  - Code du domaine de l'Etat - art. L30 (V)
-	  - Code du domaine de l'Etat - art. R57-3 (V)
+	  - Code du domaine de l'Etat - art. L28
+	  - Code du domaine de l'Etat - art. L30
+	  - Code du domaine de l'Etat - art. R57-3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-15 (V)
+	  - Code général de la propriété des personnes publ... - art. R2122-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R57-5
@@ -7645,7 +7748,7 @@ du droit réel attaché au titre d'occupation du domaine public ;
 2° Sous réserve des dispositions du 3, le dossier mentionné au 1 est adressé pour agrément au ministre du budget par pli
 recommandé avec demande d'avis de réception postal.
 
-3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 20000000 F hors taxes, le dossier
+3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 3000000 euros hors taxes, le dossier
 est adressé, dans les mêmes formes, au trésorier-payeur général du lieu de situation de l'investissement projeté qui est
 compétent pour délivrer l'agrément.
 
@@ -7658,14 +7761,14 @@ Ce délai est réduit à deux mois dans le cas visé au 3.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
-
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L34-7 (Ab)
 	  - Code du domaine de l'Etat - art. R57-7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.
@@ -11241,17 +11344,18 @@ a lieu par adjudication publique.
 
 L'adjudication est autorisée :
 
-1° Par le préfet après avis du directeur des services fiscaux lorsque la valeur vénale est inférieure ou égale à 7000000 F.
-La valeur vénale et la mise à prix sont fixées par le directeur des services fiscaux ;
+1° Par le préfet après avis du directeur des services fiscaux lorsque la valeur vénale est inférieure ou égale à 1100000
+euros. La valeur vénale et la mise à prix sont fixées par le directeur des services fiscaux ;
 
-2° Par le ministre chargé du domaine si la valeur vénale déterminée par le directeur des services fiscaux excède 7000000 F.
+2° Par le ministre chargé du domaine si la valeur vénale déterminée par le directeur des services fiscaux excède 1100000
+euros.
 
 Le chef du service des domaines établit le cahier des charges type fixant les conditions générales des ventes et détermine
 les modalités générales de la publicité préalable aux adjudications.
 
 Lorsque, en raison de dispositions spéciales, la cession peut être faite à l'amiable, elle est consentie par le préfet, après
 avis du directeur des services fiscaux. Le directeur des services fiscaux détermine la valeur vénale et fixe le prix. Lorsque
-la valeur vénale excède 3500000 F, la cession amiable est autorisée par le ministre chargé du domaine.
+la valeur vénale excède 550000 euros, la cession amiable est autorisée par le ministre chargé du domaine.
 
 Ces valeurs limites peuvent être modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé du domaine.
 
@@ -11277,8 +11381,7 @@ Ces valeurs limites peuvent être modifiées par décret en Conseil d'Etat pris 
 
 	**Modifié par**:
 
-	  - Décret n°87-492 1987-07-03 art. 2 JORF 5 juillet 1987
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R129-1
@@ -11296,7 +11399,7 @@ public national à caractère industriel et commercial ;
 4° Lorsque la spécificité de l'immeuble détermine la qualité de l'acquéreur ;
 
 5° Lorsque la valeur vénale de l'immeuble n'excède pas des montants fixés par arrêté du ministre chargé du domaine dans la
-limite de 500000 F.
+limite de 80000 euros.
 
 **Liens relatifs à cet article**
 
@@ -11304,13 +11407,13 @@ limite de 500000 F.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°88-408 1988-04-22 art. 1 JORF 23 avril 1988
-
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. A104-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R130
@@ -12171,7 +12274,7 @@ voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
 
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 1000000 F ;
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 150000 euros ;
 
 2° Lorsqu'une précédente adjudication a été infructueuse ;
 
@@ -12184,14 +12287,13 @@ amiable, sur proposition du directeur des services fiscaux qui fixe, selon le ca
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°97-1119 du 3 décembre 1997 - art. 1 () JORF 5 décembre 1997
-	  - Décret n°97-1119 du 3 décembre 1997 - art. 2 () JORF 5 décembre 1997
 
 	**Cité par**:
 
@@ -17360,22 +17462,22 @@ et calculée selon les règles suivantes :
 a) Intervention limitée aux négociations amiables et à la représentation de l'acquéreur dans les contrats consécutifs à ces
 pourparlers :
 
-0,65 % jusqu'à 100000 F ;
+0,65 % jusqu'à 15 000 euros ;
 
-0,50 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+0,50 % pour la tranche comprise entre 15 000,01 euros et 300 000 euros ;
 
-0,25 % pour la tranche supérieure à 2 millions de francs.
+0,25 % pour la tranche supérieure à 300 000 euros.
 
 Ces taux sont appliqués au montant des prix ou indemnités versés, en application des accords amiables conclus, à chaque
 propriétaire ou ayant droit intéressé.
 
 b) Intervention portant également sur l'action devant les juridictions d'expropriations :
 
-1,25 % jusqu'à 100000 F ;
+1,25 % jusqu'à 15000 euros ;
 
-1 % pour la tranche comprise entre 100000,01 F et 2 millions de francs ;
+1 % pour la tranche comprise entre 15 000,01 euros et 300 000 euros ;
 
-0,50 % pour la tranche supérieure à 2 millions de francs.
+0,50 % pour la tranche supérieure à 300 000 euros.
 
 Ces taux sont appliqués au montant des indemnités définitives allouées à chaque ayant droit par la juridiction ou au montant
 des sommes versées à chaque intéressé en application d'accords amiables conclus après la saisine de la juridiction.
@@ -17387,20 +17489,34 @@ l'application de dispositions légales ou réglementaires et qu'elle a réelleme
 honoraires exposés avec l'accord de l'établissement ou organisme qui fait appel à son concours lui sont remboursés dans les
 mêmes conditions.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R177 (V)
-	  - Code du domaine de l'Etat - art. R179 (M)
+	  - Code du domaine de l'Etat - art. R177
+	  - Code du domaine de l'Etat - art. R179
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Code général de la propriété des personnes publ... - art. R1212-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
 ###### Article R185
@@ -17757,9 +17873,9 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article D18
 
 Les établissements de recherches de caractère aéronautique, ou les biens acquis en remplacement, attribués à l'Office
-national d'études et de recherches aéronautiques aux termes du décret du 13 novembre 1954, et dont la valeur excède 100000 F
-suivant l'estimation qui en est faite par les services des domaines, ne peuvent être aliénés qu'après accord du ministre des
-finances et du ministre chargé des armées (air).
+national d'études et de recherches aéronautiques aux termes du décret du 13 novembre 1954, et dont la valeur excède 15000
+euros suivant l'estimation qui en est faite par les services des domaines, ne peuvent être aliénés qu'après accord du
+ministre des finances et du ministre chargé des armées (air).
 
 **Liens relatifs à cet article**
 
@@ -17767,9 +17883,9 @@ finances et du ministre chargé des armées (air).
 
 	  - Décret n°1954-11-13
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1954-11-13 art. 2
+	  - Décret n°2001-96 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -18353,11 +18469,11 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Les chiffres limites visés aux articles R. 3 à R. 5 sont fixés comme il suit :
 
-1° Article R. 3 : 30000 F.
+1° Article R. 3 : 4 500 euros.
 
-2° Article R. 4 : 100000 F.
+2° Article R. 4 : 15 000 euros.
 
-3° Article R. 5 : 100000 F.
+3° Article R. 5 : 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -18365,15 +18481,15 @@ Les chiffres limites visés aux articles R. 3 à R. 5 sont fixés comme il suit 
 
 	  - Arrêté 1962-03-14
 
-	**Modifié par**:
-
-	  - Arrêté 1975-10-07 art. 1, art. 2, art. 3 JORF 6 novembre 1975
-
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R3 (V)
 	  - Code du domaine de l'Etat - art. R4 (V)
-	  - Code du domaine de l'Etat R3 à R5, R3, R4
+	  - Code du domaine de l'Etat - art. R5 (V)
+
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article A02
@@ -18401,28 +18517,28 @@ quelle que soit la nature des biens, les avis prévus par les articles R. 3 à R
 I. - Les limites minimales de consultation des commissions départementales pour l'examen des projets visés à l'article R. 10
 sont fixées comme il suit, sous réserve des dispositions du II ci-après :
 
-1° Article R. 10 (1°) : 30000 F.
+1° Article R. 10 (1°) : 4 500 euros.
 
-2° Article R. 10 (2°) : 100000 F.
+2° Article R. 10 (2°) : 15 000 euros.
 
-3° Article R. 10 (3°) : 100000 F.
+3° Article R. 10 (3°) : 15 000 euros.
 
 4° Article R. 10 (4°) :
 
 a) Projets concernant les établissements d'enseignement des premier et second degrés, les écoles normales et les écoles
-nationales de perfectionnement : 2000000 F.
+nationales de perfectionnement : 300 000 euros.
 
-b) Projets concernant les équipements sportifs et socio-éducatifs : 2000000 F.
+b) Projets concernant les équipements sportifs et socio-éducatifs : 300 000 euros.
 
 c) Tous autres projets, à l'exception de ceux visés à l'article A. 04 (4° a et b)) qui relèvent uniquement de la compétence
-des commissions régionales : 5000000 F.
+des commissions régionales : 750 000 euros.
 
 II. - Pour les projets dont la réalisation est poursuivie sur le territoire de la ville de Paris, les limites minimales
 fixées au I sont portées aux chiffres suivants :
 
-1° : 40000 F.
+1° : 6 000 euros.
 
-2° et 3° : 400000 F.
+2° et 3° : 60 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -18438,38 +18554,38 @@ fixées au I sont portées aux chiffres suivants :
 
 	  - Code du domaine de l'Etat - art. R10 (V)
 
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
+
 
 ###### Article A04
 
 Les limites minimales de consultation des commissions régionales pour l'examen des projets visés à l'article R. 10 sont
 fixées aux chiffres suivants :
 
-1° Article R. 10 (1°) : 300000 F.
+1° Article R. 10 (1°) : 45 000 euros.
 
-2° Article R. 10 (2°) : 3000000 F.
+2° Article R. 10 (2°) : 450 000 euros.
 
-3° Article R. 10 (3°) : 3000000 F.
+3° Article R. 10 (3°) : 450 000 euros.
 
 4° Article R. 10 (4°) :
 
-a) Projets relevant du ministère de la défense : 10000000 F.
+a) Projets relevant du ministère de la défense : 1 500 000 euros.
 
 b) Projets poursuivis par le secrétariat d'Etat aux postes et télécommunications et à la télédiffusion lorsqu'ils concernent
-les ouvrages de commutation et de transmission du trafic, de transport et de distribution de voies de télécommunication :
-10000000 F.
+les ouvrages de commutation et de transmission du trafic, de transport et de distribution de voies de télécommunication : 1
+500 000 euros.
 
 c) Tous autres projets, à l'exception de ceux visés à l'article A. 03 (4° a et b) qui relèvent, quel que soit leur montant,
-des commissions départementales : 10000000 F.
+des commissions départementales : 1 500 000 euros.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
-
-	**Modifié par**:
-
-	  - Arrêté 1981-02-11 art. 1 JORF 18 février 1981
 
 	**Cité par**:
 
@@ -18478,6 +18594,10 @@ des commissions départementales : 10000000 F.
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R10 (V)
+
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
 ##### Paragraphe 2 : Dispositions spéciales.
@@ -18621,9 +18741,9 @@ Les limites minimales de consultation des commissions visées à l'article R. 10
 concerne les projets d'opérations immobilières dont la réalisation est poursuivie par les établissements publics nationaux à
 caractère industriel ou commercial dans le cadre de leurs activités d'entreprise publique :
 
-1° Projets visés à l'article R. 10 (1°) : 325000 F ;
+1° Projets visés à l'article R. 10 (1°) : 49 546 euros.
 
-2° Projets visés à l'article R. 10 (2°) : 3250000 F.
+2° Projets visés à l'article R. 10 (2°) : 495 460 euros.
 
 Ces dispositions ne s'appliquent pas lorsque les établissements susvisés :
 
@@ -18641,14 +18761,13 @@ construction.
 
 	  - Arrêté 1962-03-14
 
-	**Modifié par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Arrêté 1981-02-11 art. 2 JORF 18 février 1981
-
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R10 (V)
+
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article A3
@@ -19492,8 +19611,8 @@ Ils sont immédiatement oblitérés dans les conditions fixées par l'article 40
 ###### Article A31
 
 les acomptes mensuels dont le versement est prévu à l'article L. 31 (1er alinéa) sont dus pour toute redevance dont le
-montant exéde 240000 F et ne peut être déterminé exactement qu'en fin d'année, au vu de relevés, d'états ou de tous autres
-renseignements fournis par un service de l'Etat ou par le titulaire de l'autorisation ou de la concession.
+montant exéde 37000 euros et ne peut être déterminé exactement  qu'en fin d'année, au vu de relevés, d'états ou de tous
+autres renseignements fournis par un service de l'Etat ou par le titulaire de l'autorisation ou de la concession.
 
 **Liens relatifs à cet article**
 
@@ -19503,7 +19622,7 @@ renseignements fournis par un service de l'Etat ou par le titulaire de l'autoris
 
 	**Modifié par**:
 
-	  - Arrêté 1980-06-17 art. 1 JORF 27 juin 1980
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -19669,8 +19788,8 @@ résultant du titre de l'autorisation ou de la concession.
 ###### Article A39
 
 I. - Les redevances domaniales fixes dont le montant annuel, déterminé préalablement à l'octroi d'une autorisation temporaire
-d'occupation du domaine public, n'excède pas 500 F sont acquittées d'avance soit pour toute la durée de la concession lorsque
-cette durée n'excède pas cinq ans, soit par périodes triennales dans le cas contraire.
+d'occupation du domaine public, n'excède pas 76 euros sont acquittées d'avance soit pour toute la durée de la concession
+lorsque cette durée n'excède pas cinq ans, soit par périodes triennales dans le cas contraire.
 
 II. - Le paiement de la redevance, s'il intervient en une seule fois, ou celui du premier terme triennal peut être effectué
 au moyen de timbres fiscaux fournis par le titulaire de l'autorisation et apposés, sous la responsabilité de l'autorité
@@ -19693,9 +19812,7 @@ comptables des impôts chargés des recettes domaniales si ce mode de paiement n
 
 	**Modifié par**:
 
-	  - Arrêté 1973-04-26 art. 1 JORF 19 mai 1973
-	  - Arrêté 1980-06-17 art. 2 JORF 27 juin 1980
-	  - Arrêté 1985-04-17 art. 1 JORF 27 avril 1985
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -19770,8 +19887,8 @@ règlements.
 ###### Article A41
 
 Le dossier est alors communiqué au directeur des services fiscaux pour décision en ce qui concerne l'exigibilité d'un prix de
-vente et la détermination de sa quotité. Toutefois, lorsque le prix fixé par le directeur excède 1000000 F, l'opération doit
-être soumise à l'approbation du ministre chargé du domaine.
+vente et la détermination de sa quotité. Toutefois, lorsque le prix fixé par le directeur excède 152 449 euros, l'opération
+doit être soumise à l'approbation du ministre chargé du domaine.
 
 Le dossier est ensuite transmis, s'il y a lieu, pour avis au préfet maritime.
 
@@ -19783,8 +19900,7 @@ Le dossier est ensuite transmis, s'il y a lieu, pour avis au préfet maritime.
 
 	**Modifié par**:
 
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Arrêté 1980-06-17 art. 3 JONC 27 juin 1980
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article A42
@@ -20088,8 +20204,8 @@ l'obligation de fournir caution, et toutes les autres conditions financières de
 Les prix des matières à extraire, quand ils ne sont pas établis d'après un tarif réglementaire, sont fixés par le directeur
 des services fiscaux.
 
-Toutefois, lorsque le prix fixé par le directeur excède 1000000 F, l'opération doit être soumise à l'approbation du ministre
-chargé du domaine.
+Toutefois, lorsque le prix fixé par le directeur excède 152 449 euros, l'opération doit être soumise à l'approbation du
+ministre chargé du domaine.
 
 **Liens relatifs à cet article**
 
@@ -20097,14 +20213,13 @@ chargé du domaine.
 
 	  - Arrêté 1962-03-14
 
-	**Modifié par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Arrêté 1980-06-17 art. 4 JORF 27 juin 1980
-
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. A52 (V)
+
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article A54
@@ -20284,8 +20399,8 @@ avis du directeur des services fiscaux, un des modes d'adjudication prévus aux 
 L'adjudication aux enchères, avec ou sans extinction de feux, a lieu sur la mise à prix annoncée par le président du bureau
 d'adjudication, les enchères devant être exprimées à haute voix.
 
-Les enchères ne peuvent être moindres de 20 F pour les mises à prix de 500 F et au-dessous, de 50 F pour celles de 501 F à
-1000 F, de 100 F pour celles de 1001 F à 10000 F, de 200 F pour celles au-dessus de 10000 F.
+Les enchères ne peuvent être moindres de 3 euros pour les mises à prix de 76 euros et au-dessous, de 8 euros pour celles de
+77 euros à 150 euros, de 15 euros pour celles de 151 euros à 1500 euros, de 30 euros pour celles au-dessus de 1500 euros.
 
 L'adjudication n'est prononcée qu'autant qu'une enchère au moins a été portée sur le montant de la mise à prix. Elle est
 tranchée au profit de l'enchérisseur le plus offrant, après que deux bougies se sont éteintes successivement sur la dernière
@@ -20299,7 +20414,7 @@ enchère ou que deux appels se sont succédés sans qu'une nouvelle enchère ait
 
 	**Modifié par**:
 
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -21440,9 +21555,9 @@ estimation contradictoire ou par expertise.
 ###### Article A104-1
 
 Pour l'application des dispositions du 5° de l'article R. 129-1, la valeur vénale des immeubles pouvant être cédés à
-l'amiable est fixée à 400000 F.
+l'amiable est fixée à 65000 euros.
 
-Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent est porté à 500000 F.
+Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent est porté à 80000 euros.
 
 **Liens relatifs à cet article**
 
@@ -21450,9 +21565,9 @@ Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent es
 
 	  - Arrêté 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1988-09-02 art. 1 JORF 18 septembre 1988
+	  - Arrêté 2001-09-03 art. 1 jorf 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -21711,17 +21826,13 @@ publicité et concurrence et à 4 % en cas de cession amiable.
 La cession amiable, dans le cas où elle est autorisée par l'article L. 69 (3ème alinéa), est constatée au moyen d'une
 soumission, approuvée par le préfet. Le prix est fixé par le directeur des services fiscaux.
 
-Lorsque le prix excède 2000000 F, l'opération doit être approuvée par le ministre chargé du domaine.
+Lorsque le prix excède 300 000 euros, l'opération doit être approuvée par le ministre chargé du domaine.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
-
-	**Modifié par**:
-
-	  - Arrêté 1992-01-22 art. 1 JORF 1 février 1992
 
 	**Cité par**:
 
@@ -21731,11 +21842,15 @@ Lorsque le prix excède 2000000 F, l'opération doit être approuvée par le min
 
 	  - Code du domaine de l'Etat - art. L69 (M)
 
+	**Modifié par**:
+
+	  - Règlement CE 974-98 1998-05-03 art. 14 JOCE 11 mai 1998 rectificatif JOCE 21 novembre 1998 en vigueur le 1er janvier 2002
+
 
 ###### Article A115-1
 
 Pour l'application des dispositions de l'article L. 69-1, deuxième et troisième alinéas, la valeur vénale unitaire des biens
-mobiliers pouvant être cédés gratuitement est fixée respectivement à 10000 F et à 2000 F.
+mobiliers pouvant être cédés gratuitement est fixée respectivement à 1500 et à 300 euros.
 
 **Liens relatifs à cet article**
 
@@ -21745,7 +21860,7 @@ mobiliers pouvant être cédés gratuitement est fixée respectivement à 10000 
 
 	**Modifié par**:
 
-	  - Arrêté 2000-12-01 art. 1 JORF 20 janvier 2001
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -21828,8 +21943,8 @@ des domaines pourra procéder aux opérations de vente.
 
 Sous réserve du paiement comptant de la taxe forfaitaire, les prix principaux des biens mobiliers de l'Etat dont le
 recouvrement est assuré par le service des domaines peuvent, sous la responsabilité du receveur divisionnaire ou du receveur
-principal des impôts, lorsqu'ils sont, pour une même opération et un même acquéreur, supérieurs à 40000 F, être acquittés en
-obligations cautionnées.
+principal des impôts, lorsqu'ils sont, pour une même opération et un même acquéreur, supérieurs à 6100 euros, être acquittés
+en obligations cautionnées.
 
 **Liens relatifs à cet article**
 
@@ -21837,20 +21952,24 @@ obligations cautionnées.
 
 	  - Arrêté 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
 
 
 ###### Article A117-2
 
 La durée du crédit est de :
 
-Trois mois si le prix principal, tout en étant supérieur à 40000 F, ne dépasse pas 200000 F ;
+Trois mois si le prix principal, tout en étant supérieur à 6 100 euros, ne dépasse pas 30 000 euros ;
 
-Six mois, si le prix principal, tout en étant supérieur à 200000 F, ne dépasse pas 2 millions de francs ;
+Six mois, si le prix principal, tout en étant supérieur à 30 000 euros, ne dépasse pas 300 000 euros ;
 
-Neuf mois si le prix principal dépasse deux millions de francs.
+Neuf mois si le prix principal dépasse 300 000 euros.
 
 Ces délais prennent effet du jour de la vente.
 
@@ -21860,13 +21979,13 @@ Ces délais prennent effet du jour de la vente.
 
 	  - Arrêté 1962-03-14
 
-	**Créé par**:
-
-	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
-
 	**Modifié par**:
 
-	  - Arrêté 1981-03-12 art. 2 JORF 19 mars 1981
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
 
 
 ###### Article A117-3
@@ -22073,9 +22192,9 @@ personnels militaires, des dispositions des deuxième, troisième et quatrième 
 Pour l'application de l'article D. 36, les limites minimales dont le dépassement rend obligatoire la consultation de la
 commission interministérielle sont fixées à :
 
-2000000 F pour la valeur vénale des immeubles acquis à l'étranger ;
+300000 euros pour la valeur vénale des immeubles acquis à l'étranger ;
 
-120000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans les pays étrangers.
+18000 euros pour le loyer annuel, charges comprises, des immeubles pris à bail dans les pays étrangers.
 
 **Liens relatifs à cet article**
 
@@ -22085,7 +22204,7 @@ commission interministérielle sont fixées à :
 
 	**Modifié par**:
 
-	  - Arrêté 1992-06-15 art. 1 JORF 16 juillet 1992
+	  - Arrêté 2001-09-03 art. 1 JORF 11 septembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
