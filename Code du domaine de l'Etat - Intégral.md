@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1982-07-07
+Version Consolidée au 1982-07-17
 
 # Partie législative
 
@@ -15934,6 +15934,31 @@ Ces délais prennent effet du jour de la vente.
 	**Modifié par**:
 
 	  - Arrêté 1981-03-12 art. 2 JORF 19 mars 1981
+
+
+###### Article A117-3
+
+Le taux de l'intérêt de crédit est de 14,50 % l'an ; celui de la remise spéciale est de 0,25 % ou 0,50 % ou 0,75 % selon que
+le crédit concédé est de trois, six ou neuf mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Créé par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Abrogé par**:
+
+	  - Arrêté 2006-02-15 art. 5 JORF 4 mars 2006
+
+	**Cité par**:
+
+	  - Arrêté du 30 octobre 1981 - art. 1 (V)
+	  - Arrêté du 16 juillet 1982 - art. 1 (V)
 
 
 ###### Article A117-4
