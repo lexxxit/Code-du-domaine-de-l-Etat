@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-07-16
+Version Consolidée au 1993-08-18
 
 # Partie législative
 
@@ -6259,8 +6259,14 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Les conditions d'exploitation par adjudication, amodiation amiable ou licence du droit de pêche qui appartient à l'Etat dans
 les eaux du domaine public fluvial et dans les parties non salées, déterminées par décret, des cours d'eau et canaux non
-dominaux affluant à la mer, qui se trouvaient comprises dans les limites de l'inscription maritime antérieurement aux 8
-novembre et 28 décembre 1926, sont fixées par le décret n° 87-719 du 28 août 1987.
+domaniaux affluant à la mer, qui se trouvaient comprises dans les limites de l'inscription maritime antérieurement aux 8
+novembre et 28 décembre 1926, sont fixées par la section 1 du chapitre V du titre III du livre IV du code de l'environnement.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -6268,13 +6274,9 @@ novembre et 28 décembre 1926, sont fixées par le décret n° 87-719 du 28 aoû
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
-
-	  - Décret n°87-719 1987-08-28
-
 	**Modifié par**:
 
-	  - Décret n°87-719 du 28 août 1987 - art. 31 () JORF 2 septembre 1987
+	  - Décret n°93-1006 du 11 août 1993 - art. 10 () JORF 18 août 1993
 
 	**Cité par**:
 
@@ -6282,6 +6284,10 @@ novembre et 28 décembre 1926, sont fixées par le décret n° 87-719 du 28 aoû
 	  - Code du domaine de l'Etat - art. A60 (V)
 	  - Code du domaine de l'Etat - art. A69 (Ab)
 	  - Code du domaine de l'Etat - art. A70 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ### Titre II : Domaine privé
