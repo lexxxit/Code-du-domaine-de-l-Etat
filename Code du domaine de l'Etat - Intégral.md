@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-07-07
 
 # Partie législative
 
@@ -3402,6 +3402,206 @@ l'ensemble de l'immeuble acquis.
 	  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
 	  - Arrêté du 27 octobre 1987 - art. 16 (V)
 	  - Arrêté du 27 juillet 1963 - art. 27 (Ab)
+
+
+###### Article R10
+
+Les opérations immobilières énumérées ci-après, poursuivies par l'Etat et les établissements publics nationaux ainsi que par
+leurs concessionnaires, sont, à la diligence des services, personnes ou collectivités intéressés, soumises pour avis, dans
+les conditions indiquées aux articles R. 11 à R. 13, soit à la commission régionale des opérations immobilières, de
+l'architecture et des espaces protégés ou à la commission régionale des opérations immobilières et de l'architecture de la
+région parisienne, soit à la commission départementale des opérations immobilières et de l'architecture, ou, dans chacun des
+départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, à la commission départementale des opérations
+immobilières, de l'architecture et des espaces protégés :
+
+1° Les baux, accords amiables et conventions quelconques ayant pour objet la prise en location d'immeubles de toute nature ou
+de fonds de commerce d'un loyer annuel total, charges comprises, égal ou supérieur à une somme fixée par arrêté du ministre
+des finances ;
+
+2° Les acquisitions d'immeubles, de droits immobiliers, de fonds de commerce et de droits sociaux donnant vocation à
+l'attribution en pleine propriété d'immeubles ou de parties d'immeubles d'une valeur totale égale ou supérieure à une somme
+fixée par arrêté du ministre des finances et poursuivies à l'amiable, ainsi que les tranches d'acquisition d'un montant
+inférieur, mais faisant partie d'une opération d'ensemble d'un montant égal ou supérieure à cette somme ;
+
+3° Les acquisitions d'immeubles ou de droits immobiliers d'une valeur totale égale ou supérieure à une somme fixée par arrêté
+du ministre des finances et poursuivies par voie d'expropriation pour cause d'utilité publique, ainsi que les tranches
+d'acquisition d'un montant inférieur, mais faisant partie d'une opération d'ensemble d'un montant égal ou supérieur à cette
+somme ;
+
+4° Les projets de constructions, de transformations et de restaurations générales d'immeubles lorsque leur coût excède une
+somme fixée, suivant la nature des travaux, par arrêté du ministre chargé des affaires culturelles, du ministre des finances
+et du ministre intéressé.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 7 al. 1 et 11
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Abrogé par**:
+
+	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2007-487 du 30 mars 2007 - art. 28 (Ab)
+	  - Code de l'urbanisme - art. A123-6 (Ab)
+	  - Code de l'urbanisme - art. A212-5 (Ab)
+	  - Code des assurances - art. A431-2 (Ab)
+	  - Code des assurances - art. A431-5 (M)
+	  - Code du domaine de l'Etat - art. A03 (V)
+	  - Code du domaine de l'Etat - art. A04 (V)
+	  - Code du domaine de l'Etat - art. A1 (V)
+	  - Code du domaine de l'Etat - art. A2 (V)
+	  - Code du domaine de l'Etat - art. A3 (V)
+	  - Code du domaine de l'Etat - art. R12 (Ab)
+	  - Code du domaine de l'Etat - art. R128 (Ab)
+	  - Code du domaine de l'Etat - art. R14 (Ab)
+	  - Code du domaine de l'Etat - art. R15 (Ab)
+	  - Code du domaine de l'Etat - art. R16 (Ab)
+	  - Code du domaine de l'Etat - art. R17 (Ab)
+	  - Code du domaine de l'Etat - art. R180 (Ab)
+	  - Code du domaine de l'Etat - art. R182 (Ab)
+	  - Code du domaine de l'Etat - art. R19 (Ab)
+	  - Code du domaine de l'Etat - art. R20 (Ab)
+	  - Code du domaine de l'Etat - art. R52 (V)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+
+	**Créé par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Modifié par**:
+
+	  - Décret n°81-515 1981-05-12 art. 20 JORF 15 mai 1981
+
+
+###### Article R11
+
+Les chiffres limites des compétences respectives des commissions régionales des opérations immobilières, de l'architecture et
+des espaces protégés, de la commission régionale des opérations immobilières et de l'architecture de la région parisienne,
+des commissions départementales des opérations immobilières et de l'architecture et des commissions départementales des
+opérations immobilières, de l'architecture et des espaces protégés des départements d'outre-mer sont fixés par arrêté du
+ministre des finances en ce qui concerne les projets visés à l'article R. 10 (1° à 3°) et par arrêté du ministre chargé des
+affaires culturelles, du ministre des finances et du ministre intéressé en ce qui concerne les projets visés à l'article R.
+10 (4°).
+
+Ces arrêtés peuvent fixer des sommes différentes suivant la nature des travaux, les secteurs d'équipement intéressés et les
+catégories de personnes ou d'organismes visés à l'article R. 10.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 8 sauf dernier al.
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Cité par**:
+
+	  - Décret n°68-1072 du 29 novembre 1968 - art. 2 (Ab)
+	  - Code du domaine de l'Etat - art. R15 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Modifié par**:
+
+	  - Décret n°81-515 1981-05-12 art. 21 JORF 15 mai 1981
+
+
+###### Article R12
+
+I. - Outre les compétences des commissions régionales des opérations immobilières, de l'architecture et des espaces protégés,
+la commission régionale de la région parisienne exerce, dans les limites de la ville de Paris, les attributions dévolues aux
+commissions départementales des opérations immobilières et de l'architecture.
+
+II. - Dans les départements d'outre-mer les commissions départementales des opérations immobilières, de l'architecture et des
+espaces protégés exercent les attributions des commissions régionales des opérations immobilières et de l'architecture pour
+délibérer des affaires et émettre les avis visés par les articles R. 1, R. 10, R. 58, R. 121 et R. 122.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Abrogé par**:
+
+	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Modifié par**:
+
+	  - Décret n°76-423 1976-05-14 art. 1 JORF 16 mai 1976
+	  - Décret n°78-910 1978-09-02 art. 8 JORF 6 septembre 1978
+	  - Décret n°81-515 1981-05-12 art. 22 JORF 15 mai 1981
+	  - Décret n°82-581 1982-06-29 art. 1 JORF 7 juillet 1982
+	  - Décret n°72-266 1972-02-21 art. 4 JORF 12 avril 1972
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R1
+	  - Code du domaine de l'Etat - art. R10
+	  - Code du domaine de l'Etat - art. R121
+	  - Code du domaine de l'Etat - art. R122
+	  - Code du domaine de l'Etat - art. R58
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R16 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
 
 
 ###### Article R13
