@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1989-12-29
+Version Consolidée au 1989-12-30
 
 # Partie législative
 
@@ -2238,10 +2238,7 @@ Elles doivent être faites avec publicité et concurrence.
 Toutefois, pour des considérations de défense nationale, d'utilité publique ou d'opportunité, des cessions amiables peuvent
 être consenties par le service des domaines, tant à des particuliers qu'à des services publics.
 
-En aucun cas, l'aliénation d'un objet ou matériel quelconque ne peut être réalisée à titre gratuit ou à un prix inférieur à
-sa valeur vénale.
-
-Sous les sanctions édictées par l'article 175 du code pénal, les agents préposés aux ventes de toute nature ne peuvent
+Sous les sanctions édictées par l'article 175 du code pénal, les agents préposés aux ventes de toutes nature ne peuvent
 s'immiscer directement ni indirectement dans l'achat, ni accepter aucune rétrocession des objets dont la vente leur est
 confiée.
 
@@ -2263,6 +2260,41 @@ confiée.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Loi n°89-936 1986-12-29 art. 48 JORF 30 décembre 1989
+
+
+###### Article L69-1
+
+Les ventes mentionnées à l'article L. 68 ne peuvent être réalisées à un prix inférieur à la valeur vénale des biens cédés.
+
+Toutefois, les biens autres que les véhicules automobiles et dont la valeur n'excède pas un plafond fixé par arrêté du
+ministre chargé du domaine peuvent être cédés gratuitement à des Etats étrangers dans le cadre d'une action de coopération.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+	  - Code du domaine de l'Etat - art. A115-1 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L68 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L3212-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°89-936 1986-12-29 art. 48 JORF 30 décembre 1989
 
 
 ###### Article L70
@@ -3101,6 +3133,136 @@ redevance domaniale.
 	**Cite**:
 
 	  - Code civil - art. 552 (V)
+
+
+#### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
+
+##### Section 1 : Mise en valeur agricole des terres domaniales
+
+###### Article L91-1
+
+Dans le département de Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet de cessions gratuites
+aux titulaires de concessions accordées par l'Etat en vue de la culture et de l'élevage, qui ont réalisé leur programme de
+mise en valeur à l'issue d'une période probatoire de cinq ans. Celle-ci pourra être prorogée d'une ou plusieurs années dans
+la limite de cinq ans supplémentaires.
+
+Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date du
+transfert de propriété, cette période de trente ans étant réduite de la durée effective de la période probatoire.
+
+Les dispositions prévues à l'alinéa précédent peuvent être étendues, dans des conditions fixées par décret en Conseil d'Etat,
+aux agriculteurs ayant réalisé depuis au moins cinq ans avant l'entrée en vigueur du présent article un programme de mise en
+valeur des terres mises à leur disposition par l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
+	  - Code du domaine de l'Etat - art. L91-7 (Ab)
+	  - Code du domaine de l'Etat - art. R170-31 (M)
+	  - Code du domaine de l'Etat - art. R170-32 (Ab)
+	  - Code du domaine de l'Etat - art. R170-33 (Ab)
+	  - Code du domaine de l'Etat - art. R170-38 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-1 (V)
+	  - Code du domaine de l'Etat - art. R170-46-2 (M)
+	  - Code du domaine de l'Etat - art. R170-68 (M)
+	  - Code du domaine de l'Etat - art. R170-70 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5141-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales
+
+###### Article L91-2
+
+Dans le département de Guyane, les immeubles domaniaux compris dans un plan d'occupation des sols opposable ou un document
+d'urbanisme en tenant lieu, peuvent faire l'objet :
+
+1° De concessions gratuites aux collectivités territoriales lorsqu'ils sont destinés à être affectés à l'aménagement
+d'équipements collectifs, à la construction de logements à vocation très sociale et locatifs aidés ou à des services ou
+usages publics ;
+
+2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
+
+3° De cessions gratuites aux communes en vue de constituer sur leur territoire des réserves foncières, dans les conditions
+prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute occupation
+ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne pourra excéder une
+superficie de référence égale à dix fois la superficie des parties agglomérées de la commune cessionnaire à la date de la
+première cession gratuite.
+
+Peuvent également être cédés gratuitement aux collectivités territoriales les immeubles dépendant du domaine privé de l'Etat
+dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au 1° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 333 J (M)
+	  - Code du domaine de l'Etat - art. L91-7 (Ab)
+	  - Code du domaine de l'Etat - art. R170-47 (Ab)
+	  - Code du domaine de l'Etat - art. R170-48 (Ab)
+	  - Code du domaine de l'Etat - art. R170-54 (Ab)
+	  - Code du domaine de l'Etat - art. R170-54-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5142-1 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L221-1 (M)
+	  - Code de l'urbanisme - art. L221-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt
+
+###### Article L91-3
+
+Dans le département de Guyane, les immeubles domaniaux dépendant du domaine privé de l'Etat peuvent être cédés ou concédés
+gratuitement à des personnes morales en vue de leur utilisation par les communautés d'habitants qui tirent traditionnellement
+leurs moyens de subsistance de la forêt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L91-2-1 (Ab)
+	  - Code du domaine de l'Etat - art. L91-7 (Ab)
+	  - Code forestier - art. L172-4 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5143-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
 
 
 ### Titre V : Dispositions particulières et finales.
