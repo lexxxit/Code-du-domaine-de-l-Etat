@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1996-11-03
+Version Consolidée au 1996-12-10
 
 # Partie législative
 
@@ -6578,8 +6578,8 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Il est statué sur la demande dans les conditions ci-après :
 
-I. - Dans le cas visé au premier alinéa du I de l'article R. 57-3, après instruction par le chef du service déconcentré de
-l'Etat concerné, la décision relève de la compétence du préfet.
+I. - Dans le cas visé au premier alinéa du I de l'article R. 57-3, et sauf en ce qui concerne le domaine public militaire,
+après instruction par le chef du service déconcentré de l'Etat concerné, la décision relève de la compétence du préfet.
 
 Toutefois, si l'instruction de la demande, qui comporte obligatoirement la consultation du directeur des services fiscaux et,
 le cas échéant, de l'établissement public ou organisme gestionnaire du domaine public en cause, fait apparaître que tout ou
@@ -6591,7 +6591,7 @@ Dans le cas contraire, elle relève de la compétence conjointe du ministre conc
 le préfet transmet la demande accompagnée de son avis.
 
 Lorsque la demande concerne le domaine public militaire, la décision relève dans tous les cas de la compétence du ministre de
-la défense et du ministre chargé du domaine, auxquels l'autorité militaire transmet la demande accompagnée de son avis.
+la défense, sous réserve des attributions dévolues au ministre chargé du domaine en application de l'article L. 30.
 
 II. - Dans les cas visés aux deuxième et troisième alinéas du I de l'article R. 57-3, la décision est prise par l'autorité
 compétente de l'établissement public ou autre organisme gestionnaire.
@@ -6640,13 +6640,14 @@ et II ci-dessus.
 	  - Code du domaine de l'Etat - art. R57-2 (Ab)
 	  - Code général des collectivités territoriales - art. R4424-11 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-595 du 6 mai 1995 - art. 1 () JORF 7 mai 1995
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 14 () JORF 10 décembre 1996
 
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L28 (Ab)
+	  - Code du domaine de l'Etat - art. L30 (V)
 	  - Code du domaine de l'Etat - art. R57-3 (V)
 
 
