@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -685,10 +685,22 @@ novembre 1999, publiée au JORF du 11 novembre 1999.
 
 ###### Article L25
 
-Ainsi qu'il est dit aux articles 539 et 713 du code civil, les biens vacants et ceux qui n'ont pas de maître appartiennent à
-l'Etat.
+Les biens qui n'ont pas de maître reviennent de plein droit à l'Etat si la commune sur le territoire de laquelle ils sont
+situés a renoncé à exercer le droit de propriété qui lui est reconnu par l'article 713 du code civil.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Nouveaux textes**:
 
@@ -696,12 +708,7 @@ l'Etat.
 
 	**Cite**:
 
-	  - Code civil - art. 539 (M)
 	  - Code civil - art. 713 (M)
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
 
 
 ###### Article L27
@@ -803,28 +810,37 @@ code général de la propriété des personnes publiques.
 
 ###### Article L27 bis
 
-Lorsqu'un immeuble n'a pas de propriétaire connu, et que les contributions foncières y afférentes n'ont pas été acquittées
-depuis plus de cinq années, cette situation est constatée par arrêté préfectoral, après avis de la commission communale des
-impôts directs. Il est procédé par les soins du préfet à une publication et à un affichage de cet arrêté et, s'il y a lieu, à
+Lorsqu'un immeuble n'a pas de propriétaire connu et que les contributions foncières y afférentes n'ont pas été acquittées
+depuis plus de trois années, cette situation est constatée par arrêté du maire, après avis de la commission communale des
+impôts directs. Il est procédé par les soins du maire à une publication et à un affichage de cet arrêté et, s'il y a lieu, à
 une notification aux derniers domicile et résidence connus du propriétaire. En outre, si l'immeuble est habité ou exploité,
-une notification est également adressée à l'habitant ou exploitant.
+une notification est également adressée à l'habitant ou exploitant. Cet arrêté est, dans tous les cas, notifié au
+représentant de l'Etat dans le département.
 
 Dans le cas où le propriétaire ne s'est pas fait connaître dans un délai de six mois à dater de l'accomplissement de la
-dernière des mesures de publicité prévues ci-dessus, l'immeuble est présumé sans maître au titre de l'article 539 du code
-civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté préfectoral transmis au maire de la commune.
+dernière des mesures de publicité prévues ci-dessus, l'immeuble est présumé sans maître au titre de l'article 713 du code
+civil.
 
-Lorsqu'un bien vacant est nécessaire à la réalisation d'une action ou d'une opération d'aménagement au sens de l'article L.
-300-1 du code de l'urbanisme ou qu'il présente un intérêt pour la commune, le maire peut demander au préfet de mettre en
-oeuvre la procédure prévue par le présent article, en vue de la cession de ce bien par l'Etat à la commune. Le transfert de
-propriété au profit de la commune est effectué par acte administratif dans le délai de quatre mois à compter de la signature
-de l'arrêté préfectoral prévu à l'alinéa précédent et donne lieu au versement à l'Etat d'une indemnité égale à la valeur du
-bien estimée par le service du domaine.
+La commune dans laquelle est situé le bien présumé sans maître peut, par délibération du conseil municipal, l'incorporer dans
+le domaine communal. Cette incorporation est constatée par arrêté du maire. A défaut de délibération prise dans un délai de
+six mois à compter de la vacance présumée du bien, la propriété de celui-ci est attribuée à l'Etat. Le transfert du bien dans
+le domaine de l'Etat est constaté par arrêté préfectoral.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'article L27 bis du code du domaine de l'Etat est abrogé à compter du 1er juillet 2006 à
+l'exception des mots " après avis de la commission communale des impôts directs " qui seront abrogés à compter de la
+publication des dispositions règlementaires correspondantes du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
 
 	**Cité par**:
 
@@ -836,42 +852,46 @@ bien estimée par le service du domaine.
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 69 () JORF 3 juillet 2003
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 70 () JORF 3 juillet 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Nouveaux textes**:
 
+	  - Code général de la propriété des personnes publ... - art. R1123-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L1123-3 (V)
 
 	**Cite**:
 
-	  - Code civil - art. 539 (M)
-	  - Code de l'urbanisme - art. L300-1 (M)
+	  - Code civil - art. 713 (M)
 
 
 ###### Article L27 ter
 
-Lorsqu'un immeuble a été ainsi attribué à l'Etat, le propriétaire ou ses ayants droit ne sont plus en droit d'en exiger la
-restitution si le bien a été aliéné ou utilisé d'une manière qui met obstacle à cette restitution. Ils ne peuvent, dans ce
-cas, obtenir de l'Etat que le paiement d'une indemnité égale à la valeur de l'immeuble au jour de son utilisation.
+Lorsque la propriété d'un immeuble a ainsi été attribuée à une commune ou, à défaut, à l'Etat, le propriétaire ou ses ayants
+droit ne sont plus en droit d'exiger la restitution si le bien a été aliéné ou utilisé d'une manière s'opposant à cette
+restitution. Ils ne peuvent, dans ce cas, obtenir de la commune ou de l'Etat que le paiement d'une indemnité égale à la
+valeur de l'immeuble au jour de son utilisation.
 
 A défaut d'accord amiable, l'indemnité est fixée par le juge compétent en matière d'expropriation pour cause d'utilité
 publique.
 
 La restitution de l'immeuble ou, à défaut, le paiement de l'indemnité visée à l'alinéa précédent, est subordonné au paiement
-par le propriétaire ou ses ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de cinq
-ans mentionné à l'article précédent, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par
-l'Etat.
+par le propriétaire ou ses ayants droit du montant des charges qu'ils ont éludées depuis le point de départ du délai de trois
+ans mentionné à l'article précédent, ainsi que du montant des dépenses nécessaires à la conservation du bien engagées par la
+commune ou par l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°62-933 1962-08-08 art. 1 JORF 10 août 1962
+	  - Loi n°2004-809 du 13 août 2004 - art. 147 () JORF 17 août 2004
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code du domaine de l'Etat - art. L27 bis (M)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
