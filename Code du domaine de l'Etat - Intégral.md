@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1964-07-12
+Version Consolidée au 1967-06-02
 
 # Partie législative
 
@@ -5484,6 +5484,23 @@ résultant du titre de l'autorisation ou de la concession.
 
 ##### Section 2 : Extractions sur le rivage de la mer des sables coquilliers et autres matériaux constituant des amendements marins.
 
+###### Article A49
+
+Les demandes tendant à obtenir l'autorisation d'extraire, sur le rivage de la mer, des sables coquilliers et autres matériaux
+considérés comme amendements marins, sont adressées au directeur des affaires maritimes, qui fait examiner par les
+fonctionnaires du service des affaires maritimes si l'autorisation sollicitée peut être accordée sans inconvénient.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1876-05-10 art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+
 ###### Article A50
 
 Si ces fonctionnaires se prononcent pour l'affirmative, ils formulent les conditions à imposer au pétitionnaire, au point de
@@ -5503,6 +5520,33 @@ conviendrait pas que la concession fût faite à prix réduit ou même à titre 
 	  - Arrêté 1962-03-14
 
 
+###### Article A54
+
+Si le directeur des affaires maritimes n'a pas d'objection à faire contre le prix qui a été fixé, il statue, sur la demande
+de concession, par un arrêté qui règle, conformément aux propositions des services intéressés, les diverses conditions de
+cette concession.
+
+Si, au contraire, il estime que les intérêts du service des affaires maritimes exigent impérieusement que le prix fixé soit
+diminué, ou même que la concession soit entièrement gratuite, il en réfère au ministre chargé des transports (secrétariat
+général de la marine marchande). S'il partage cet avis, celui-ci se concerte avec le ministre des finances pour la solution
+de la difficulté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1876-05-10 art. 6
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A56 (V)
+	  - Code du domaine de l'Etat - art. A58 (V)
+
+
 ###### Article A55
 
 Dans le cas où l'accord ne peut s'établir entre les deux ministres, l'avis du Conseil d'Etat est préalablement recueilli.
@@ -5516,6 +5560,41 @@ Dans le cas où l'accord ne peut s'établir entre les deux ministres, l'avis du 
 	**Codifié par**:
 
 	  - Arrêté 1962-03-14
+
+
+###### Article A58
+
+Afin de faciliter l'instruction des demandes d'extractions les directeurs des affaires maritimes peuvent arrêter, par un
+règlement de police, les conditions auxquelles les extractions doivent être soumises sur les différentes parties du rivage,
+soit au point de vue de sa conservation, soit dans l'intérêt de la navigation ou de la pêche côtière, soit enfin sous le
+rapport des prix à exiger.
+
+Cet arrêté réglementaire, pris sur les propositions des chefs des services intéressés, détermine :
+
+1° Les parties du rivage où les extractions sont interdites ;
+
+2° Celles où elles ne sont autorisées qu'à charge de payer un prix ;
+
+3° Celles où elles sont gratuites, mais soumises à des autorisations spéciales ;
+
+4° Enfin, celles où elles sont gratuites et libres, aux conditions nécessitées par les circonstances locales.
+
+A défaut d'accord entre les chefs des services intéressés pour la préparation de ce règlement de police, il est procédé comme
+il est dit aux articles A. 54, deuxième alinéa, et A. 55, pour les autorisations particulières.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Arrêté 1876-05-10 art. 10
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A54 (V)
 
 
 ###### Article A59
