@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-02-03
+Version Consolidée au 1970-04-01
 
 # Partie législative
 
@@ -5575,6 +5575,41 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ##### Paragraphe 2 : Dispositions spéciales.
 
+###### Article D1
+
+Pour les opérations immobilières poursuivies par les services publics ou d'intérêt public relevant du ministre chargé des
+armées et qui présentent, à ce titre, un caractère confidentiel, les attributions dévolues aux commissions instituées par le
+décret n° 69-825 du 28 août 1969 sont exercées par la commission restreinte unique créée par l'article 2 du décret n° 70-103
+du 3 février 1970.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°50-443 1950-04-19 art. 4
+
+	**Cite**:
+
+	  - Décret n°69-825 1969-08-28
+	  - Décret n°70-103 du 3 février 1970 - art. 2, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°70-103 1970-02-03 art. 4 JORF 5 février 1970 en vigueur le 1er avril 1970
+
+	**Abrogé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. D16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
+
 ###### Article D2
 
 Le caractère confidentiel d'une opération immobilière intéressant la défense nationale résulte d'une décision du ministre
@@ -5625,20 +5660,32 @@ prévu par les articles R. 3, R. 4 et R. 5.
 	  - Décret n°62-300 1962-03-14
 
 
-###### Article D6
+###### Article D4
 
-(texte abrogé).
+En cas de désaccord entre le ministre chargé des armées et la commission restreinte, en ce qui concerne le caractère
+confidentiel d'une opération, l'affaire est portée, sans délai, par ce ministre, devant le Premier ministre qui statue après
+avoir recueilli l'avis du ministre chargé des affaires culturelles.
+
+Si le désaccord porte sur les aspects financiers de l'affaire, le Premier ministre statue après avoir recueilli l'avis du
+ministre des finances.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°50-443 1950-04-19 art. 10
 
 	**Codifié par**:
 
 	  - Décret n°62-300 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°70-103 1970-02-03 art. 5, art. 7 JORF 5 février 1970 en vigueur le 1er avril 1970
+
 	**Abrogé par**:
 
-	  - Décret n°69-825 1969-08-28 art. 70, art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
-	  - Décret n°69-825 du 28 août 1969 - art. 70 (Ab) JORF 6 septembre 1969 en vigueur le 1er avril 1970
+	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
 
 
 ## Livre II : Administration des biens domaniaux
@@ -5735,6 +5782,50 @@ métropolitain.
 ### Titre III : Dispositions communes.
 
 #### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.
+
+###### Article D16
+
+En ce qui concerne l'entretien et l'utilisation des installations immobilières de la défense nationale présentant un
+caractère confidentiel, les attributions confiées aux commissions régionales des opérations immobilières, de l'architecture
+et des espaces protégés et aux commissions départementales des opérations immobilières et de l'architecture sont exercées par
+la commission restreinte visée à l'article D. 1.
+
+Dans le cadre de l'exercice de ces attributions, des missions ne peuvent être confiées, à l'initiative du président de la
+commission restreinte, à qui il en est exclusivement rendu compte, qu'à des agents du service des domaines.
+
+Ces agents figurent sur une liste dressée par le ministre des finances et à laquelle le ministre chargé des armées a donné
+son agrément.
+
+Le droit permanent de contrôle conféré au service des domaines par l'article R. 126 s'exerce dans le cadre des activités de
+la commission restreinte unique et dans les conditions prévues aux deux alinéas précédents.
+
+Les agents du service des domaines ne peuvent, à l'occasion des missions qui leur sont confiées en conformité du présent
+article, formuler des observations ou des propositions relatives à des questions touchant à la défense nationale ou à des
+attributions d'ordre technique dévolues aux services utilisateurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°70-103 1970-02-03 art. 6, art. 7 JORF 5 février 1970 en vigueur 1er avril 1970
+
+	**Abrogé par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V) JORF 2 juin 1987
+
+	**Cité par**:
+
+	  - Décret n°87-359 du 26 mai 1987 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. D1 (Ab)
+	  - Code du domaine de l'Etat - art. R126 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
+
 
 ###### Article D17
 
