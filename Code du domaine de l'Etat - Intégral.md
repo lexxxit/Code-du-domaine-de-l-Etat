@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-27
 
 # Partie législative
 
@@ -3547,7 +3547,7 @@ redevance domaniale.
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
 
-##### Section 1 : Mise en valeur agricole des terres domaniales
+##### Section 1 : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales
 
 ###### Article L91-1
 
@@ -3565,9 +3565,9 @@ valeur des terres mises à leur disposition par l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+	  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
 
 	**Cité par**:
 
@@ -3591,7 +3591,51 @@ valeur des terres mises à leur disposition par l'Etat.
 	  - Décret n°62-298 1962-03-14
 
 
-##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales
+###### Article L91-1-1
+
+Lorsqu'il est créé en application des articles L. 321-1 et suivants du code de l'urbanisme un établissement public
+d'aménagement, celui-ci peut se voir confier par convention la passation, au nom de l'Etat, des contrats de concession et
+cession mentionnées à l'article L. 91-1.
+
+L'établissement public d'aménagement visé à l'alinéa précédent peut, pour réaliser des travaux d'aménagement rural,
+bénéficier par convention avec l'Etat de concessions et de cessions gratuites de terres, selon les mêmes procédures que les
+personnes physiques. Cette convention définit les conditions et les modalités de concession ou de vente des terres qui ont
+fait l'objet des travaux d'aménagement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°96-954 du 31 octobre 1996 - art. 2 (VT)
+	  - Code du domaine de l'Etat - art. R170-31 (M)
+	  - Code du domaine de l'Etat - art. R170-31-1 (Ab)
+	  - Code du domaine de l'Etat - art. R170-35 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-1 (M)
+	  - Code du domaine de l'Etat - art. R170-46-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-1 (M)
+	  - Code de l'urbanisme - art. L321-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5141-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement
 
 ###### Article L91-2
 
@@ -3604,20 +3648,31 @@ usages publics ;
 
 2° De cessions gratuites aux titulaires des concessions mentionnées au 1° ci-dessus ;
 
-3° De cessions gratuites aux communes en vue de constituer sur leur territoire des réserves foncières, dans les conditions
-prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute occupation
-ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne pourra excéder une
-superficie de référence égale à dix fois la superficie des parties agglomérées de la commune cessionnaire à la date de la
-première cession gratuite.
+3° De cessions gratuites aux communes ou à un établissement public d'aménagement créé en application des articles L. 321-1 et
+suivants du code de l'urbanisme en vue de constituer sur le territoire d'une commune des réserves foncières dans les
+conditions prévues aux articles L. 221-1 et L. 221-2 du code de l'urbanisme, à condition que les biens soient libres de toute
+occupation ou ne soient pas confiés en gestion à des tiers. La superficie globale cédée en une ou plusieurs fois ne peut
+excéder sur chaque commune une superficie de référence égale à dix fois la superficie des parties agglomérées de la commune
+de situation des biens cédés à la date de la première cession gratuite. Lorsque les cessions gratuites sont consenties à un
+établissement public d'aménagement, elles doivent faire l'objet d'un accord préalable de la commune de situation des biens
+cédés.
 
 Peuvent également être cédés gratuitement aux collectivités territoriales les immeubles dépendant du domaine privé de l'Etat
 dont l'expropriation a été déclarée d'utilité publique en vue de réaliser l'un des objectifs mentionnés au 1° ci-dessus.
 
+Les concessions et cessions mentionnées au présent article peuvent faire l'objet de prescriptions particulières visant à
+préserver l'environnement. Le non-respect de ces prescriptions peut entraîner l'abrogation de l'acte de concession ou de
+cession par le représentant de l'Etat dans le département.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 49 JORF 30 décembre 1989
+	  - Loi n°94-638 du 25 juillet 1994 - art. 38 () JORF 27 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -3636,6 +3691,7 @@ dont l'expropriation a été déclarée d'utilité publique en vue de réaliser 
 
 	  - Code de l'urbanisme - art. L221-1 (M)
 	  - Code de l'urbanisme - art. L221-2 (M)
+	  - Code de l'urbanisme L321, L221-1, L221-2
 
 	**Codifié par**:
 
