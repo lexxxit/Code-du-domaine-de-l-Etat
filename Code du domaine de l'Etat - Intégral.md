@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1996-12-10
+Version Consolidée au 1997-01-01
 
 # Partie législative
 
@@ -3460,6 +3460,71 @@ réservés.
 	  - Code général de la propriété des personnes publiqu - art. L5111-3 (V)
 
 
+###### Article L88-1
+
+Dans les départements de Guyane et de la Réunion, les espaces naturels situés à l'intérieur de la zone définie à l'article L.
+87 sont remis en gestion au Conservatoire de l'espace littoral et des rivages lacustres pour être gérés dans les conditions
+prévues aux articles L. 243-1 à L. 243-10 du code rural. En cas de refus du conservatoire, la gestion de ces espaces naturels
+peut être confiée à une collectivité territoriale en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent
+code, passée après accord du Conservatoire de l'espace littoral et des rivages lacustres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L51-1 (V)
+	  - Code du domaine de l'Etat - art. L87 (M)
+	  - Code rural L243-1 à L243-10
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5331-7 (VT)
+
+
+###### Article L88-2
+
+Dans le département de Guyane, il est institué une commission départementale de vérification des titres dans les conditions
+prévues à l'article L. 89-2, à l'exception des dispositions des huitième et neuvième alinéas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
+	  - Décret n°2014-930 du 19 août 2014 (V)
+	  - Code du domaine de l'Etat - art. R169-4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5113-2 (V)
+
+
 ###### Article L89
 
 La commune peut obtenir, après déclassement, la cession à son profit de terrains susceptibles d'aménagement, situés dans la
@@ -3469,7 +3534,7 @@ Cette cession ne peut concerner que des terrains classés en zone urbaine par un
 tiers et inclus dans un périmètre géré par la commune en vertu d'une convention de gestion de l'article L. 51-1.
 
 La cession doit avoir pour but la réalisation d'opérations d'aménagement conformes au code de l'urbanisme et notamment aux
-objectifs définis au troisième alinéa de son article L. 156-3.
+objectifs définis au II de son article L. 156-3.
 
 Le paiement du prix de cession peut être échelonné ou différé, sur la demande de la commune, dans un délai ne pouvant excéder
 la date d'achèvement de chaque tranche de travaux ou à la date d'utilisation ou de commercialisation des terrains si elle est
@@ -3486,7 +3551,11 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	**Modifié par**:
 
-	  - Loi n°86-2 du 3 janvier 1986 - art. 38 () JORF 4 janvier 1986
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 11 () JORF 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -3502,6 +3571,436 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L5111-5 (V)
+
+
+#### Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.
+
+###### Article L89-1
+
+I. - Dans un délai d'un an à compter de la date de publication de la loi n° 96-1241 du 30 décembre 1996 relative à
+l'aménagement, la protection et la mise en valeur de la zone dite des cinquante pas géométriques dans les départements
+d'outre-mer, le préfet délimite, par arrêté, après consultation des communes, à l'intérieur de cette zone, d'une part, les
+espaces urbains et les secteurs occupés par une urbanisation diffuse, d'autre part, les espaces naturels.
+
+II. - Lorsqu'elle n'a pas été délimitée en application de la législation et de la réglementation en vigueur, la limite
+supérieure de la zone définie à l'article L. 87 est fixée à partir de la limite du rivage de la mer tel qu'il a été délimité
+en application de la législation et de la réglementation relatives à la délimitation du rivage de la mer.
+
+Lorsque le rivage de la mer n'a pas été délimité, il est procédé aux opérations nécessaires à sa délimitation dans un délai
+d'un an à compter de la date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée.
+
+III. - L'arrêté portant délimitation, d'une part, des espaces urbains et des secteurs occupés par une urbanisation diffuse
+et, d'autre part, des espaces naturels constate l'état d'occupation du sol.
+
+Le schéma d'aménagement régional prévu à l'article L. 4433-7 du code général des collectivités territoriales, les schémas
+directeurs et les plans d'occupation des sols prévus par le code de l'urbanisme sont pris en compte.
+
+IV. - Pour l'application des dispositions du présent article, la présence de constructions éparses ne peut faire obstacle à
+l'identification d'un secteur comme espace naturel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°96-1241 1996-12-30
+	  - Code du domaine de l'Etat - art. L87 (M)
+	  - Code général des collectivités territoriales - art. L4433-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 4 (V)
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
+	  - Code du domaine de l'Etat - art. L89-3 (Ab)
+	  - Code du domaine de l'Etat - art. L89-4 (Ab)
+	  - Code du domaine de l'Etat - art. L89-5 (Ab)
+	  - Code du domaine de l'Etat - art. L89-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-1 (V)
+
+
+###### Article L89-2
+
+Dans chacun des départements de la Guadeloupe et de la Martinique, il est institué, dans un délai qui ne peut être supérieur
+à un an à compter de l'entrée en vigueur de la loi n° 96-1241 du 30 décembre 1996 précitée, une commission départementale de
+vérification des titres.
+
+Cette commission apprécie la validité de tous les titres antérieurs à l'entrée en vigueur du décret n° 55-885 du 30 juin 1955
+qui n'ont pas été examinés par la commission, prévue par son article 10, établissant les droits de propriété, réels ou de
+jouissance sur les terrains précédemment situés sur le domaine de la zone des cinquante pas géométriques dont la détention
+par la personne privée requérante n'était contrariée par aucun fait de possession d'un tiers à la date du 1er janvier 1995.
+
+Sous peine de forclusion, seuls les titres présentés dans un délai de deux ans à compter de la constitution de la commission
+départementale de vérification des titres seront examinés.
+
+La commission départementale de vérification des titres comprend trois membres en activité ou honoraires : un magistrat de
+l'ordre judiciaire, qui assure la présidence, un membre de la chambre régionale des comptes dont relève le département
+concerné et un membre du corps des tribunaux administratifs et des cours administratives d'appel.
+
+Un notaire présenté par la chambre départementale des notaires et deux fonctionnaires des services déconcentrés de l'Etat
+sont associés à ses travaux, sans prendre part à ses délibérations. Le notaire ne peut participer aux travaux de la
+commission lorsqu'il exerce ses fonctions dans une étude ayant eu à connaître d'un acte relatif aux droits établis par le
+titre litigieux.
+
+Le secrétariat de cette commission est assuré par le greffe de la cour d'appel.
+
+La cour d'appel connaît de l'appel interjeté à l'encontre des décisions de la commission.
+
+Les personnes privées qui ont présenté un titre ne peuvent déposer une demande de cession à titre onéreux pour les mêmes
+terrains, dans les conditions prévues aux articles L. 89-4 et L. 89-5 tant que la commission n'a pas statué sur la validation
+de ce titre.
+
+Les personnes privées qui ont déposé un dossier de demande de cession à titre onéreux dans les conditions prévues aux
+articles L. 89-4 et L. 89-5 ne peuvent saisir la commission en vue de la validation d'un titre portant sur les mêmes terrains
+tant que la demande de cession n'a pas fait l'objet d'une décision de l'Etat.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-885 du 30 juin 1955 - art. 10 (V)
+	  - Loi n°96-1241 1996-12-30
+	  - Code du domaine de l'Etat - art. L89-4 (M)
+	  - Code du domaine de l'Etat - art. L89-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°98-836 du 14 septembre 1998 - art. 3 (V)
+	  - Décret n°2014-930 du 19 août 2014 (V)
+	  - Code du domaine de l'Etat - art. L88-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170 (Ab)
+	  - Code du domaine de l'Etat - art. R170-11 (Ab)
+	  - Code du domaine de l'Etat - art. R170-15 (Ab)
+	  - Code du domaine de l'Etat - art. R170-16 (Ab)
+	  - Code du domaine de l'Etat - art. R170-19 (Ab)
+	  - Code du domaine de l'Etat - art. R170-25 (Ab)
+	  - Code du domaine de l'Etat - art. R170-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-3 (V)
+
+
+###### Article L89-3
+
+L'Etat peut consentir aux communes et aux organismes ayant pour objet la réalisation d'opérations d'habitat social, après
+déclassement, la cession gratuite à leur profit de terrains situés dans la zone définie à l'article L. 87 dépendant du
+domaine public maritime de l'Etat.
+
+Cette cession gratuite ne peut concerner que des terrains situés dans les espaces urbains et les secteurs occupés par une
+urbanisation diffuse, délimités selon les modalités prévues à l'article L. 89-1.
+
+Elle doit avoir pour but la réalisation par la commune d'opérations d'aménagement à des fins d'utilité publique ou la
+réalisation par les organismes compétents d'opérations d'habitat social.
+
+Toutefois, lorsque les terrains ont été équipés par l'agence créée en application de l'article 4 de la loi n° 96-1241 du 30
+décembre 1996 précitée, la cession est faite au prix correspondant au coût des aménagements réalisés sur les terrains cédés,
+et financés par l'agence.
+
+Lorsqu'ils n'ont pas été utilisés dans un délai de dix ans à compter de la date de la cession conformément à l'objet qui l'a
+justifiée, les terrains cédés reviennent dans le patrimoine de l'Etat, à charge pour celui-ci de rembourser, le cas échéant,
+aux cessionnaires le coût des aménagements qu'ils auront acquitté.
+
+Les conditions dans lesquelles les terrains autres que ceux libres de toute occupation peuvent être cédés aux communes ou aux
+organismes d'habitat social sont précisées par décret en Conseil d'Etat.
+
+Dans le département de la Guadeloupe sont rattachées au domaine privé de l'Etat les parcelles AN 661, AN 662 et AN 663
+autrefois cadastrées AN 591 situées sur le territoire de la ville de Basse-Terre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997 rectificatif JORF 23 janvier 1997
+
+	**Cite**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 4 (M)
+	  - Code du domaine de l'Etat - art. L87 (M)
+	  - Code du domaine de l'Etat - art. L89-1 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 5 (V)
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
+	  - Code du domaine de l'Etat - art. R170 (Ab)
+	  - Code du domaine de l'Etat - art. R170-3 (Ab)
+	  - Code du domaine de l'Etat - art. R170-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-4 (V)
+
+
+###### Article L89-4
+
+Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
+modalités prévues à l'article L. 89-1, peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y ont
+édifié ou fait édifier avant le 1er janvier 1995 des constructions affectées à l'exploitation d'établissements à usage
+professionnel.
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder de plus de la moitié la superficie occupée par l'emprise au sol
+des bâtiments et installations édifiés avant le 1er janvier 1995.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+	  - Code du domaine de l'Etat - art. L89-8 (Ab)
+	  - Code du domaine de l'Etat - art. R170-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-4 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-5 (V)
+
+
+###### Article L89-5
+
+Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
+modalités prévues à l'article L. 89-1, peuvent être déclassés aux fins de cession à titre onéreux aux personnes ayant édifié
+ou fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions à usage d'habitation qu'elles occupent
+à titre principal ou qu'elles donnent à bail en vue d'une occupation principale.
+
+A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de
+cession à titre onéreux aux occupants de constructions affectées à leur habitation principale et édifiées avant le 1er
+janvier 1995.
+
+Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
+fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
+
+La superficie cédée est ajustée en fonction des nécessités de l'équipement du secteur en voirie et réseaux divers et des
+conditions de cession des fonds voisins. Elle ne peut excéder un plafond fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 3 (V)
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
+	  - Loi - art. 79 (P)
+	  - Code du domaine de l'Etat - art. D20 (Ab)
+	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+	  - Code du domaine de l'Etat - art. L89-8 (Ab)
+	  - Code du domaine de l'Etat - art. R170-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-6 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-375 du 27 avril 2000
+	  - TXT_SOURCE: Décret n°2000-375 du 27 avril 2000 - art. 1 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L89-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-6 (V)
+
+
+###### Article L89-6
+
+Un terrain ne peut être cédé à une personne privée tant qu'il n'a pas été délimité et que les servitudes et usages dont il
+fait l'objet après sa cession n'ont pas été intégralement précisés.
+
+Dans les quartiers d'habitat spontané, les cessions font l'objet de la délivrance d'un titre accompagné d'un plan de bornage
+extrait de la division parcellaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-7 (V)
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+###### Article L89-7
+
+Les espaces naturels délimités selon les modalités de l'article L. 89-1 sont remis en gestion au Conservatoire de l'espace
+littoral et des rivages lacustres pour être gérés dans les conditions prévues aux articles L. 243-1 à L. 243-10 du code
+rural. En cas de refus du conservatoire, la gestion de ces espaces naturels peut être confiée à une collectivité territoriale
+en vertu d'une convention de gestion prévue à l'article L. 51-1 du présent code, passée après accord du Conservatoire de
+l'espace littoral et des rivages lacustres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L243-1 à L243-10
+	  - Code du domaine de l'Etat - art. L51-1 (V)
+	  - Code du domaine de l'Etat - art. L89-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-8 (V)
+
+
+###### Article L89-8
+
+Pendant un délai de six mois à compter de la date de l'enregistrement ou de l'accomplissement de la formalité fusionnée, les
+communes et, à défaut, les agences créées en application de la loi n° 96-1241 du 30 décembre 1996 précitée peuvent exercer un
+droit de préemption sur les terrains cédés en application des articles L. 89-4 et L. 89-5 en offrant de verser à l'acquéreur
+ou à ses ayants droit une indemnité égale au prix de cession du terrain par l'Etat majoré du coût des aménagements réalisés
+par le propriétaire. Il est tenu compte de l'évolution du coût de la construction pour l'évaluation de ces aménagements.
+
+Aucune vente, aucune promesse de vente ni aucune promesse d'achat ne peut être valablement conclue avant que celui qui
+souhaite acquérir n'ait été informé par le vendeur du montant de l'indemnité de préemption prévue à l'alinéa précédent.
+
+Seuls les terrains cédés depuis moins de dix ans dans le cadre des articles L. 89-4 et L. 89-5 relèvent du droit de
+préemption prévu au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°96-1241 1996-12-30
+	  - Code du domaine de l'Etat - art. L89-4 (M)
+	  - Code du domaine de l'Etat - art. L89-5 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Cité par**:
+
+	  - Décret n°98-1081 du 30 novembre 1998 - art. 2 (V)
+	  - Code du domaine de l'Etat - art. R170-8 (Ab)
+	  - Code du domaine de l'Etat - art. R170-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-9 (V)
+
+
+###### Article L89-9
+
+Un décret en Conseil d'Etat, publié dans un délai de trois mois à compter de la date de publication de la loi n° 96-1241 du
+30 décembre 1996 précitée, précise les conditions d'application des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°57-1336 1957-12-28
+	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°96-1241 1996-12-30
+
+	**Créé par**:
+
+	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5112-10 (V)
 
 
 #### Chapitre II : Domanialité publique des eaux.
