@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1976-04-01
+Version Consolidée au 1977-01-01
 
 # Partie législative
 
@@ -1862,6 +1862,46 @@ règlementaires correspondantes du code général de la propriété des personne
 
 	  - Code général de la propriété des personnes publ... - art. R3212-1 (V)
 	  - Code général de la propriété des personnes publiqu - art. L3212-1 (V)
+
+
+##### Paragraphe 11 bis : Cession à des collectivités locales et rétrocession à leurs anciens propriétaires des immeubles acquis par l'Etat dans les zones à urbaniser en priorité et dans les zones d'aménagement différé
+
+###### Article L66-1
+
+Les immeubles acquis par l'Etat dans une zone à urbaniser en priorité ou dans une zone d'aménagement différé, par
+substitution à une collectivité locale qui n'a pas exercé sont droit de préemption, peuvent être cédés à celle-ci
+conformément aux articles L. 210-1 et suivants du code de l'urbanisme.
+
+Les anciens propriétaires des terrains acquis par l'Etat dans une zone d'aménagement différé, par substitution à une
+collectivité locale, peuvent, ainsi que leurs ayants cause universels ou à titre universel, en obtenir la rétrocession dans
+les cas et les conditions définis aux articles 9 et 11 de la loi modifiée du 26 juillet 1962.
+
+**Nota:**
+
+NOTA : La loi n° 62-848 est abrogée par la loi n° 76-1285 1976-12-31 art. 80.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°62-848 1962-07-26 art. 9, art. 11
+	  - Code de l'urbanisme - art. L210-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°76-1285 1976-12-31 art. 80 JORF 1er janvier 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R148-2 (Ab)
 
 
 #### Chapitre II : Domaine mobilier.
