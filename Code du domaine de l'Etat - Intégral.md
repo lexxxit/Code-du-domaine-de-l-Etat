@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-11-06
+Version Consolidée au 2004-11-28
 
 # Partie législative
 
@@ -22613,10 +22613,8 @@ estimation contradictoire ou par expertise.
 
 ###### Article A104-1
 
-Pour l'application des dispositions du 5° de l'article R. 129-1, la valeur vénale des immeubles pouvant être cédés à
-l'amiable est fixée à 65000 euros.
-
-Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent est porté à 80000 euros.
+Pour l'application des dispositions de l'article R. 129-4, la valeur vénale des immeubles dont la cession doit être autorisée
+par le ministre chargé du domaine est fixée à 1 000 000 Euros.
 
 **Liens relatifs à cet article**
 
@@ -22626,11 +22624,11 @@ Dans la région d'Ile-de-France, le montant énoncé à l'alinéa précédent es
 
 	**Modifié par**:
 
-	  - Arrêté 2001-09-03 art. 1 jorf 11 septembre 2001 en vigueur le 1er janvier 2002
+	  - Arrêté 2004-11-16 art. 1 JORF 28 novembre 2004
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R129-1 (M)
+	  - Code du domaine de l'Etat - art. R129-4 (V)
 
 
 #### Chapitre II : Domaine mobilier.
