@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-07-27
+Version Consolidée au 1994-11-23
 
 # Partie législative
 
@@ -10613,7 +10613,41 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1991.
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1996.
+
+###### Article R148-3
+
+Jusqu'au 31 décembre 1996, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+voie d'adjudication publique.
+
+Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
+
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 1000000 F ;
+
+2° Lorsqu'une précédente adjudication a été infructueuse ;
+
+3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département de la situation du bien ou un
+établissement public de coopération intercommunale agissant dans l'exercice de ses compétences, s'engage à acquérir
+l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense.
+
+Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
+amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°94-1005 du 16 novembre 1994 - art. 1 () JORF 23 novembre 1994
+	  - Décret n°94-1005 du 16 novembre 1994 - art. 2 () JORF 23 novembre 1994
+
+	**Cité par**:
+
+	  - Décret du 23 juillet 2015 (V)
+
 
 ###### Article R148-4
 
@@ -10628,46 +10662,12 @@ l'article précédent.
 
 	**Modifié par**:
 
-	  - Décret n°91-377 du 16 avril 1991 - art. 1 () JORF 20 avril 1991
+	  - Décret n°94-1005 du 16 novembre 1994 - art. 1 () JORF 23 novembre 1994
 
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R129 (M)
 	  - Code du domaine de l'Etat - art. R138 (V)
-
-
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1993.
-
-###### Article R148-3
-
-Jusqu'au 31 décembre 1993, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
-voie d'adjudication publique.
-
-Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
-
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 1000000 F ;
-
-2° Lorsqu'une précédente adjudication a été infructueuse ;
-
-3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble s'engage à l'acquérir et à en payer le prix dans un
-délai fixé en accord avec le ministre de la défense.
-
-Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
-amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°91-377 du 16 avril 1991 - art. 1 () JORF 20 avril 1991
-
-	**Cité par**:
-
-	  - Décret du 23 juillet 2015 (V)
 
 
 #### Chapitre II : Domaine mobilier.
