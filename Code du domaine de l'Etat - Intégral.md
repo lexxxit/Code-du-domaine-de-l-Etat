@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2000-04-30
+Version Consolidée au 2000-06-01
 
 # Partie législative
 
@@ -7705,6 +7705,157 @@ Ce délai est réduit à deux mois dans le cas visé au 3.
 
 	  - Code du domaine de l'Etat - art. L34-7 (Ab)
 	  - Code du domaine de l'Etat - art. R57-7 (V)
+
+
+##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.
+
+###### Article R57-10
+
+Le titre d'occupation, quelle que soit sa forme, constitutif de droit réel sur le domaine public de l'Etat compris dans les
+limites administratives des ports qui relèvent de la compétence des départements est délivré, après consultation du préfet,
+par le président du conseil général ou par le concessionnaire lorsque les termes de la concession le prévoient expressément.
+
+Toutefois, dans le cas prévu au deuxième alinéa du II de l'article R. 57-4, le concessionnaire ne peut décider de faire droit
+à la demande de titre d'occupation constitutif de droit réel sur le domaine public que sur l'accord préalable du président du
+conseil général délivré après consultation du préfet. Faute d'avoir obtenu cet accord, le concessionnaire est tenu de refuser
+le caractère constitutif de droit réel au titre d'occupation du domaine public demandé.
+
+Si, dans les deux mois de sa saisine, le préfet n'a pas fait connaître son avis, ce dernier est réputé favorable.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°2000-475 du 29 mai 2000 - art. 1 () JORF 1er juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R57-13 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R57-4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-50 (V)
+
+
+###### Article R57-11
+
+La redevance d'occupation du domaine public est, sous réserve des règlements particuliers, fixée par le président du conseil
+général en application des règles définies par le conseil général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2000-475 du 29 mai 2000 - art. 1 () JORF 1er juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2125-15 (V)
+
+
+###### Article R57-12
+
+La demande de titre d'occupation constitutif de droit réel est adressée au président du conseil général ou, lorsque les
+termes de la concession le prévoient expressément, au concessionnaire.
+
+Elle est instruite par le service du département chargé de la gestion des ports ou, si cette gestion lui a été confiée, par
+le service déconcentré compétent de l'Etat.
+
+Le dossier de la demande est constitué dans les conditions prévues au II de l'article R. 57-3.
+
+Lorsque des règlements soumettent les autorisations d'occupation du domaine public délivrées en application de l'article L.
+28 à des procédures de délivrance ou d'approbation particulières, ces procédures demeurent applicables pour la délivrance
+d'autorisations constitutives de droit réel dans la mesure où elles ne sont pas contraires aux dispositions de la présente
+sous-section.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2000-475 du 29 mai 2000 - art. 1 () JORF 1er juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L28
+	  - Code du domaine de l'Etat - art. R57-3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-51 (V)
+
+
+###### Article R57-13
+
+Les articles R. 57-5 à R. 57-9 sont applicables aux titres délivrés en application de l'article R. 57-10.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2000-475 du 29 mai 2000 - art. 1 () JORF 1er juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. R57-10
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-54 (M)
 
 
 #### Chapitre II : Transfert de gestion.
