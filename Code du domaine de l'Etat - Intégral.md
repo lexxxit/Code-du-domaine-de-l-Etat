@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1980-04-25
+Version Consolidée au 1980-06-27
 
 # Partie législative
 
@@ -12748,6 +12748,33 @@ Ils sont immédiatement oblitérés dans les conditions fixées par l'article 40
 
 ##### Section 2 : Fixation des redevances.
 
+###### Article A31
+
+les acomptes mensuels dont le versement est prévu à l'article L. 31 (1er alinéa) sont dus pour toute redevance dont le
+montant exéde 240000 F et ne peut être déterminé exactement qu'en fin d'année, au vu de relevés, d'états ou de tous autres
+renseignements fournis par un service de l'Etat ou par le titulaire de l'autorisation ou de la concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1980-06-17 art. 1 JORF 27 juin 1980
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. A123-6 (Ab)
+	  - Code du domaine de l'Etat - art. A33 (V)
+	  - Code du domaine de l'Etat - art. A37 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L31 (M)
+
+
 ###### Article A32
 
 Pour toute autorisation ou concession donnant lieu à la délivrance d'un titre nouveau, celui-ci indique le montant des
@@ -12956,6 +12983,26 @@ règlements.
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R53 (M)
+
+
+###### Article A41
+
+Le dossier est alors communiqué au directeur des services fiscaux pour décision en ce qui concerne l'exigibilité d'un prix de
+vente et la détermination de sa quotité. Toutefois, lorsque le prix fixé par le directeur excède 1000000 F, l'opération doit
+être soumise à l'approbation du ministre chargé du domaine.
+
+Le dossier est ensuite transmis, s'il y a lieu, pour avis au préfet maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1980-06-17 art. 3 JONC 27 juin 1980
 
 
 ###### Article A42
@@ -13252,6 +13299,30 @@ l'obligation de fournir caution, et toutes les autres conditions financières de
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. A53 (M)
+
+
+###### Article A53
+
+Les prix des matières à extraire, quand ils ne sont pas établis d'après un tarif réglementaire, sont fixés par le directeur
+des services fiscaux.
+
+Toutefois, lorsque le prix fixé par le directeur excède 1000000 F, l'opération doit être soumise à l'approbation du ministre
+chargé du domaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1980-06-17 art. 4 JORF 27 juin 1980
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A52 (V)
 
 
 ###### Article A54
