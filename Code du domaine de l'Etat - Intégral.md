@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2002-08-30
+Version Consolidée au 2002-11-06
 
 # Partie législative
 
@@ -12653,9 +12653,9 @@ soit par le chef des services fiscaux, soit par l'un des directeurs qui exercent
 
 ###### Article R150-2
 
-Les chefs des services fiscaux et les directeurs des impôts peuvent, dans les conditions fixées par le chef du service des
-domaines, déléguer une partie de leurs pouvoirs en matière domaniale aux fonctionnaires ayant au moins le grade d'inspecteur.
-Ils peuvent également donner délégation de signature à ces mêmes agents.
+Dans la limite des compétences domaniales qui lui sont propres, le fonctionnaire chargé d'un service à compétence nationale
+ou d'un service déconcentré de la direction générale des impôts peut, dans les conditions fixées par le directeur général des
+impôts, déléguer sa signature aux agents, ayant au moins le grade de contrôleur, placés sous son autorité.
 
 **Liens relatifs à cet article**
 
@@ -12663,9 +12663,9 @@ Ils peuvent également donner délégation de signature à ces mêmes agents.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°69-137 1969-02-06 art. 2 JORF du 7 février 1969
+	  - Décret n°2002-1323 du 29 octobre 2002 - art. 1 () JORF 6 novembre 2002
 
 
 ###### Article R151
