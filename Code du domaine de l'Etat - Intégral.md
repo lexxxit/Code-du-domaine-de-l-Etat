@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1969-10-08
+Version Consolidée au 1970-02-03
 
 # Partie législative
 
@@ -3703,6 +3703,36 @@ au livre II du nouveau code rural.
 	  - Décret n°62-299 1962-03-14
 
 
+##### Paragraphe 2 : Locations soumises à des règles particulières.
+
+###### Article R70
+
+La location des immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme, ou par le
+ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de
+centres urbains nouveaux, peut être consentie pour une durée supérieure à dix-huit ans.
+
+Les actes de location sont passés par le service des domaines dans les formes ordinaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°57-526 1957-04-19 art. 10, art. 12 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*331-10 (Ab)
+	  - Code de l'urbanisme - art. R*331-12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°70-96 1970-01-29 art. 1 JORF 3 février 1970
+
+
 ##### Section 3 : Intervention d'organismes d'habitations à loyer modéré ou d'organismes spécialisés dans la gestion d'immeubles domaniaux.
 
 ###### Article R75
@@ -4887,6 +4917,41 @@ modalités de résiliation des cessions au cas d'inexécution des obligations du
 	**Abrogé par**:
 
 	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969 en vigueur le 1er avril 1970
+
+
+##### Paragraphe 4 : Cessions d'immeubles acquis ou aménagés par le fonds national de l'aménagement foncier et de l'urbanisme ou par le ministère de l'équipement et du logement sur des crédits budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux.
+
+###### Article R143
+
+Le service des domaines peut procéder, sans limitation de valeur, à l'aliénation des immeubles acquis ou aménagés par le
+fonds national de l'aménagement foncier et de l'urbanisme, ou par le ministère de l'équipement et du logement sur des crédits
+budgétaires ouverts pour la réalisation de villes nouvelles ou de centres urbains nouveaux ; ces aliénations peuvent
+intervenir avant l'achèvement des travaux d'aménagement. 
+
+En cas de cessions de gré à gré, celles-ci sont faites en vertu de décisions d'attribution prises par le ministre de
+l'équipement et du logement. Pour les immeubles acquis ou aménagés par le fonds national de l'aménagement foncier de
+l'urbanisme, la décision d'attribution comporte fixation du prix après avis du service des domaines sur la valeur vénale des
+immeubles. Pour les immeubles acquis ou aménagés par le ministère de l'équipement et du logement sur les crédits budgétaires
+visés à l'alinéa précédent, la décision d'attribution comporte indication du prix fixé par le service des domaines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°57-526 1957-04-19 art. 11, art. 12 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*331-11 (Ab)
+	  - Code du domaine de l'Etat - art. D17-1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°70-96 1970-01-29 art. 1, art. 2 JORF 3 février 1970
 
 
 ##### Paragraphe 8 : Lais et relais de mer - Marais - Concessions.
