@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1991-01-06
+Version Consolidée au 1991-04-20
 
 # Partie législative
 
@@ -9984,9 +9984,32 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1991.
 
+###### Article R148-4
+
+Les dispositions des articles R. 129 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux visés à
+l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°91-377 du 16 avril 1991 - art. 1 () JORF 20 avril 1991
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R129 (M)
+	  - Code du domaine de l'Etat - art. R138 (V)
+
+
+##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1993.
+
 ###### Article R148-3
 
-Jusqu'au 31 décembre 1991, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+Jusqu'au 31 décembre 1993, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
 voie d'adjudication publique.
 
 Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
@@ -10007,38 +10030,13 @@ amiable, sur proposition du directeur des services fiscaux qui fixe, selon le ca
 
 	  - Décret n°62-299 1962-03-14
 
-	**Créé par**:
-
-	  - Décret n°87-335 1987-05-19 art. 1 JORF 21 mai 1987
-
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°91-377 du 16 avril 1991 - art. 1 () JORF 20 avril 1991
 
 	**Cité par**:
 
 	  - Décret du 23 juillet 2015 (V)
-
-
-###### Article R148-4
-
-Les dispositions des articles R. 129 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux visés à
-l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°87-335 1987-05-19 art. 1 JORF 21 mai 1987
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R129 (M)
-	  - Code du domaine de l'Etat - art. R138 (V)
 
 
 #### Chapitre II : Domaine mobilier.
