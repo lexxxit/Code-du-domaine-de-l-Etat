@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1963-06-23
+Version Consolidée au 1964-07-12
 
 # Partie législative
 
@@ -127,6 +127,53 @@ assimilés.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+
+###### Article L6
+
+Dans les communes visées à l'alinéa 5 de l'article 1er de la loi n° 48-1360 du 1er septembre 1948, à l'expiration des baux
+conclus entre les parties ou à l'expiration du droit au maintien dans les lieux conféré par des dispositions antérieures et
+notamment par l'article 4 de la loi n° 50-244 du 28 février 1950, les administrations publiques de l'Etat ainsi que les
+personnes occupant des locaux affectés à l'exercice d'une fonction publique dans lesquels l'habitation n'est pas
+indivisiblement liée au local utilisé pour cette fonction, bénéficieront, sous réserve d'y être autorisées comme il est
+indiqué ci-dessous, quelle que soit la qualité du preneur et nonobstant toute clause contractuelle ou décision judiciaire
+contraire, d'un délai pour évacuer les immeubles ou parties d'immeubles qu'elles occupent.
+
+Le bénéfice du délai d'évacuation prévu à l'alinéa précédent est subordonné, dans les départements de Paris, des Hauts-de-
+Seine, du Val-de-Marne et de Seine-Saint-Denis, à l'autorisation de la commission centrale de contrôle des opérations
+immobilières et, dans les autres départements, à l'autorisation de la commission départementale de contrôle des opérations
+immobilières (1).
+
+Le délai d'évacuation autorisé par lesdites commissions est au maximum d'un an. Il peut être renouvelé sans que la durée des
+délais successifs puisse excéder trois ans.
+
+**Nota:**
+
+NOTA (1) : Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales
+des opérations immobilières sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Cite**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 5 (M)
+	  - fr Loi 50-244 1950-02-28
+
+	**Modifié par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 1 (V) JORF 12 juillet 1964
+
+	**Cité par**:
+
+	  - Ordonnance n°77-1107 du 26 septembre 1977 - art. 5 (Ab)
 
 	**Abrogé par**:
 
