@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1968-05-02
+Version Consolidée au 1969-02-07
 
 # Partie législative
 
@@ -3358,6 +3358,51 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ##### Section 2 : Fixation des redevances.
 
+###### Article R55
+
+Les directeurs des services fiscaux fixent les redevances dues à raison des occupations et des utilisations de toute nature
+du domaine public national.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L35
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+
+	**Cité par**:
+
+	  - Décret n°73-870 du 28 août 1973 - art. 2 (Ab)
+	  - Décret n°89-405 du 20 juin 1989 - art. 13 (V)
+	  - Décret n°95-463 du 27 avril 1995 - art. 17 (Ab)
+	  - Décret n°2009-279 du 11 mars 2009 - art. 14 (V)
+	  - Décret n°2010-669 du 18 juin 2010 - art. 11 (V)
+	  - Décret n°2011-52 du 13 janvier 2011 - art. 11 (V)
+	  - Code du domaine de l'Etat - art. A13 (V)
+	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2125-1 (V)
+
+
 ###### Article R56
 
 Toute redevance stipulée au profit du Trésor doit tenir compte des avantages de toute nature procurés au concessionnaire.
@@ -3603,6 +3648,33 @@ interministériel.
 ##### Section 1 : Locations
 
 ##### Paragraphe 1 : Dispositions générales.
+
+###### Article R66
+
+Les locations d'immeubles domaniaux sont consenties par le préfet, après fixation, par le directeur départemental des impôts
+chargé du domaine, des conditions financières du contrat.
+
+Toutefois, le ministre des finances autorise les locations d'une durée qui excède dix-huit ans et qui ne sont pas consenties
+dans les conditions définies à l'article R. 69.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L44
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R69 (V)
+
 
 ###### Article R68
 
@@ -4729,6 +4801,40 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Code du domaine de l'Etat - art. R148-4 (Ab)
 
 
+###### Article R139
+
+Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à l'amiable, dans les conditions prévues à l'alinéa
+premier de l'article R. 130, sur les instructions du ministre intéressé et après avis favorable du ministre chargé du
+logement, lorsqu'ils sont destinés à être utilisés pour la réalisation d'opérations d'urbanisme ou de construction.
+
+Les conditions de l'utilisation des immeubles par les cessionnaires sont définies dans des cahiers des charges établis par le
+service des domaines avec le concours des services du ministère chargé du logement. Ces cahiers des charges fixent les
+modalités de résiliation des cessions au cas d'inexécution des obligations du cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L96
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 20 février 1969
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R130 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R140 (Ab)
+	  - Code du domaine de l'Etat - art. R69 (Ab)
+
+
 ###### Article R141
 
 (texte non reproduit).
@@ -4820,9 +4926,85 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - PILOTE_SUIVEUR: Code rural et de la pêche maritime - art. R142-10 (VD)
 
 
+##### Paragraphe 10 : Servitudes.
+
+###### Article R148
+
+Les cessions amiables de servitudes constituées au profit de l'Etat sont consenties par le préfet, sur proposition du
+directeur départemental des impôts chargé du domaine, dans les conditions prévues à l'alinéa premier de l'article R. 130.
+
+Le projet de cession est préalablement affiché à la mairie de la situation des lieux et soumis à un enquête d'une durée de
+dix jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L110
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R130 (Ab)
+
+
 ## Livre IV : Dispositions diverses
 
 ### Titre Ier : Dispositions générales.
+
+###### Article R150
+
+Dans l'exercice des pouvoirs qui leur sont attribués par le présent code, les préfets agissent en tant que représentants,
+dans leurs départements, du ministre des finances.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L126 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R150-2
+
+Les chefs des services fiscaux et les directeurs des impôts peuvent, dans les conditions fixées par le chef du service des
+domaines, déléguer une partie de leurs pouvoirs en matière domaniale aux fonctionnaires ayant au moins le grade d'inspecteur.
+Ils peuvent également donner délégation de signature à ces mêmes agents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°69-137 1969-02-06 art. 2 JORF du 7 février 1969
+
 
 ###### Article R151
 
