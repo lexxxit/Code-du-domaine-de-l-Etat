@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-07-26
 
 # Partie législative
 
@@ -1124,6 +1124,357 @@ d'autorisation ou de concession.
 	  - Code du domaine de l'Etat - art. A22 (V)
 	  - Code du domaine de l'Etat - art. R128-8 (Ab)
 	  - Code du domaine de l'Etat - art. R57 (Ab)
+
+
+##### Section 3 : Occupations constitutives de droits réels.
+
+###### Article L34-1
+
+Le titulaire d'une autorisation d'occupation temporaire du domaine public de l'Etat a, sauf prescription contraire de son
+titre, un droit réel sur les ouvrages, constructions et installations de caractère immobilier qu'il réalise pour l'exercice
+d'une activité autorisée par ce titre.
+
+Ce droit confère à son titulaire, pour la durée de l'autorisation et dans les conditions et les limites précisées dans la
+présente section, les prérogatives et obligations du propriétaire.
+
+Le titre fixe la durée de l'autorisation, en fonction de la nature de l'activité et de celle des ouvrages autorisés, et
+compte tenu de l'importance de ces derniers, sans pouvoir excéder soixante-dix ans.
+
+**Nota:**
+
+NOTA : L34-1, troisième alinéa, 2me phrase : (Dispositions déclarées non conformes à la Constitution par décision du Conseil
+Constitutionnel n° 94-346 DC du 21 juillet 1994).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 1er juin 1924 - art. 38 (V)
+	  - Décret n°97-547 du 29 mai 1997 - art. ANNEXE (V)
+	  - Loi - art. 83 (V)
+	  - Décret n°2004-308 du 29 mars 2004 - art. 9 (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 4 (Ab)
+	  - Décret n°2009-721 du 17 juin 2009 - art. Annexe (V)
+	  - Code du domaine de l'Etat - art. L34-2 (VD)
+	  - Code du domaine de l'Etat - art. L34-4 (Ab)
+	  - Code du domaine de l'Etat - art. L34-7 (Ab)
+	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
+	  - Code général des collectivités territoriales - art. L4424-22 (VD)
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-2
+
+Les droits, ouvrages, constructions et installations de caractère immobilier ne peuvent être cédés, ou transmis dans le cadre
+de mutations entre vifs ou de fusion, absorption ou scission de sociétés, pour la durée de validité du titre restant à
+courir, y compris dans le cas de réalisation de la sûreté portant sur lesdits droits et biens et dans les cas prévus aux
+troisième et quatrième alinéas, qu'à une personne agréée par l'autorité compétente, en vue d'une utilisation compatible avec
+l'affectation du domaine public occupé.
+
+Lors du décès d'une personne physique titulaire d'un titre d'occupation constitutif de droits réels, celui-ci peut être
+transmis, dans les conditions prévues à l'alinéa précédent, au conjoint survivant ou aux héritiers sous réserve que le
+bénéficiaire, désigné par accord entre eux, soit présenté à l'agrément de l'autorité compétente dans un délai de six mois à
+compter du décès.
+
+Les droits, ouvrages, constructions et installations ne peuvent être hypothéqués que pour garantir les emprunts contractés
+par le titulaire de l'autorisation en vue de financer la réalisation, la modification ou l'extension des ouvrages,
+constructions et installations de caractère immobilier situés sur la dépendance domaniale occupée.
+
+Les créanciers chirographaires autres que ceux dont la créance est née de l'exécution des travaux mentionnés à l'alinéa
+précédent ne peuvent pratiquer des mesures conservatoires ou des mesures d'exécution forcée sur les droits et biens
+mentionnés au présent article.
+
+Les hypothèques sur lesdits droits et biens s'éteignent au plus tard à l'expiration des titres d'occupation délivrés en
+application des articles L. 34-1 et L. 34-4, quels qu'en soient les circonstances et le motif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-1 (Ab)
+	  - Code du domaine de l'Etat - art. L34-4 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
+	  - Code du domaine de l'Etat - art. R57-7 (Ab)
+	  - Code du domaine de l'Etat - art. R57-7-1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-7 (V)
+	  - Code général de la propriété des personnes publiqu - art. L2122-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-3
+
+A l'issue du titre d'occupation, les ouvrages, constructions et installations de caractère immobilier existant sur la
+dépendance domaniale occupée doivent être démolis, soit par le titulaire de l'autorisation, soit à ses frais, à moins que
+leur maintien en l'état n'ait été prévu expressément par le titre d'occupation ou que l'autorité compétente ne renonce en
+tout ou partie à leur démolition.
+
+Les ouvrages, constructions et installations de caractère immobilier dont le maintien à l'issue du titre d'occupation a été
+accepté deviennent de plein droit et gratuitement la propriété de l'Etat, francs et quittes de tous privilèges et
+hypothèques.
+
+Toutefois, en cas de retrait de l'autorisation avant le terme prévu, pour un motif autre que l'inexécution de ses clauses et
+conditions, le titulaire est indemnisé du préjudice direct, matériel et certain né de l'éviction anticipée. Les règles de
+détermination de l'indemnité peuvent être précisées dans le titre d'occupation. Les droits des créanciers régulièrement
+inscrits à la date du retrait anticipé sont reportés sur cette indemnité.
+
+Deux mois au moins avant la notification d'un retrait pour inexécution des clauses et conditions de l'autorisation, les
+créanciers régulièrement inscrits sont informés des intentions de l'autorité compétente à toutes fins utiles, et notamment
+pour être mis en mesure de proposer la substitution d'un tiers au permissionnaire défaillant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°2000-682 du 19 juillet 2000 - art. Annexe, article 15 (V)
+	  - Code du domaine de l'Etat - art. L34-8 (Ab)
+	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-9 (V)
+
+
+###### Article L34-4
+
+Lorsque les ouvrages, constructions ou installations sont nécessaires à la continuité du service public, les dispositions de
+l'article L. 34-1 ne leur sont applicables que sur décision de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi - art. 83 (V)
+	  - Code du domaine de l'Etat - art. L34-2 (VD)
+	  - Code du domaine de l'Etat - art. L34-8 (Ab)
+	  - Code du domaine de l'Etat - art. L34-8-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-5
+
+Les dispositions de la présente section sont également applicables aux conventions de toute nature ayant pour effet
+d'autoriser l'occupation du domaine public.
+
+Lorsque ce droit d'occupation du domaine public résulte d'une concession de service public ou d'outillage public, le cahier
+des charges précise les conditions particulières auxquelles il doit être satisfait pour tenir compte des nécessités du
+service public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L34-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-11 (V)
+
+
+###### Article L34-6
+
+Des décrets en Conseil d'Etat fixent les conditions d'application des articles L. 34-1 à L. 34-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat L34-1 à L34-5
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-7
+
+Dans le cadre des titres d'occupation prévus par les articles L. 34-1 et L. 34-5, la réalisation des ouvrages, constructions
+et installations, à l'exclusion de ceux affectés à un service public et aménagés à cet effet ou affectés directement à
+l'usage du public ainsi que des travaux exécutés pour une personne publique dans un but d'intérêt général, peut donner lieu à
+la conclusion de contrats de crédit-bail par le titulaire du droit d'occupation.
+
+La conclusion de tels contrats de crédit-bail au bénéfice d'organismes dans lesquels l'Etat ou l'établissement public
+gestionnaire du domaine apporte un concours financier ou détient, directement ou indirectement, une participation financière
+permettant d'exercer un pouvoir prépondérant de décision ou de gestion est soumise à un agrément de l'Etat. Cet agrément peut
+être refusé si l'opération se traduit par un accroissement des charges ou une diminution des ressources de l'Etat. Les
+modalités de cet agrément sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi - art. 83 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 287 (M)
+	  - Code du domaine de l'Etat - art. L34-7-1 (Ab)
+	  - Code du domaine de l'Etat - art. R57-9 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-1 (Ab)
+	  - Code du domaine de l'Etat - art. L34-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-8
+
+Les dispositions des articles L. 34-1 à L. 34-7 sont applicables aux établissements publics de l'Etat, tant pour le domaine
+public de l'Etat qui leur est confié que pour leur domaine propre.
+
+Pour l'application du deuxième alinéa de l'article L. 34-3, les ouvrages, constructions et installations concernés situés sur
+le domaine propre d'un établissement public deviennent la propriété dudit établissement public.
+
+Des décrets en Conseil d'Etat apportent les adaptations nécessaires aux dispositions relatives à la gestion du domaine public
+par les établissements publics de l'Etat, et notamment les conditions dans lesquelles les décisions prises par les autorités
+compétentes de ces établissements sont, dans les cas prévus à l'article L. 34-4, soumises à approbation de leur ministre de
+tutelle et du ministre chargé du domaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-3 (Ab)
+	  - Code du domaine de l'Etat - art. L34-4 (Ab)
+	  - Code du domaine de l'Etat L34-1 à L34-7, L34-3, L34-4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L34-9
+
+Les dispositions de la présente section ne sont pas applicables au domaine public naturel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Créé par**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 1 () JORF 26 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2122-5 (V)
 
 
 #### Chapitre II : Transfert de gestion.
