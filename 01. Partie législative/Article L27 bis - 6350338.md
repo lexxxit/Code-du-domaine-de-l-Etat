@@ -10,11 +10,13 @@ Dans le cas où le propriétaire ne s'est pas fait connaître dans un délai de 
 dernière des mesures de publicité prévues ci-dessus, l'immeuble est présumé sans maître au titre de l'article 539 du code
 civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté préfectoral.
 
+Lorsqu'un bien vacant est nécessaire à la réalisation d'une action ou d'une opération d'aménagement au sens de l'article L.
+300-1 du code de l'urbanisme, le maire peut demander au préfet de mettre en oeuvre la procédure prévue par le présent
+article, en vue de la cession de ce bien par l'Etat à la commune. Le transfert de propriété au profit de la commune est
+effectué par acte administratif dans le délai de six mois à compter de la signature de l'arrêté préfectoral prévu à l'alinéa
+précédent et donne lieu au versement à l'Etat d'une indemnité égale à la valeur du bien estimée par le service du domaine.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°62-933 1962-08-08 art. 1 JORF 10 août 1962
 
 	**Cité par**:
 
@@ -24,6 +26,10 @@ civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté p
 	  - Code rural - art. L125-13 (M)
 	  - Code rural ancien - art. 44 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2000-1208 2000-12-13 art. 39 JORF 14 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L1123-3 (V)
@@ -31,6 +37,7 @@ civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté p
 	**Cite**:
 
 	  - Code civil - art. 539 (M)
+	  - Code de l'urbanisme - art. L300-1 (M)
 
 	**Codifié par**:
 

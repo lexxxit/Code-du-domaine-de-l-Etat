@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2000-06-01
+Version Consolidée au 2000-12-14
 
 # Partie législative
 
@@ -820,11 +820,13 @@ Dans le cas où le propriétaire ne s'est pas fait connaître dans un délai de 
 dernière des mesures de publicité prévues ci-dessus, l'immeuble est présumé sans maître au titre de l'article 539 du code
 civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté préfectoral.
 
+Lorsqu'un bien vacant est nécessaire à la réalisation d'une action ou d'une opération d'aménagement au sens de l'article L.
+300-1 du code de l'urbanisme, le maire peut demander au préfet de mettre en oeuvre la procédure prévue par le présent
+article, en vue de la cession de ce bien par l'Etat à la commune. Le transfert de propriété au profit de la commune est
+effectué par acte administratif dans le délai de six mois à compter de la signature de l'arrêté préfectoral prévu à l'alinéa
+précédent et donne lieu au versement à l'Etat d'une indemnité égale à la valeur du bien estimée par le service du domaine.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°62-933 1962-08-08 art. 1 JORF 10 août 1962
 
 	**Cité par**:
 
@@ -834,6 +836,10 @@ civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté p
 	  - Code rural - art. L125-13 (M)
 	  - Code rural ancien - art. 44 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2000-1208 2000-12-13 art. 39 JORF 14 décembre 2000
+
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L1123-3 (V)
@@ -841,6 +847,7 @@ civil, et l'attribution de sa propriété à l'Etat fait l'objet d'un arrêté p
 	**Cite**:
 
 	  - Code civil - art. 539 (M)
+	  - Code de l'urbanisme - art. L300-1 (M)
 
 	**Codifié par**:
 
@@ -17206,25 +17213,29 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R179
 
-Pour la fixation des indemnités d'expropriation, des fonctionnaires de la direction des services fiscaux désignés par arrêté
-du directeur général des impôts agissent devant les juridictions de l'expropriation au nom des services expropriants de
-l'Etat.
+En vue de la fixation des indemnités d'expropriation, le directeur des services fiscaux peut désigner des fonctionnaires
+placés sous son autorité pour agir devant les juridictions de l'expropriation au nom des services expropriants de l'Etat.
 
 Ils agissent également au nom des établissements ou sociétés mentionnés à l'article R. 177, si ceux-ci l'ont demandé.
 
-Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article 7 modifié du décret n°
-59-1335 du 20 novembre 1959.
+Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article R. 13-7 du code de
+l'expropriation pour cause d'utilité publique.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°59-1335 1959-11-20 art. 7
-	  - Code du domaine de l'Etat - art. R177 (V)
-
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°2000-1210 du 6 décembre 2000 - art. 1 (V) JORF 14 décembre 2000
 
 	**Cité par**:
 
@@ -17232,9 +17243,18 @@ Les désignations prévues au présent article ne peuvent porter sur les agents 
 	  - Code du domaine de l'Etat - art. R178 (Ab)
 	  - Code du domaine de l'Etat - art. R184 (Ab)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R177
+	  - Code de l'expropriation pour cause d'utilité publique - art. **R13-7
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R1212-12 (V)
 
 
 ###### Article R180
