@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1970-04-01
+Version Consolidée au 1970-07-05
 
 # Partie législative
 
@@ -779,6 +779,68 @@ l'occupation du domaine public par leurs canalisations ou réservoirs.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+
+##### Section 2 : Fixation des redevances.
+
+###### Article L31
+
+Les bénéficiaires d'autorisations ou de concessions de toute nature concernant le domaine public national peuvent acquitter
+la redevance à leur charge par apposition d'un timbre fiscal sur le titre qui leur a été remis. Quelle que soit la date de ce
+titre, ils peuvent être tenus, à raison du chiffre et du mode de fixation des redevances, de se libérer soit par versement
+d'acomptes mensuels, soit d'avance, par périodes triennales ou pour toute la durée de l'autorisation ou de la concession, si
+cette durée n'excède pas cinq ans.
+
+Des arrêtés du ministre de l'économie et des finances fixent les conditions d'application de ces différents modes de
+règlement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°70-576 1970-07-03 art. 11 JORF 5 juillet 1970
+
+	**Cité par**:
+
+	  - Loi - art. 36 (V)
+	  - Code des postes et des communications électronique - art. L42-2 (M)
+	  - Code du domaine de l'Etat - art. A31 (V)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2125-4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L33
+
+Le service des domaines peut reviser les conditions financières des autorisations ou concessions, à l'expiration de chaque
+période stipulée pour le paiement de la redevance, nonobstant, le cas échéant, toutes dispositions contraires de l'acte
+d'autorisation ou de concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Modifié par**:
+
+	  - Loi n°70-576 1970-07-03 art. 11 JORF 5 juillet 1970
+
+	**Cité par**:
+
+	  - Décret n°89-391 du 15 juin 1989 - art. 13 (V)
+	  - Décret n°89-405 du 20 juin 1989 - art. 13 (V)
+	  - Décret n°92-648 du 8 juillet 1992 - art. 13 (V)
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
+	  - Décret n°2009-1349 du 29 octobre 2009 (V)
+	  - Code du domaine de l'Etat - art. A22 (V)
+	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+	  - Code du domaine de l'Etat - art. R57 (Ab)
 
 
 #### Chapitre II : Transfert de gestion.
