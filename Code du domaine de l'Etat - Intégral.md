@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2003-07-03
+Version Consolidée au 2003-07-22
 
 # Partie législative
 
@@ -4051,8 +4051,8 @@ autrefois cadastrées AN 591 situées sur le territoire de la ville de Basse-Ter
 
 Les terrains situés dans les espaces urbains et les secteurs occupés par une urbanisation diffuse, délimités selon les
 modalités prévues à l'article L. 89-1, peuvent être déclassés aux fins de cession à titre onéreux aux occupants qui y ont
-édifié ou fait édifier avant le 1er janvier 1995 des constructions affectées à l'exploitation d'établissements à usage
-professionnel.
+édifié ou fait édifier avant le 1er janvier 1995, ou à leurs ayants droit, des constructions affectées à l'exploitation
+d'établissements à usage professionnel.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est
 fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
@@ -4068,10 +4068,6 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 	  - Décret n°57-1336 1957-12-28
 	  - Décret n°62-298 1962-03-14
 
-	**Créé par**:
-
-	  - Loi n°96-1241 du 30 décembre 1996 - art. 1 () JORF 1er janvier 1997
-
 	**Cité par**:
 
 	  - Loi n°96-1241 du 30 décembre 1996 - art. 7 (V)
@@ -4079,6 +4075,14 @@ des bâtiments et installations édifiés avant le 1er janvier 1995.
 	  - Code du domaine de l'Etat - art. L89-8 (Ab)
 	  - Code du domaine de l'Etat - art. R170-2 (Ab)
 	  - Code du domaine de l'Etat - art. R170-4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 52 () JORF 22 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
