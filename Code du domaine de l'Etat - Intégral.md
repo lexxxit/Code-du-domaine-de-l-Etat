@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-02-22
 
 # Partie législative
 
@@ -16134,5 +16134,31 @@ conditions prévues à l'article A. 119.
 
 	  - Code du domaine de l'Etat - art. A119 (V)
 	  - Loi n°1903-12-30 art. 7
+
+
+## Livre IV : Dispositions diverses
+
+### Titre V : Dispositions particulières et finales.
+
+###### Article A122
+
+Pour l'application de l'article D. 36, les limites minimales dont le dépassement rend obligatoire la consultation de la
+commission interministérielle sont fixées à :
+
+300000 F pour la valeur vénale des immeubles acquis à l'étranger    72000 F pour le loyer annuel, charges comprises, des
+immeubles pris à bail dans les pays figurant sur une liste fixée par décision conjointe du ministre des relations extérieures
+et du ministre chargé du domaine ;
+
+60000 F pour le loyer annuel, charges comprises, des immeubles pris à bail dans les autres pays étrangers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. D36 (M)
 
 
