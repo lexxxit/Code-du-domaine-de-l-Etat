@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1974-02-02
+Version Consolidée au 1974-05-14
 
 # Partie législative
 
@@ -2603,6 +2603,75 @@ Loi n° 63-1316 du 27 décembre 1963 (art. 1er, 2, 19, 46 et 47).
 
 ### Titre II : Origine des biens
 
+#### Chapitre Ier : Domaine public.
+
+###### Article R1
+
+L'incorporation au domaine public national des immeubles dépendant du domaine privé de l'Etat, prévue à l'article L. 3, est
+autorisée par le préfet, après avis du directeur des services fiscaux.
+
+Lorsque l'incorporation donne lieu au versement d'une indemnité par le service bénéficiaire, le directeur des services
+fiscaux fixe les conditions financières de l'opération ; si l'incorporation porte sur des immeubles visés à l'article 1er, 1°
+du code forestier, l'indemnité est déterminée et son montant est imputé dans les conditions prévues à l'article R. 88 pour
+l'affectation définitive des immeubles de même nature.
+
+En cas de désaccord entre les services intéressés, l'autorisation est donnée :
+
+Par le ministre des finances, lorsque la divergence d'appréciation porte sur les conditions financières de l'opération ;
+
+Par le Premier ministre en cas de désaccord d'une autre nature, après avis de la commission régionale des opérations
+immobilières, de l'architecture et des espaces protégés compétente ou de la commission nationale des opérations immobilières
+et de l'architecture lorsque le Premier ministre, de sa propre initiative ou à la demande d'un ministre, du préfet de région,
+du préfet d'un département d'outre-mer ou du président de la commission nationale, décide de lui soumettre l'opération en
+raison de son intérêt exceptionnel.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L3
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+	  - Décret n°71-12 1971-01-06 art. 1 JORF 10 janvier 1971
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°74-402 1974-05-06 art. 4 JORF 14 mai 1974
+
+	**Cité par**:
+
+	  - Décret n°83-816 du 13 septembre 1983 - art. 11-1 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 12 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (VT)
+	  - Code du domaine de l'Etat - art. R12 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L3
+	  - Code du domaine de l'Etat - art. R88
+	  - Code forestier
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2111-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2111-2 (V)
+
+
 #### Chapitre II : Domaine privé
 
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat
@@ -2917,6 +2986,50 @@ l'ensemble de l'immeuble acquis.
 	  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
 	  - Arrêté du 27 octobre 1987 - art. 16 (V)
 	  - Arrêté du 27 juillet 1963 - art. 27 (Ab)
+
+
+###### Article R13
+
+La commission nationale des opérations immobilières et de l'architecture connaît au lieu et place de la ou des commissions
+régionales ou départementales normalement compétentes des projets que le Premier ministre, de sa propre initiative ou à la
+demande d'un ministre, du préfet de région, du préfet d'un département d'outre-mer ou du président de la commission
+nationale, décide de lui soumettre en raison de leur intérêt exceptionnel.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Abrogé par**:
+
+	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R16 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Modifié par**:
+
+	  - Décret n°74-402 1974-05-06 art. 5 JORF 14 mai 1974
 
 
 ###### Article R14
@@ -4603,6 +4716,75 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R2125-3 (V)
+
+
+#### Chapitre II : Transfert de gestion.
+
+###### Article R58
+
+La remise, prévue à l'article L. 35, des immeubles du domaine public dont la destination est modifiée, est autorisée par le
+préfet, après avis du directeur des services fiscaux.
+
+Lorsque cette remise donne lieu au versement d'une indemnité par le service ou la collectivité bénéficiaire, ledit directeur
+fixe les conditions financières de l'opération.
+
+En cas de désaccord entre les services ou collectivités intéressés, l'autorisation est donnée :
+
+Par le ministre des finances, lorsque la divergence d'appréciation porte sur les conditions financières de l'opération ;
+
+Par le Premier ministre en cas de désaccord d'une autre nature, après avis de la commission régionale des opérations
+immobilières, de l'architecture et des espaces protégés compétente ou de la commission nationale des opérations immobilières
+et de l'architecture lorsque le Premier ministre de sa propre initiative ou à la demande d'un ministre, du préfet de région,
+du préfet d'un département d'outre-mer ou du président de la commission nationale décide de lui soumettre l'opération en
+raison de son intérêt exceptionnel.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L41 al. 2 à 5
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969
+	  - Décret n°70-1160 1970-12-11 art. 2 JORF 15 décembre 1970
+	  - Décret n°74-402 1974-05-06 art. 6 JORF 14 mai 1974
+
+	**Cité par**:
+
+	  - Décret n°83-816 du 13 septembre 1983 - art. 7 (VT)
+	  - Décret n°83-816 du 13 septembre 1983 - art. 9 (VT)
+	  - Décret n°91-796 du 20 août 1991 - art. 9 (Ab)
+	  - Décret n°2005-1538 du 8 décembre 2005 - art. 2 (V)
+	  - Code du domaine de l'Etat - art. R12 (Ab)
+	  - Code du domaine de l'Etat - art. R128-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L35
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2123-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-15 (V)
+	  - Code général de la propriété des personnes publ... - art. R2123-9 (V)
 
 
 #### Chapitre IV : Affermage aux associations de pêche et de pisciculture de certains lots de pêche sur les fleuves, rivières et canaux du domaine public.
@@ -6895,6 +7077,42 @@ des opérations immobilières.
 	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
 
 
+###### Article R124
+
+La commission nationale des opérations immobilières et de l'architecture connaît au lieu et place de la commission régionale
+normalement compétente des projets de regroupement que le Premier ministre, de sa propre initiative ou à la demande d'un
+ministre, du préfet de région, du préfet d'un département d'outre-mer ou du président de la commission nationale, décide de
+lui soumettre en raison de leur intérêt exceptionnel.
+
+**Nota:**
+
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+opérations immobilières sont supprimées.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 19 al. 3
+
+	**Modifié par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°74-402 1974-05-06 art. 8 JORF 14 mai 1974
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
 #### Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.
 
 ###### Article R126
@@ -8366,6 +8584,37 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ### Titre IV : Dispositions spéciales aux départements d'outre-mer
 
 #### Chapitre Ier : Zone des cinquante pas géométriques.
+
+###### Article R164
+
+Les terrains dépendant de la zone de cinquante pas géométriques peuvent, quelle que soit leur valeur, être cédés à l'amiable,
+après avis de la commission départementale des opérations immobilières, de l'architecture et des espaces protégés. La
+commission nationale des opérations immobilières et de l'architecture connaît, au lieu et place des commissions
+départementales normalement compétentes, des projets de l'espèce que le Premier ministre, de sa propre initiative ou à la
+demande d'un ministre, du préfet d'un département d'outre-mer ou du président de la commission nationale, décide de lui
+soumettre en raison de leur intérêt exceptionnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat (ancien) L142
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R169 (M)
+	  - Code du domaine de l'Etat - art. R170-1 (Ab)
+	  - Code du domaine de l'Etat - art. R170-5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Décret n°74-402 1974-05-06 art. 9 JORF 14 mai 1974
+
 
 ###### Article R165
 
