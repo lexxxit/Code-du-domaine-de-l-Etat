@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1975-06-15
+Version Consolidée au 1976-04-01
 
 # Partie législative
 
@@ -11018,6 +11018,28 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 #### Chapitre II : Domaine privé
 
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article A02
+
+Les directeurs des services fiscaux sont compétents pour émettre au nom de l'administration, sans limitation de sommes et
+quelle que soit la nature des biens, les avis prévus par les articles R. 3 à R. 5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1976-03-02 art. 1, art. 2 JORF 8 mars 1976 en vigueur le 1er avril 1976
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat R3 à R5
+
 
 ##### Paragraphe 2 : Dispositions spéciales.
 
