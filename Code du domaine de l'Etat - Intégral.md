@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2004-11-28
+Version Consolidée au 2005-01-19
 
 # Partie législative
 
@@ -2834,6 +2834,41 @@ NOTA : La loi n° 62-848 est abrogée par la loi n° 76-1285 1976-12-31 art. 80.
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R148-2 (Ab)
+
+
+##### Paragraphe 14 : Cession d'immeubles domaniaux en vue de la réalisation de programmes de logement social
+
+###### Article L66-2
+
+L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces
+terrains sont destinés à la réalisation de programmes de constructions comportant essentiellement des logements dont une
+partie au moins est réalisée en logement social. La différence entre la valeur vénale et le prix de cession ne peut dépasser
+un plafond fixé par décret en Conseil d'Etat.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 95 (V) JORF 19 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R148-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L3211-7 (V)
+	  - Code général de la propriété des personnes publiqu - art. L3211-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
 
 
 #### Chapitre II : Domaine mobilier.
