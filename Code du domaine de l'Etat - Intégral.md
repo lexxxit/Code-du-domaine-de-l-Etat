@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-09-18
+Version Consolidée au 1989-10-13
 
 # Partie législative
 
@@ -10909,35 +10909,6 @@ commissions prévues à l'article R. 164.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2123-1 (V)
-
-
-###### Article R170
-
-Nonobstant toutes autres dispositions, les dépendances boisées du domaine public maritime et du domaine public lacustre
-peuvent faire l'objet de concessions à charge d'endigage dans les conditions prévues à l'article L. 64.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-561 1961-06-03 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°89-734 1989-10-13 art. 3 JORF 14 octobre 1989
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. L64 (Ab)
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. R170-2 (Ab)
-	  - Code du domaine de l'Etat - art. R170-4 (Ab)
 
 
 #### Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane
