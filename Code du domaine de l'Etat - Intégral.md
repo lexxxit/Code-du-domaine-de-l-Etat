@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-03-24
+Version Consolidée au 1988-04-23
 
 # Partie législative
 
@@ -6743,16 +6743,12 @@ patrimoines séquestrés ou en liquidation.
 
 Les règles de l'affectation sont applicables aux administrations de l'Etat et aux établissements publics nationaux à
 l'exception de ceux de ces établissements qui ont un caractère industriel ou commercial et avec lesquels l'Etat traite, en
-cette matière, dans les conditions du droit commun.
+cette matière, par voie de location ou d'aliénation.
 
 La présente disposition ne met pas obstacle à l'attribution par des textes spéciaux et à titre de dotation, d'immeubles
 domaniaux aux établissements publics nationaux de toute nature.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°49-1313 1949-09-27 art. 1
 
 	**Codifié par**:
 
@@ -6775,6 +6771,10 @@ domaniaux aux établissements publics nationaux de toute nature.
 	  - Code de la défense. - art. R3413-37 (V)
 	  - Code de la défense. - art. R3413-64 (V)
 	  - Code du domaine de l'Etat - art. R85 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
 
 
 ###### Article R82
@@ -8981,6 +8981,38 @@ Ces valeurs limites peuvent être modifiées par décret en Conseil d'Etat pris 
 	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
+###### Article R129-1
+
+La cession peut également être faite à l'amiable:
+
+1° Lorsque l'adjudication publique a été infructueuse ;
+
+2° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
+d'intérêt général par une personne exclue du bénéfice de l'affectation ou de la dotation domaniales ou par un établissement
+public national à caractère industriel et commercial ;
+
+3° Lorsque la cession de l'immeuble est justifiée par les conditions particulières d'utilisation imposées à l'acquéreur ;
+
+4° Lorsque la spécificité de l'immeuble détermine la qualité de l'acquéreur ;
+
+5° Lorsque la valeur vénale de l'immeuble n'excède pas des montants fixés par arrêté du ministre chargé du domaine dans la
+limite de 500000 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°88-408 1988-04-22 art. 1 JORF 23 avril 1988
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. A104-1 (M)
+
+
 ###### Article R130
 
 Lorsqu'il est procédé, en vertu des lois ou règlements spéciaux, à la cession amiable d'immeubles domaniaux ou de droits
@@ -9271,9 +9303,9 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R139
 
-Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à l'amiable, dans les conditions prévues à l'alinéa
-premier de l'article R. 130, sur les instructions du ministre intéressé et après avis favorable du ministre chargé du
-logement, lorsqu'ils sont destinés à être utilisés pour la réalisation d'opérations d'urbanisme ou de construction.
+Les immeubles bâtis ou non bâtis appartenant à l'Etat peuvent être cédés à l'amiable, dans les conditions prévues au
+quatrième alinéa de l'article R. 129, sur les instructions du ministre intéressé et après avis favorable du ministre chargé
+du logement, lorsqu'ils sont destinés à être utilisés pour la réalisation d'opérations d'urbanisme ou de construction.
 
 Les conditions de l'utilisation des immeubles par les cessionnaires sont définies dans des cahiers des charges établis par le
 service des domaines avec le concours des services du ministère chargé du logement. Ces cahiers des charges fixent les
@@ -9281,21 +9313,17 @@ modalités de résiliation des cessions au cas d'inexécution des obligations du
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L96
-
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
 
 	**Modifié par**:
 
-	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 20 février 1969
+	  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R130 (Ab)
+	  - Code du domaine de l'Etat - art. R129 (M)
 
 	**Cité par**:
 
@@ -9631,36 +9659,30 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R146
 
-Les dispositions de l'article R. 130, premier alinéa, sont applicables aux concessions accordées en application de l'article
-L. 64.
+Les dispositions de l'article R. 129, quatrième alinéa, sont applicables aux concessions accordées en application de
+l'article L. 64.
 
 Toutefois, lorsque l'opération a donné lieu à une enquête publique, la concession est approuvée par décret en Conseil d'Etat
 en cas d'avis défavorable du commissaire enquêteur ou de la commission d'enquête portant sur ladite opération.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L107
-
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Décret n°77-1141 1977-10-12 art. 14 VIII JORF 13 octobre 1977
-	  - Décret n°84-285 1984-04-13 art. 7 JORF 18 avril 1984
 
 	**Cité par**:
 
 	  - Décret n°83-228 du 22 mars 1983 - art. 8 (M)
 
+	**Modifié par**:
+
+	  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
+
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L64 (Ab)
-	  - Code du domaine de l'Etat - art. R130 (Ab)
+	  - Code du domaine de l'Etat - art. R129 (M)
 
 
 ###### Article R147
@@ -9738,16 +9760,12 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article R148
 
 Les cessions amiables de servitudes constituées au profit de l'Etat sont consenties par le préfet, sur proposition du
-directeur départemental des impôts chargé du domaine, dans les conditions prévues à l'alinéa premier de l'article R. 130.
+directeur départemental des impôts chargé du domaine, dans les conditions prévues au quatrième alinéa de l'article R. 129.
 
 Le projet de cession est préalablement affiché à la mairie de la situation des lieux et soumis à un enquête d'une durée de
 dix jours.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L110
 
 	**Codifié par**:
 
@@ -9755,11 +9773,11 @@ dix jours.
 
 	**Modifié par**:
 
-	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
+	  - Décret n°88-408 1988-04-22 art. 2 JORF 23 avril 1988
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R130 (Ab)
+	  - Code du domaine de l'Etat - art. R129 (M)
 
 
 ##### Paragraphe 11 : Rétrocession d'immeubles expropriés.
