@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1967-06-02
+Version Consolidée au 1967-09-08
 
 # Partie législative
 
@@ -3790,6 +3790,52 @@ Les dispositions de l'article R. 130 premier alinéa, sont applicables aux conce
 
 	  - Code du domaine de l'Etat - art. L64 (Ab)
 	  - Code du domaine de l'Etat - art. R130 (Ab)
+
+
+##### Paragraphe 8 bis : Immeubles domaniaux cédés en vue de favoriser les opérations d'aménagement foncier.
+
+###### Article R147-1
+
+Par dérogation aux dispositions de l'article R. 129 ci-dessus, les immeubles appartenant à l'Etat peuvent, quelle que soit
+leur valeur, être cédés à l'amiable, dans les conditions prévues à l'article R. 130, aux sociétés d'aménagement foncier et
+d'établissement rural agréées, et lorsqu'il s'agit de fonds incultes, aux organismes mentionnés à l'article 9 de la loi
+modifiée n° 51-592 du 24 mars 1951.
+
+**Nota:**
+
+L'article R130 du code du domaine de l'Etat a été abrogé par le décret n° 2004-1175 du 4 novembre 2004 article 1er, néanmoins
+les dispositions de ce même article ont été reprises au 1° de l'article R129-5 de ce même code.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°67-759 du 1 septembre 1967 - art. 4 (Ab) JORF 8 septembre 1967
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R129
+	  - Loi n°51-592 1951-03-24 art. 9
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-24 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural et de la pêche maritime - art. R142-10 (VD)
 
 
 ## Livre IV : Dispositions diverses
