@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1988-02-12
+Version Consolidée au 1988-03-02
 
 # Partie législative
 
@@ -4548,27 +4548,30 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R29
 
-Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses ayants droit sont inconnus, une affiche est
-apposée pendant un mois à la diligence du préfet compétent, à la mairie du dernier domicile ou de la dernière résidence
-connus en France du disposant ainsi qu'à la mairie du lieu de situation des immeubles donnés ou légués. Les maires adressent
-au préfet un certificat constatant l'affichage.
+Les communications prévues à l'article précédent sont adressées par le préfet du département du dernier domicile ou de la
+dernière résidence connus en France du disposant ou, à défaut, celui d'un des lieux où les biens donnés ou légués sont situés
+ou détenus.
 
-Le préfet fait en outre procéder à l'insertion d'un avis dans un journal paraissant dans le ou les départements dont
-dépendent les communes où a été effectué l'affichage.
+**Nota:**
 
-Après accomplissement de ces formalités, l'avis est publié au Journal officiel. Lorsque le disposant n'avait en France ni
-domicile ni résidence connus, une seconde publication est faite au Journal officiel un mois après la première.
-
-Les avis et affiches énoncent sommairement les modifications, réduction ou restitution envisagées. Ils indiquent que pendant
-un délai de trois mois à compter de la dernière publication au Journal officiel, le disposant ou ses ayants droit peuvent
-prendre connaissance du dossier à la préfecture, exprimer leur adhésion ou leur opposition et formuler leurs observations
-écrites.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 2 JORF 12 février 1988
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -4578,13 +4581,9 @@ prendre connaissance du dossier à la préfecture, exprimer leur adhésion ou le
 	  - Code du domaine de l'Etat - art. R43 (Ab)
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 1928-04-01 art. 9
+	  - Code général de la propriété des personnes publ... - art. R2222-22 (V)
 
 
 ###### Article R30
@@ -4924,14 +4923,16 @@ vigueur de l'ordonnance du 28 septembre, sont abrogées.
 
 ###### Article R38
 
-Les demandes visées à l'article précédent doivent être formulées par délibération de l'organisme ayant qualité pour accepter
+Les demandes mentionnées à l'article R. 37 doivent être formulées par délibération de l'organisme ayant qualité pour accepter
 les libéralités au nom de l'établissement.
 
-Elles sont adressées au préfet du département dans lequel est situé l'établissement gratifié. Elles sont accompagnées des
-pièces prévues à l'article R. 27 (1°, 2°, 3° et 5°) ainsi que des budgets et des comptes de l'établissement afférents aux
-trois derniers exercices et du budget de l'exercice en cours.
+Elles sont adressées au préfet du département dans lequel est situé l'établissement gratifié.
 
-Les demandes sont enregistrées à la préfecture. Il en est délivré récépissé.
+Le préfet accomplit, s'il y a lieu, les formalités prévues à l'article R. 29. Lorsqu'il fait procéder aux publications
+prévues à l'article R. 42, une affiche doit en outre être apposée à la mairie du lieu de situation de l'établissement.
+
+Les dispositions de l'article R. 30 sont applicables aux demandes de révision ou de restitution mentionnées à l'article R.
+37. Le ministre intéressé est le ministre chargé de la tutelle de l'établissement public gratifié.
 
 **Liens relatifs à cet article**
 
@@ -4939,23 +4940,36 @@ Les demandes sont enregistrées à la préfecture. Il en est délivré récépis
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R27 (M)
-
 	**Modifié par**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 4
+	  - Code du domaine de l'Etat - art. R29 (M)
+	  - Code du domaine de l'Etat - art. R30 (M)
+	  - Code du domaine de l'Etat - art. R37 (M)
+	  - Code du domaine de l'Etat - art. R42 (M)
 
 
 ###### Article R39
 
-Lorsque l'adresse du disposant ou de ses ayants droit est connue, le préfet, dans les huit jours de sa saisine, les invite à
-prendre connaissance du dossier et à formuler leur avis dans les conditions prévues à l'article R. 28 (alinéas 2 à 4).
+Les dispositions des articles R. 32 à R. 35 sont applicables aux restitutions de libéralités faites à des établissements
+publics de l'Etat.
+
+Toutefois, le procès-verbal prévu à l'article R. 32 est établi par le représentant de l'établissement gratifié et signé par
+lui, conjointement avec le préfet, sauf dans le cas où la remise des biens aux bénéficiaires de la restitution intervient
+postérieurement à la signification de l'ordonnance confiant la gestion desdits biens au service des domaines.
+
+La requête au président du tribunal est, s'il y a lieu, présentée par le préfet du département dans lequel est situé
+l'établissement gratifié.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -4963,21 +4977,26 @@ prendre connaissance du dossier et à formuler leur avis dans les conditions pr�
 
 	  - Décret n°62-299 1962-03-14
 
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R28 (M)
+	  - Code du domaine de l'Etat
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R45-1 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 5
+	  - Code général de la propriété des personnes publ... - art. R2222-29 (V)
 
 
 ##### Paragraphe 3 : Dispositions communes.
@@ -5047,45 +5066,57 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R42
 
-Si postérieurement à la réduction ou modification de l'affectation de charges résultant d'une libéralité, l'exécution totale
-ou partielle des obligations initialement imposées redevient possible, elle peut être demandée par le disposant ou ses ayants
-droit. La demande est adressée au préfet du département où est situé l'établissement intéressé, il en est accusé réception.
+Lorsque l'adresse du disposant ou l'adresse ou l'identité de certains de ses ayants droit sont inconnues, une affiche est
+apposée pendant un mois, à la diligence du préfet compétent, à la mairie du dernier domicile ou de la dernière résidence
+connus en France du disposant ainsi qu'à la mairie du lieu de situation des immeubles donnés ou légués. Les maires adressent
+au préfet un certificat constatant l'affichage.
 
-Dans la huitaine, le préfet notifie la demande à l'établissement gratifié et l'invite à produire dans le délai d'un mois ses
-observations.
+Le préfet fait en outre procéder à l'insertion d'un avis dans un journal paraissant dans le ou les départements dont
+dépendent les communes où a été effectué l'affichage.
 
-La décision est prise par l'autorité qui a prononcé la réduction ou la modification des charges et dans les mêmes formes.
+Après accomplissement de ces formalités, l'avis est publié au Journal officiel. Lorsque le disposant n'avait en France ni
+domicile ni résidence connus, une seconde publication est faite au Journal officiel un mois après la première.
+
+Les avis et affiches énoncent sommairement la révision ou la restitution envisagée. Ils indiquent que pendant un délai de
+trois mois à compter de la dernière publication au Journal officiel, le disposant ou ses ayants droit peuvent prendre
+connaissance du dossier à la préfecture, exprimer leur adhésion ou leur opposition et formuler leurs observations écrites.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°88-138 1988-02-10 art. 5 JORF 12 février 1988
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R38 (Ab)
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
-
-	**Anciens textes**:
-
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 8
+	  - Code général de la propriété des personnes publ... - art. R2222-31 (V)
+	  - Code général de la propriété des personnes publ... - art. R2222-32 (V)
 
 
 ###### Article R43
 
-Les dispositions des articles R. 32 à R. 35 sont applicables aux restitutions de libéralités faites à des établissements
-publics de l'Etat autres que des établissements publics d'assistance ou de bienfaisance.
-
-Toutefois le procès-verbal visé à l'article R. 32 est établi par le représentant de l'établissement gratifié et signé par
-lui, conjointement avec le préfet, sauf dans le cas où la remise des biens aux bénéficiaires de la restitution intervient
-postérieurement à la signification de l'ordonnance confiant la gestion desdits biens aux domaines.
-
-La requête au président du tribunal est, s'il y a lieu, présentée par le préfet du département dans lequel est situé
-l'établissement gratifié.
+Lorsque le lieu d'ouverture de la succession est situé à l'étranger, le préfet du département de Paris est compétent pour
+appliquer les prescriptions des articles R. 22 et R. 23 ; il intervient de même pour l'application de l'article R. 29 lorsque
+le disposant n'a jamais eu de résidence en France et que les biens donnés ou légués sont situés à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -5093,17 +5124,16 @@ l'établissement gratifié.
 
 	  - Décret n°62-299 1962-03-14
 
-	**Cite**:
-
-	  - Code du domaine de l'Etat R32 à R35
-
 	**Modifié par**:
 
-	  - Décret n°68-385 1968-04-22 art. 1 JORF 2 mai 1968
+	  - Décret n°88-138 1988-02-10 art. 3 JORF 12 février 1988
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Règlement d'administration publique 56-812 1956-08-03 art. 9
+	  - Code du domaine de l'Etat - art. R22 (M)
+	  - Code du domaine de l'Etat - art. R23 (M)
+	  - Code du domaine de l'Etat - art. R29 (M)
 
 
 ###### Article R44
@@ -5589,9 +5619,15 @@ d'application du présent article et notamment les dispositions qui permettent l
 ###### Article R53
 
 Sous réserve des règlements particuliers qui attribuent compétence à d'autres autorités administratives, notamment à
-l'autorité militaire, les commissaires de la République, agissant en qualité de représentants des ministres chargés de la
-gestion et de la garde du domaine public national dans le département, autorisent les occupations temporaires et le
-stationnement sur les dépendances de ce domaine et prennent les décisions relatives à leur administration.
+l'autorité militaire, les préfets, agissant en qualité de représentants des ministres chargés de la gestion et de la garde du
+domaine public national dans le département, autorisent les occupations temporaires et le stationnement sur les dépendances
+de ce domaine et prennent les décisions relatives à leur administration.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -5601,13 +5637,11 @@ stationnement sur les dépendances de ce domaine et prennent les décisions rela
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Décret n°71-792 du 20 septembre 1971 - art. 31 () JORF 14 septembre 1971
-	  - Décret n°84-285 1984-04-13 art. 1 JORF 18 avril 1984
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cité par**:
 
@@ -5622,6 +5656,14 @@ stationnement sur les dépendances de ce domaine et prennent les décisions rela
 	  - Code du domaine de l'Etat - art. A45 (V)
 	  - Code du domaine de l'Etat - art. A48 (V)
 	  - Code du domaine de l'Etat - art. R128-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-4 (V)
 
 
 ###### Article R54
@@ -5859,6 +5901,50 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 #### Chapitre III : Extractions sur le domaine public.
 
+###### Article R58-1
+
+Toute extraction de matériaux sur le domaine public maritime ou fluvial est subordonnée à une autorisation domaniale. Cette
+autorisation est donnée, le cas échéant, en même temps que l'autorisation de carrière établie dans les conditions prévues par
+le décret n° 79-1108 du 20 décembre 1979. Lorsqu'il s'agit de matériaux contenus dans les fonds marins du domaine public
+métropolitain, l'autorisation domaniale est subordonnée à l'octroi d'un titre minier dans les conditions prévues par le
+décret n° 80-470 du 18 juin 1980.
+
+L'autorisation domaniale est accordée par le préfet du département. Elle mentionne les conditions financières fixées par le
+directeur des services fiscaux, et notamment le ou les tarifs de la redevance domaniale.
+
+Toutefois, les directeurs de ports autonomes maritimes accordent ladite autorisation quand elle porte sur une dépendance du
+domaine public maritime et fluvial comprise dans la circonscription de ces ports.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Cite**:
+
+	  - Décret n°79-1108 du 20 décembre 1979
+	  - Décret n°80-470 du 18 juin 1980
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
 ###### Article R58-2
 
 Les modalités d'instruction des autorisations domaniales sont fixées par décret contresigné par le ministre chargé du domaine
@@ -5885,6 +5971,37 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Créé par**:
 
 	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+
+###### Article R58-3
+
+Les demandes d'autorisation domaniale sont adressées au préfet du département. Elles sont adressées au directeur du port
+autonome maritime si l'extraction envisagée concerne une dépendance du domaine public maritime ou fluvial comprise dans la
+circonscription du port.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Abrogé par**:
 
@@ -8802,50 +8919,30 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R129
 
-Sauf l'effet des lois et règlements spéciaux qui en disposent autrement, l'aliénation d'un immeuble du domaine privé de
-l'Etat a lieu par adjudication publique et doit être autorisée :
+Sauf l'effet de dispositions législatives ou réglementaires spéciales, l'aliénation d'un immeuble du domaine privé de l'Etat
+a lieu par adjudication publique.
 
-Par le préfet, sur proposition du directeur des services fiscaux qui fixe la mise à prix, si la valeur vénale, déterminée par
-lui, est inférieure ou égale à 2500000 F ;
+L'adjudication est autorisée :
 
-Par un arrêté du ministre chargé du domaine, si la valeur vénale excède 2500000 F sans être supérieure à 12500000 F ;
+1° Par le préfet après avis du directeur des services fiscaux lorsque la valeur vénale est inférieure ou égale à 7000000 F.
+La valeur vénale et la mise à prix sont fixées par le directeur des services fiscaux ;
 
-Par un décret pris sur le rapport de ce ministre, le Conseil d'Etat entendu, si ladite valeur excède 12500000 F.
+2° Par le ministre chargé du domaine si la valeur vénale déterminée par le directeur des services fiscaux excède 7000000 F.
 
 Le chef du service des domaines établit le cahier des charges type fixant les conditions générales des ventes et détermine
-les modalités générales de publicité préalable aux adjudications.
+les modalités générales de la publicité préalable aux adjudications.
 
-La cession peut toutefois être consentie à l'amiable par le préfet, au prix fixé par le directeur des services fiscaux, si la
-valeur vénale de l'immeuble n'excède pas 1250000 F.
+Lorsque, en raison de dispositions spéciales, la cession peut être faite à l'amiable, elle est consentie par le préfet, après
+avis du directeur des services fiscaux. Le directeur des services fiscaux détermine la valeur vénale et fixe le prix. Lorsque
+la valeur vénale excède 3500000 F, la cession amiable est autorisée par le ministre chargé du domaine.
 
-Au-delà de cette limite le préfet ne peut consentir à la cession amiable que si elle est autorisée :
-
-Par un arrêté du ministre chargé du domaine lorsque la valeur vénale n'est pas supérieure à 12500000 F ;
-
-Par un décret pris sur le rapport dudit ministre, le Conseil d'Etat entendu, lorsque ladite valeur est supérieure à 12500000
-F.
-
-Les valeurs limites de compétence énoncées pour les cessions à l'amiable sont doublées lorsque la cession est consentie à un
-organisme visé à l'article 4 du décret n° 69-825 du 28 août 1969.
-
-Les valeurs limites de compétence énoncées pour les aliénations par adjudication ou par cession amiable peuvent être
-modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé du domaine.
+Ces valeurs limites peuvent être modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé du domaine.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-979 1960-09-09 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°69-137 1969-02-06 art. 1 JORF 7 février 1969 rectificatif JORF 19 mars 1969
-	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
-	  - Décret n°81-1030 1981-11-18 art. 2 JORF 20 novembre 1981
 
 	**Cité par**:
 
@@ -8861,9 +8958,10 @@ modifiées par décret en Conseil d'Etat pris sur le rapport du ministre chargé
 	  - Code du domaine de l'Etat - art. R148 (M)
 	  - Code du domaine de l'Etat - art. R148-4 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°69-825 du 28 août 1969 - art. 4 (Ab)
+	  - Décret n°87-492 1987-07-03 art. 2 JORF 5 juillet 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R130
@@ -9719,6 +9817,42 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 
 ##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministère de la défense aliénés avant le 31 décembre 1991.
+
+###### Article R148-3
+
+Jusqu'au 31 décembre 1991, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense a lieu par
+voie d'adjudication publique.
+
+Toutefois, la cession peut être consentie à l'amiable dans les cas suivants :
+
+1° Lorsque la valeur vénale de l'immeuble n'excède pas 1000000 F ;
+
+2° Lorsqu'une précédente adjudication a été infructueuse ;
+
+3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble s'engage à l'acquérir et à en payer le prix dans un
+délai fixé en accord avec le ministre de la défense.
+
+Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
+amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-335 1987-05-19 art. 1 JORF 21 mai 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret du 23 juillet 2015 (V)
+
 
 ###### Article R148-4
 
@@ -10909,6 +11043,84 @@ Un état des lieux établi contradictoirement est annexé à l'acte de concessio
 	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
 
 
+###### Article R170-35
+
+Les formulaires de demande de concession sont établis par le préfet. La demande indique :
+
+1° L'identité, la profession et l'adresse du pétitionnaire ;
+
+2° La situation exacte et la superficie du terrain demandé ;
+
+3° Le but de l'exploitation et les moyens auxquels le pétitionnaire entend avoir recours.
+
+La demande comporte l'engagement prévu au deuxième alinéa de l'article R. 170-33.
+
+La demande accompagnée des pièces correspondantes est adressée au préfet, qui procède à son instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-33 (M)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-45 (M)
+
+
+###### Article R170-36
+
+Le dossier constitué par la demande, par les pièces versées par le pétitionnaire et par les éléments recueillis par
+l'administration est soumis à une commission chargée d'émettre un avis sur le projet.
+
+Cette commission est présidée par le préfet ou son représentant et comprend :
+
+1° Trois fonctionnaires de l'Etat désignés par le préfet ;
+
+2° Le président de la chambre d'agriculture ou son représentant ;
+
+3° Deux représentants des organismes de coopération, de la mutualité et de crédit désignés par le préfet sur proposition de
+la chambre d'agriculture ;
+
+4° Le maire de chacune des communes sur le territoire de laquelle se situe le terrain demandé.
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2009-634 du 6 juin 2009 - art. (V)
+	  - Décret n°2014-592 du 6 juin 2014 - art. (V)
+	  - Code du domaine de l'Etat - art. R170-38 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-1 (M)
+
+
 ###### Article R170-37
 
 La concession ne peut être accordée qu'après que la demande a fait l'objet d'une publication par extrait, aux frais du
@@ -10939,6 +11151,48 @@ délai ne sont pas prises en compte.
 	  - Code du domaine de l'Etat - art. R170-46-2 (M)
 
 
+###### Article R170-38
+
+La concession est accordée à titre personnel. Toute convention par laquelle le concessionnaire sous-louerait ou céderait tout
+ou partie de ses droits sur tout ou partie du terrain ou des locaux d'exploitation ou d'habitation, y compris ceux dont la
+construction est autorisée, est réputée nulle.
+
+En cas de décès ou d'impossibilité définitive du concessionnaire d'exploiter, son conjoint ou ses descendants ou ascendants
+ainsi que leurs conjoints peuvent, dans les quatre mois du décès ou de la cessation de l'exploitation, demander la
+transmission à l'un d'entre eux du bénéfice de la concession. Il est statué sur la demande par le préfet, sans qu'il y ait
+lieu de recueillir préalablement l'avis de la commission prévue à l'article R. 170-36, ni de procéder aux formalités de
+publicité prévues à l'article R. 170-37.
+
+Un avenant à l'acte initial constate la substitution de concessionnaire. L'avenant ne modifie pas la durée de la concession.
+Toutefois, si la durée restant à courir est inférieure à trois ans, la concession est prorogée de telle sorte que le nouveau
+concessionnaire ne puisse prétendre au transfert de propriété à son profit de l'immeuble concédé qu'après l'avoir exploité
+personnellement pendant une période d'au moins trois ans. L'avenant peut, en outre, fixer, en fonction de la demande
+présentée, de nouvelles conditions de mise en valeur agricole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-36 (M)
+	  - Code du domaine de l'Etat - art. R170-37 (M)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-41 (M)
+
+
 ###### Article R170-39
 
 Le concessionnaire est tenu de verser une redevance annuelle. Celle-ci est liquidée sur la base de tarifs fixés
@@ -10964,6 +11218,75 @@ La redevance est payable d'avance. A défaut de paiement dans les délais prévu
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. R170-40 (M)
+
+
+###### Article R170-40
+
+A défaut de réalisation des travaux dans les délais fixés ou en cas d'inexécution des autres charges et conditions de la
+concession par le concessionnaire, le préfet met en demeure le concessionnaire, par lettre recommandée avec demande d'avis de
+réception, de se conformer à ses obligations et l'invite à participer à une visite contradictoire des lieux ou à s'y faire
+représenter.
+
+Si la mise en demeure n'a pu être notifiée à la personne de l'intéressé ou d'un représentant, elle est affichée en mairie
+pendant un délai de quinze jours.
+
+La visite donne lieu à l'établissement d'un procès-verbal. Si, pour quelque raison que ce soit, le concessionnaire ou son
+représentant ne participe pas à la visite ou s'il refuse de signer le procès-verbal, un constat de carence est dressé.
+Lorsque la mise en demeure est restée infructueuse, le concessionnaire est déchu de ses droits par le préfet. Dans le cas où
+l'arrêté de déchéance n'a pu être notifié à la personne de l'intéressé ou d'un représentant, il est affiché en mairie pendant
+un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-39 (Ab)
+
+
+###### Article R170-41
+
+La concession est déclarée vacante dans les cas suivants :
+
+1° Renonciation du concessionnaire à la concession ;
+
+2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
+suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
+l'article R. 170-38 ;
+
+3° Déchéance du concessionnaire.
+
+La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat - art. R170-38 (M)
 
 
 ###### Article R170-42
@@ -11199,6 +11522,40 @@ directeur des services fiscaux, déduction faite des subventions accordées par 
 	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
 
 
+###### Article R170-50
+
+Les immeubles concédés doivent recevoir, sous peine de déchéance de la concession, la destination prévue dans l'acte de
+concession éventuellement modifié en application des dispositions de l'article R. 170-48.
+
+Au plus tard six mois avant la date d'expiration de la concession éventuellement prorogée, la collectivité bénéficiaire doit
+justifier auprès du préfet que les immeubles ont reçu la destination prévue dans l'acte de concession et ses avenants. Des
+délais supplémentaires dans la limite totale de deux ans peuvent être accordés par le préfet à la collectivité. Jusqu'à ce
+qu'il ait été statué par le préfet sur l'exécution du programme, la concession est prorogée de plein droit.
+
+A défaut de justifications présentées dans les délais ou en cas de non-paiement de la redevance prévue au troisième alinéa de
+l'article R. 170-47 aux dates fixées dans l'acte de concession et ses avenants, le préfet prononce la déchéance de la
+concession. L'arrêté prononçant la déchéance est notifié à la collectivité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-47 (M)
+	  - Code du domaine de l'Etat - art. R170-48 (M)
+
+
 ###### Article R170-51
 
 En cas de déchéance de la collectivité concessionnaire, celle-ci ne peut prétendre au versement par l'Etat d'aucune
@@ -11218,6 +11575,27 @@ responsabilité de la collectivité vis-à-vis des tiers ne sont pas opposables 
 	**Créé par**:
 
 	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+
+###### Article R170-52
+
+La reprise de possession des immeubles par l'Etat ne peut avoir lieu que deux mois après la publication au bulletin des actes
+administratifs de la Guyane et la publication, par extrait, dans un journal diffusé dans le département de l'arrêté du préfet
+prononçant la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 
 ###### Article R170-53
@@ -11267,7 +11645,98 @@ des tiers.
 	  - Code du domaine de l'Etat - art. R170-47 (M)
 
 
+###### Article R170-55
+
+Une commission est chargée d'émettre un avis sur les demandes de concession et sur l'exécution des obligations mises à la
+charge de la collectivité par l'acte de concession.
+
+Cette commission est présidée par le préfet ou son représentant et comprend :
+
+1° Un membre du conseil régional élu par celui-ci ;
+
+2° Trois membres du conseil général élus par celui-ci ;
+
+3° Le maire de la commune sur le territoire de laquelle se situent les immeubles ;
+
+4° Cinq fonctionnaires de l'Etat designés par le préfet.
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-592 du 6 juin 2014 - art. (V)
+	  - Code du domaine de l'Etat - art. R170-54 (Ab)
+
+
 ##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.
+
+###### Article R170-56
+
+Le préfet constate au profit des communautés d'habitants qui tirent traditionnellement leurs moyens de subsistance de la
+forêt l'existence sur les terrains domaniaux de la Guyane de droits d'usage collectifs pour la pratique de la chasse, de la
+pêche et, d'une manière générale, pour l'exercice de toute activité nécessaire à la subsistance de ces communautés.
+
+Cette constatation est faite par arrêté, pris après avis du directeur des services fiscaux. L'arrêté détermine la situation,
+la superficie et la consistance des terrains, rappelle l'identité et la composition de la communauté d'habitants
+bénéficiaires et précise la nature des droits d'usage dont l'exercice est reconnu.
+
+L'arrêté est publié au bulletin des actes administratifs de la Guyane.
+
+Lorsque la communauté bénéficiaire n'exerce plus ses droits d'usage, sur tout ou partie des terrains, le préfet le constate
+par un arrêté pris et publié dans les mêmes formes.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R272-11 (V)
+	  - Code du domaine de l'Etat - art. R170-57 (Ab)
+	  - Code du domaine de l'Etat - art. R170-58 (Ab)
+	  - Code du domaine de l'Etat - art. R170-63 (M)
+	  - Code du domaine de l'Etat - art. R170-67 (Ab)
+	  - Code forestier - art. R172-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5143-1 (V)
+
 
 ###### Article R170-57
 
@@ -11428,6 +11897,65 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	  - Code général de la propriété des personnes publ... - art. R5143-5 (V)
 
 
+###### Article R170-61
+
+Une commission est chargée d'émettre un avis sur les opérations prévues aux articles R. 170-57 à R. 170-60.
+
+Cette commission est présidée par le préfet ou son représentant et comprend :
+
+1° Le maire de chacune des communes sur le territoire de laquelle se situent les terrains ;
+
+2° Quatre personnalités qualifiées désignées par le préfet ;
+
+3° Deux membres de l'association ou de la société appartenant aux organes de direction de celle-ci.
+
+En cas de partage égal des voix, celle du président est prépondérante. Le président de la commission peut inviter toute
+personne dont l'audition lui paraîtrait utile à comparaître devant la commission afin d'y être entendue.
+
+**Nota:**
+
+Décret n° 2009-634 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé).
+
+L'article 1 du décret n° 2014-592 du 6 juin 2014 a renouvelé pour une durée d'un an à compter du 8 juin 2014 les Commissions
+chargées d'émettre un avis sur les projets de concession et de cession de terres du domaine privé.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Décret n°2014-592 du 6 juin 2014 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D5143-6 (V)
+
+
 ###### Article R170-66
 
 Les cessions prévues aux articles R. 170-43, R. 170-44, R. 170-46 et R. 170-60 doivent mentionner les conditions auxquelles
@@ -11459,6 +11987,37 @@ consenti et notamment celles des conditions dont l'inobservation entraîne la r�
 
 	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
 	  - Code du domaine de l'Etat - art. R170-69 (M)
+
+
+###### Article R170-67
+
+Pour l'application du troisième alinéa de l'article L. 91, l'autorisation de conserver l'immeuble est accordée par le préfet,
+après fixation par le directeur des services fiscaux de la valeur vénale de l'immeuble et des modalités financières de
+l'opération.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91 (Ab)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-44-2 (Ab)
+	  - Code du domaine de l'Etat - art. R170-46-4 (Ab)
+	  - Code du domaine de l'Etat - art. R170-64 (Ab)
 
 
 ##### Section 4 : Dispositions communes et diverses.
@@ -11542,6 +12101,47 @@ L'acte de concession doit, à peine de nullité, mentionner les dispositions du 
 	**Nouveaux textes**:
 
 	  - Code du domaine de l'Etat R170-68 (2è version)
+
+
+###### Article R170-65
+
+Lorsque les immeubles ont donné lieu à une cession à titre gratuit, les dispositions du premier alinéa de l'article R. 170-64
+sont applicables au cessionnaire pendant un délai de trente ans à compter de la cession. Pendant le même délai, il est
+interdit au cessionnaire de procéder sur ces immeubles à la recherche ou à l'exploitation de substances minières ; en cas de
+découverte de substances minières, le cessionnaire est tenu d'en aviser le préfet.
+
+L'acte de cession et, dans le cas de concessions suivies de cessions à titre gratuit prévues à l'article R. 170-47, l'acte de
+concession doivent, à peine de nullité, mentionner les dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°87-267 du 14 avril 1987 - art. 1 () JORF 16 avril 1987
+
+	**Modifié par**:
+
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R272-12 (V)
+	  - Code du domaine de l'Etat - art. R170-44 (M)
+	  - Code du domaine de l'Etat - art. R170-69 (M)
+	  - Code forestier - art. R172-6 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-47 (M)
+	  - Code du domaine de l'Etat - art. R170-64 (M)
+
+	**Nouveaux textes**:
+
+	  - Code du domaine de l'Etat R170-69 (2è version)
 
 
 ### Titre V : Dispositions particulières et finales.
@@ -14932,9 +15532,8 @@ domaines.
 
 ###### Article A60
 
-Lorsque le droit de pêche de l'Etat mentionné à l'article R. 63 est loué par voie d'adjudication, le commissaire de la
-République choisit, après avis du directeur des services fiscaux, un des modes d'adjudication prévus aux articles A. 61 à A.
-63 ci-après.
+Lorsque le droit de pêche de l'Etat mentionné à l'article R. 63 est loué par voie d'adjudication, le préfet choisit, après
+avis du directeur des services fiscaux, un des modes d'adjudication prévus aux articles A. 61 à A. 63 ci-après.
 
 **Liens relatifs à cet article**
 
@@ -14944,7 +15543,7 @@ République choisit, après avis du directeur des services fiscaux, un des modes
 
 	**Modifié par**:
 
-	  - Arrêté 1987-08-28 art. 1 JORF 2 septembre 1987
+	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
 
 	**Cite**:
 
