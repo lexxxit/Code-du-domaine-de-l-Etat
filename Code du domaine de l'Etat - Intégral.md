@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1974-05-14
+Version Consolidée au 1975-06-15
 
 # Partie législative
 
@@ -11020,6 +11020,43 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ##### Section 1 : Prises à bail, acquisitions et constructions réalisées par l'Etat.
 
 ##### Paragraphe 2 : Dispositions spéciales.
+
+###### Article A3
+
+Sont dispensées de l'examen des commissions visées à l'article R. 10, sous réserve que leur prix n'excède pas l'évaluation
+effectuée par le service des domaines ou qu'il soit fixé comme en matière d'expropriation :
+
+a) Les acquisitions poursuivies par exercice du droit de préemption dans les zones à urbaniser en priorité, les zones
+d'aménagement différé et à l'intérieur des périmètres provisoires de zones d'aménagement différé ;
+
+b) Les acquisitions en vue de l'application du droit de délaissement prévu par l'article L. 212-3 du code de l'urbanisme ;
+
+c) Les acquisitions effectuées en application du droit de substitution prévu par l'article L. 211-3 du code de l'urbanisme ;
+
+d) Les acquisitions de terrains effectuées dans les conditions prévues par l'article L. 123-9 du code de l'urbanisme.
+
+II. - Les projets ou parties de projets de constructions, de transformations ou de restaurations générales d'immeubles ayant
+le caractère confidentiel au sens de l'article D. 2 ne sont pas soumis aux dispositions de l'article R. 10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Arrêté 1970-12-11 art. 1 JORF 15 décembre 1970
+	  - Arrêté 1975-06-02 art. 2 JORF 15 juin 1975
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. D2 (Ab)
+	  - Code du domaine de l'Etat - art. R10 (V)
+	  - Code de l'urbanisme - art. L123-9 (M)
+	  - Code de l'urbanisme - art. L211-3 (M)
+	  - Code de l'urbanisme - art. L212-3 (M)
+
 
 ###### Article A6
 
