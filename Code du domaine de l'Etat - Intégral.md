@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1967-09-08
+Version Consolidée au 1968-02-09
 
 # Partie législative
 
@@ -4382,86 +4382,6 @@ prévu par les articles R. 3, R. 4 et R. 5.
 ### Titre II : Domaine privé
 
 #### Chapitre Ier : Domaine immobilier
-
-##### Section 1 : Locations
-
-##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.
-
-###### Article D7
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1937-06-09
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
-
-###### Article D8
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1937-06-09
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
-
-###### Article D9
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1937-06-09
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
-
-###### Article D10
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1937-06-09
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
 
 ##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.
 
