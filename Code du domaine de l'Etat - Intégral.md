@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 1992-01-17
+Version Consolidée au 1992-02-01
 
 # Partie législative
 
@@ -17470,9 +17470,9 @@ publicité et concurrence et à 4 % en cas de cession amiable.
 ###### Article A115
 
 La cession amiable, dans le cas où elle est autorisée par l'article L. 69 (3ème alinéa), est constatée au moyen d'une
-soumission, approuvée par le préfet. Le prix est fixé par le directeur départemental des impôts chargé du domaine.
+soumission, approuvée par le préfet. Le prix est fixé par le directeur des services fiscaux.
 
-Lorsque le prix excède 500000 F, l'opération doit être approuvée par le ministre des finances.
+Lorsque le prix excède 2000000 F, l'opération doit être approuvée par le ministre chargé du domaine.
 
 **Liens relatifs à cet article**
 
@@ -17482,7 +17482,7 @@ Lorsque le prix excède 500000 F, l'opération doit être approuvée par le mini
 
 	**Modifié par**:
 
-	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+	  - Arrêté 1992-01-22 art. 1 JORF 1 février 1992
 
 	**Cité par**:
 
@@ -17511,11 +17511,11 @@ gratuitement est fixée à 10000 F.
 
 ###### Article A116
 
-La cession de matériel à un autre service de l'Etat est constatée par un procès-verbal dressé par le directeur départemental
-des impôts chargé du domaine, qui fixe le prix de cession sur estimation contradictoire ou après expertise. Le procès-verbal,
-signé par les représentants des services cédants et cessionnaires, est approuvé par le préfet.
+La cession de matériel à un autre service de l'Etat est constatée par un procès-verbal dressé par le directeur des services
+fiscaux qui fixe le prix de cession sur estimation contradictoire ou après expertise. Le procès-verbal, signé par les
+représentants des services cédants et cessionnaires, est approuvé par le préfet.
 
-Lorsque le prix de cession excède 500000 F, l'opération doit être approuvée par le ministre des finances.
+Lorsque le prix de cession excède 2000000 F, l'opération doit être approuvée par le ministre chargé du domaine.
 
 **Liens relatifs à cet article**
 
@@ -17525,7 +17525,7 @@ Lorsque le prix de cession excède 500000 F, l'opération doit être approuvée 
 
 	**Modifié par**:
 
-	  - Arrêté 1969-02-06 art. 1 JORF 10 février 1969
+	  - Arrêté 1992-01-22 art. 2 JORF 1 février 1992
 
 	**Cité par**:
 
