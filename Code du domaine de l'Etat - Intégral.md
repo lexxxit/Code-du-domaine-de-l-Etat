@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -5248,7 +5248,13 @@ Dans les cas visés à l'article précédent, l'avis du service des domaines doi
 de la date de la réception de la demande d'avis ; passé ce délai, il peut être procédé à la réalisation de l'opération.
 
 Cet avis doit être communiqué, avant toute décision, par le service ou l'établissement public national qui poursuit
-l'opération, au contrôleur financier ou au contrôleur d'Etat.
+l'opération, au membre du corps du contrôle général économique et financier.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -5258,11 +5264,19 @@ l'opération, au contrôleur financier ou au contrôleur d'Etat.
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Cité par**:
 
 	  - Décret n°83-816 du 13 septembre 1983 - art. 6 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ###### Article R8
@@ -5862,6 +5876,61 @@ alinéa, dans le cas où ces avis ou décisions sont prévus par les textes en v
 	**Abrogé par**:
 
 	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+
+###### Article R20
+
+En ce qui concerne les projets visés à l'article R. 10 poursuivis par les collectivités, services ou personnes énumérés audit
+article, il est fait défense, s'il n'est pas justifié, lorsque la réglementation en vigueur l'exige, de l'avis favorable de
+la commission compétente ou, en cas d'avis défavorable, de la décision visée à l'article R. 17 :
+
+1° Aux membres du corps du contrôle général économique et financier et aux fonctionnaires en tenant lieu auprès des
+établissements publics nationaux, de donner leur accord.
+
+2° Aux membres du corps du contrôle général économique et financier de viser toutes pièces d'engagement de dépenses, toutes
+ordonnances de paiement ou de délégation et tous mandats, et aux comptables civils et militaires d'effectuer les règlements
+correspondants.
+
+3° Aux inspecteurs et comptables des impôts d'accomplir la formalité de l'enregistrement à l'égard des actes d'acquisition ou
+de prise à bail.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°49-1209 1949-08-28 art. 26
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Abrogé par**:
+
+	  - Décret n°69-825 1969-08-28 art. 72 JORF 6 septembre 1969
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Créé par**:
+
+	  - Décret n°70-1160 1970-12-11 art. 1 JORF 15 décembre 1970
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R10
+	  - Code du domaine de l'Etat - art. R17
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R21 (Ab)
 
 
 ###### Article R21
@@ -8187,32 +8256,46 @@ du droit réel attaché au titre d'occupation du domaine public ;
 
 - comptes prévisionnels du crédit-bailleur se rapportant à l'opération ;
 
-- avis du contrôleur d'Etat ou du contrôleur financier placé auprès de l'organisme demandeur.
+- avis du membre du corps du contrôle général économique et financier placé auprès de l'organisme demandeur.
 
 2° Sous réserve des dispositions du 3, le dossier mentionné au 1 est adressé pour agrément au ministre du budget par pli
 recommandé avec demande d'avis de réception postal.
 
-3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 3000000 euros hors taxes, le dossier
-est adressé, dans les mêmes formes, au trésorier-payeur général du lieu de situation de l'investissement projeté qui est
-compétent pour délivrer l'agrément.
+3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 3 000 000 euros hors taxes, le
+dossier est adressé, dans les mêmes formes, au trésorier-payeur général du lieu de situation de l'investissement projeté qui
+est compétent pour délivrer l'agrément.
 
 4° A défaut de notification d'une décision contraire, l'agrément est réputé accordé à l'expiration d'un délai de quatre mois.
 Ce délai est réduit à deux mois dans le cas visé au 3.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. L34-7 (Ab)
-	  - Code du domaine de l'Etat - art. R57-7 (V)
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2001-95 2000-02-02 art. 1 JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L34-7
+	  - Code du domaine de l'Etat - art. R57-7
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2122-27 (V)
 
 
 ##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.
@@ -19246,24 +19329,21 @@ concertée du ministre des finances, du ministre des affaires étrangères et, l
 
 Il est fait défense :
 
-1° Aux contrôleurs financiers ou aux fonctionnaires en tenant lieu de viser toutes pièces d'engagement de dépenses, toutes
-ordonnances de paiement ou de délégation, tous mandats afférents à des acquisitions, échanges ou prises en location lorsque
-ces opérations sont poursuivies en violation des règles fixées au présent article ;
+1° Aux membres du corps du contrôle général économique et financier ou aux fonctionnaires en tenant lieu de viser toutes
+pièces d'engagement de dépenses, toutes ordonnances de paiement ou de délégation, tous mandats afférents à des acquisitions,
+échanges ou prises en location lorsque ces opérations sont poursuivies en violation des règles fixées au présent article ;
 
 2° Aux comptables d'effectuer le paiement des ordonnances de paiement, mandats et autres documents émis en règlement de prix,
 de loyers, indemnités, intérêts et sommes quelconques dus en vertu d'actes d'acquisition, d'échange ou de prise en location
 présentant les mêmes vices.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°64-276 1964-03-24 art. 1 JORF 29 mars 1964
-	  - Décret n°70-1161 1970-12-11 art. 1 JORF 15 décembre 1970
 
 	**Cité par**:
 
@@ -19271,9 +19351,29 @@ présentant les mêmes vices.
 	  - Arrêté du 10 décembre 1998 - art. 17 (V)
 	  - Code du domaine de l'Etat - art. A122 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat D40 à D44
+	  - Code du domaine de l'Etat
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D1221-3 (V)
+	  - Code général de la propriété des personnes publ... - art. D2312-3 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-12 (M)
+	  - Code général de la propriété des personnes publ... - art. D4112-3 (V)
+	  - Code général de la propriété des personnes publ... - art. D4121-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-300 1962-03-14
 
 
 ###### Article D37
@@ -22280,13 +22380,39 @@ du directeur des services fiscaux, elles ne peuvent être prises qu'après avis 
 immobilières et de l'architecture ou, dans les départements d'outre-mer, de la commission départementale des opérations
 immobilières, de l'architecture et des espaces protégés. Lorsque, s'agissant d'un immeuble visé au dernier alinéa de
 l'article A. 93-2 l'avis de cette commission n'est pas suivi par le conseil d'administration et le directeur de
-l'établissement, le contrôleur financier ou le contrôleur d'Etat placé auprès de l'établissement peut s'opposer à
-l'intervention de la décision.
+l'établissement, le membre du corps du contrôle général économique et financier placé auprès de l'établissement peut
+s'opposer à l'intervention de la décision.
 
 **Nota:**
 
-NOTA : Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
+Décret n° 86-455 du 14 mars 1986, art. 1 : La commission nationale, les commissions régionales et départementales des
 opérations immobilières sont supprimées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. A93-2 (V)
+
+
+###### Article A93-6
+
+Pour l'octroi des concessions de logement par utilité ou par nécessité de service, les établissements se conforment aux
+dispositions des articles R. 98 à R. 100.
+
+Pour le calcul de l'abattement prévu à l'article R. 100, ils appliquent les dispositions de l'article A. 92. Toutefois, les
+pourcentages d'abattement sont déterminés, dans chaque cas particulier, par le directeur des services fiscaux, pour les
+concessions soumises au contre-seing du préfet, par le membre du corps du contrôle général économique et financier ou le
+membre du corps du contrôle général économique et financier pour les autres concessions, dans la limite des pourcentages
+fixés par l'article A. 92.
 
 **Liens relatifs à cet article**
 
@@ -22300,11 +22426,12 @@ opérations immobilières sont supprimées.
 
 	**Modifié par**:
 
-	  - Arrêté 1980-02-28 art. 2 JORF 8 mars 1980
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. A93-2 (V)
+	  - Code du domaine de l'Etat - art. A92 (V)
+	  - Code du domaine de l'Etat R98 à R100, A92
 
 
 ###### Article A93-7
