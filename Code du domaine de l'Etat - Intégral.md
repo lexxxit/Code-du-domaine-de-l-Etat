@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-07-29
 
 # Partie législative
 
@@ -4511,7 +4511,8 @@ Peuvent également bénéficier de cessions gratuites les agriculteurs qui, depu
 publication de l'ordonnance n° 98-777 du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
 l'aménagement et la mise en valeur des terres mises à leur disposition par l'Etat, les ont exploitées directement à des fins
 exclusivement agricoles et qui s'engagent à les maintenir à cet usage pendant trente ans à compter de la date de transfert de
-propriété.
+propriété. Pour bénéficier, dans les mêmes conditions, des dispositions du présent alinéa les agriculteurs qui exploitent ces
+terres sans titre régulier doivent présenter une demande dans un délai fixé par décret en Conseil d'Etat.
 
 Les dispositions du présent article sont applicables aux personnes morales dont l'objet est essentiellement agricole et dont
 plus de 50 % du capital social est détenu par des personnes physiques répondant aux conditions requises pour bénéficier à
@@ -4525,7 +4526,7 @@ titre individuel de ces dispositions.
 
 	**Modifié par**:
 
-	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+	  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
 
 	**Cité par**:
 
@@ -4650,6 +4651,48 @@ cession par le représentant de l'Etat dans le département.
 	  - Code de l'urbanisme - art. L221-1 (M)
 	  - Code de l'urbanisme - art. L221-2 (M)
 	  - Code de l'urbanisme L321, L221-1, L221-2
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+
+###### Article L91-2-1
+
+En Guyane, les forêts dépendant du domaine privé de l'Etat et relevant du régime forestier en application de l'article L.
+172-2 du code forestier peuvent faire l'objet de cessions gratuites aux collectivités territoriales sur le territoire
+desquelles elles sont situées en raison du rôle social ou environnemental que ces forêts jouent au plan local.
+
+La collectivité territoriale bénéficiaire de la cession est substituée à l'Etat dans l'ensemble de ses droits et obligations
+à l'égard des tiers et, notamment, des droits des communautés d'habitants qui tirent traditionnellement leurs moyens de
+subsistance de la forêt reconnus en application de l'article L. 91-3 ou en application de l'article L. 172-5 du code
+forestier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L91-3 (Ab)
+	  - Code forestier - art. L172-2 (V)
+	  - Code forestier - art. L172-5 (V)
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. L91-7 (Ab)
+	  - Code forestier - art. L172-3 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L5142-2 (M)
+	  - Code général de la propriété des personnes publiqu - art. L5142-2 (V)
 
 	**Codifié par**:
 
@@ -4815,16 +4858,24 @@ Lorsqu'ils ne sont pas utilisés conformément à l'objet qui a justifié leur c
 des articles L. 91-1, L. 91-2, L. 91-3, les immeubles cédés reviennent gratuitement dans le patrimoine de l'Etat à moins que
 le cessionnaire ne soit autorisé à en conserver la propriété contre le paiement d'un prix correspondant à leur valeur vénale.
 
+Les dispositions du premier alinéa sont également applicables aux cessions de forêts dépendant du domaine privé de l'Etat
+consenties en application de l'article L. 91-2-1.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°98-777 du 2 septembre 1998 - art. 1 () JORF 4 septembre 1998
+	  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L91-1 (M)
 	  - Code du domaine de l'Etat - art. L91-2 (M)
+	  - Code du domaine de l'Etat - art. L91-2-1 (Ab)
 	  - Code du domaine de l'Etat - art. L91-3 (Ab)
 
 	**Cité par**:
