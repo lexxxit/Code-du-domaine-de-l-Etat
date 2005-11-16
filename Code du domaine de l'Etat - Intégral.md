@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-11-17
 
 # Partie législative
 
@@ -22884,7 +22884,7 @@ estimation contradictoire ou par expertise.
 ###### Article A104-1
 
 Pour l'application des dispositions de l'article R. 129-4, la valeur vénale des immeubles dont la cession doit être autorisée
-par le ministre chargé du domaine est fixée à 1 000 000 Euros.
+par le ministre chargé du domaine est fixée à 2 000 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -22894,7 +22894,7 @@ par le ministre chargé du domaine est fixée à 1 000 000 Euros.
 
 	**Modifié par**:
 
-	  - Arrêté 2004-11-16 art. 1 JORF 28 novembre 2004
+	  - Arrêté 2005-10-24 art. 1 JORF 17 novembre 2005
 
 	**Cite**:
 
