@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-11-17
+Version Consolidée au 2005-12-17
 
 # Partie législative
 
@@ -13517,6 +13517,181 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R3211-27 (V)
+
+
+##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.
+
+###### Article R148-5
+
+L'aliénation des terrains du domaine privé de l'Etat mentionnés à l'article L. 66-2 peut être consentie à un prix inférieur à
+la valeur vénale déterminée par le directeur des services fiscaux, par application d'une décote dans les conditions prévues
+aux articles R. 148-6 à R. 148-9.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. L66-2
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-13 (V)
+
+
+###### Article R148-6
+
+Une décote peut être appliquée lorsqu'un terrain est aliéné en vue de recevoir au moins 75 % de surface hors oeuvre nette
+affectée au logement et comportant des logements locatifs sociaux mentionnés aux 3° et 5° de l'article L. 351-2 du code de la
+construction et de l'habitation.
+
+L'avantage financier résultant de la décote est exclusivement et en totalité répercuté dans le prix de revient des logements
+locatifs sociaux réalisés sur le terrain aliéné.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-14 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L351-2
+
+
+###### Article R148-7
+
+La décote ne peut excéder 25 % du produit de la valeur vénale du terrain, pondérée par le rapport de la surface hors oeuvre
+nette affectée au logement locatif social à la surface hors oeuvre nette totale du programme immobilier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-895 du 18 juillet 2006 - art. 2 (V)
+
+
+###### Article R148-8
+
+Le préfet décide du principe d'une décote.
+
+Il adresse au directeur des services fiscaux un dossier comprenant le programme de logements locatifs sociaux à réaliser dans
+un délai de cinq ans à compter de l'aliénation du terrain et un document précisant les conditions financières de réalisation
+de ce programme ainsi que l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements
+locatifs sociaux bénéficiaires. Le montant de la décote est calculé à partir de ces éléments. Il est fixé par le directeur
+des services fiscaux.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-16 (V)
+
+
+###### Article R148-9
+
+L'acte d'aliénation comporte la valeur vénale établie par le directeur des services fiscaux, le programme de logements
+locatifs sociaux devant être réalisé, les conditions de cette réalisation et le montant de la décote.
+
+Il prévoit, en cas de non-réalisation du programme de logements locatifs sociaux dans le délai de cinq ans à compter de
+l'aliénation, au choix de l'Etat, soit la résolution de la vente sans indemnité pour l'acquéreur, soit le remboursement de la
+décote ainsi que le montant des indemnités contractuelles applicables.
+
+Lorsque l'acquéreur du terrain objet de la décote n'est pas une personne bénéficiant des subventions et prêts prévus à
+l'article R. 331-14 du code de la construction et de l'habitation, l'acte d'aliénation précise, en sus des informations et
+engagements mentionnés aux deux alinéas précédents, les conditions et modalités générales du transfert au bailleur des
+logements locatifs sociaux construits ou des droits et obligations afférents aux logements locatifs sociaux à construire
+compris dans le programme.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2005-1571 du 15 décembre 2005 - art. 1 () JORF 17 décembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-17 (V)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R331-14
 
 
 #### Chapitre II : Domaine mobilier.
