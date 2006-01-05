@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -4521,13 +4521,18 @@ redevance domaniale.
 
 ###### Article L91-1
 
-Dans le département de Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet de cessions gratuites
-aux titulaires de concessions accordées par l'Etat en vue de la culture et de l'élevage, qui ont réalisé leur programme de
-mise en valeur à l'issue d'une période probatoire de cinq ans. Celle-ci pourra être prorogée d'une ou plusieurs années dans
-la limite de cinq ans supplémentaires.
+Dans le département de la Guyane, les terres dépendant du domaine privé de l'Etat, à l'exclusion des terrains situés dans les
+zones identifiées pour l'intérêt de leur patrimoine naturel dans le cadre de l'inventaire prévu à l'article L. 411-5 du code
+de l'environnement ou des terres faisant l'objet des mesures de protection prévues aux articles L. 331-1 et suivants, L.
+332-1 et suivants, L. 341-1 et suivants, L. 342-1 et L. 411-2 et suivants du même code, peuvent, dans la limite des
+superficies effectivement mises en valeur, faire l'objet de cessions gratuites aux titulaires de baux emphytéotiques à
+vocation agricole depuis plus de dix ans, ou aux titulaires de concessions accordées par l'Etat en vue de la culture et de
+l'élevage qui ont réalisé leur programme de mise en valeur à l'issue d'une période probatoire de cinq ans, pouvant être
+prorogée d'une ou plusieurs années dans la limite de cinq ans supplémentaires.
 
-Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date du
-transfert de propriété, cette période de trente ans étant réduite de la durée effective de la période probatoire.
+Le cessionnaire doit s'engager à maintenir l'usage agricole des biens cédés pendant trente ans à compter de la date de
+transfert de propriété, cette période de trente ans étant réduite de la durée effective de la période probatoire pour les
+titulaires de concessions ou réduite de la période de mise en valeur antérieure pour les baux emphytéotiques.
 
 Peuvent également bénéficier de cessions gratuites les agriculteurs qui, depuis leur installation, antérieure à la date de
 publication de l'ordonnance n° 98-777 du 2 septembre 1998 et pendant une période d'au moins cinq ans, ont réalisé
@@ -4545,10 +4550,20 @@ titre individuel de ces dispositions.
 	**Cite**:
 
 	  - Ordonnance 98-777 1998-09-02
+	  - Code de l'environnement - art. L331-1 (M)
+	  - Code de l'environnement - art. L332-1 (V)
+	  - Code de l'environnement - art. L341-1 (M)
+	  - Code de l'environnement - art. L342-1 (V)
+	  - Code de l'environnement - art. L411-2 (M)
+	  - Code de l'environnement - art. L411-5 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-867 du 28 juillet 2005 - art. 7 () JORF 29 juillet 2005
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 100 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cité par**:
 
@@ -4566,6 +4581,9 @@ titre individuel de ces dispositions.
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publiqu - art. L5141-4 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5141-1 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5141-2 (V)
+	  - Code général de la propriété des personnes publiqu - art. L5141-3 (V)
 
 	**Codifié par**:
 
@@ -4614,6 +4632,46 @@ fait l'objet des travaux d'aménagement.
 	**Codifié par**:
 
 	  - Décret n°62-298 1962-03-14
+
+
+###### Article L91-1-2
+
+Dans le département de la Guyane, les terres dépendant du domaine privé de l'Etat peuvent faire l'objet de concessions
+foncières accordées par l'Etat aux agriculteurs pratiquant une agriculture sur abattis à caractère itinérant.
+
+Les conditions d'application du présent article sont définies par un décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2006-460 art. 8 I : L'abrogation des dispositions du code du domaine de l'Etat mentionnées au I de l'article 7 ne
+prendra effet qu'à compter de la publication des dispositions règlementaires correspondantes du code général de la propriété
+des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°62-298 1962-03-14
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+
+	**Créé par**:
+
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 100 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 8 (V)
 
 
 ##### Section 2 : Concessions et cessions d'immeubles domaniaux aux collectivités territoriales et à un établissement public d'aménagement
