@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2006-03-04
+Version Consolidée au 2006-06-07
 
 # Partie législative
 
@@ -12902,14 +12902,22 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R137
 
-Est autorisée, après avis de la commission départementale des sites, qui doit être donné dans un délai de trois mois,
-l'aliénation des anciens ouvrages et postes militaires déclassés ou non classés, situés sur les côtes et dans les îles
-avoisinant les côtes, appartenant au domaine militaire et inutiles à la défense. Réserve est faite, dans chaque cas, du
-terrain nécessaire pour l'établissement d'un passage public au bord de la mer.
+Est autorisée, après avis de la commission départementale de la nature, des paysages et des sites, qui doit être donné dans
+un délai de trois mois, l'aliénation des anciens ouvrages et postes militaires déclassés ou non classés, situés sur les côtes
+et dans les îles avoisinant les côtes, appartenant au domaine militaire et inutiles à la défense. Réserve est faite, dans
+chaque cas, du terrain nécessaire pour l'établissement d'un passage public au bord de la mer.
 
 Les ouvrages susvisés sont énumérés sur la liste n° 2 annexée à la loi du 28 mars 1933 relative aux ouvrages de côtes.
 
 L'aliénation a lieu aux enchères publiques.
+
+**Nota:**
+
+Décret 2006-665 du 7 juin 2006 art. 61 : Spécificités d'application.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12919,7 +12927,15 @@ L'aliénation a lieu aux enchères publiques.
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 20 () JORF 8 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
