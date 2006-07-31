@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2006-07-20
+Version Consolidée au 2006-08-01
 
 # Partie législative
 
@@ -11959,29 +11959,44 @@ ressort de laquelle se situe le département ;
 
 - un magistrat de la chambre régionale des comptes des Antilles et de la Guyane proposé par le président de celle-ci ;
 
-- un membre, en activité ou honoraire, du corps des tribunaux administratifs et des cours administratives d'appel, résidant
-dans le département et proposé par le président du tribunal administratif.
+- une personnalité qualifiée en droit de la propriété proposée par le préfet du département ;
 
 Ces membres sont nommés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'économie, des
 finances et de l'industrie.
+
+**Nota:**
+
+Décret 2006-665 du 7 juin 2006 art. 61 : Spécificités d'application.
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2000-345 du 18 avril 2000 - art. 2 (Ab) JORF 21 avril 2000
+	  - Décret n°2006-665 du 7 juin 2006 - art. 56 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L89-2 (Ab)
+	  - Code du domaine de l'Etat - art. L89-2
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-16 (M)
+	  - Code du domaine de l'Etat - art. R170-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5112-29 (V)
 
 
 ###### Article R170-12
