@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -10137,9 +10137,16 @@ soit par le chef des services fiscaux, soit par l'un des directeurs qui exercent
 
 ###### Article R150-2
 
-Dans la limite des compétences domaniales qui lui sont propres, le fonctionnaire chargé d'un service à compétence nationale
-ou d'un service déconcentré de la direction générale des impôts peut, dans les conditions fixées par le directeur général des
-impôts, déléguer sa signature aux agents, ayant au moins le grade de contrôleur, placés sous son autorité.
+Dans la limite des compétences domaniales qui leur sont propres, le fonctionnaire chargé d'un service à compétence nationale
+de la direction générale de la comptabilité publique et le trésorier-payeur général peuvent, dans les conditions fixées par
+le directeur général de la comptabilité publique, déléguer leur signature aux agents ayant au moins le grade de contrôleur,
+placés sous leur autorité.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -10149,7 +10156,20 @@ impôts, déléguer sa signature aux agents, ayant au moins le grade de contrôl
 
 	**Modifié par**:
 
-	  - Décret n°2002-1323 du 29 octobre 2002 - art. 1 () JORF 6 novembre 2002
+	  - Décret n°2006-1792 du 23 décembre 2006 - art. 7 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D1212-25 (V)
+	  - Code général de la propriété des personnes publ... - art. D2312-8 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-16 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-4 (V)
+	  - Code général de la propriété des personnes publ... - art. D3222-1 (V)
+	  - Code général de la propriété des personnes publ... - art. D4111-9 (V)
 
 
 ###### Article R151
@@ -10185,21 +10205,23 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R152
 
-Le service des domaines est représenté :
+Les compétences attribuées en matière domaniale au trésorier-payeur général par le présent code ou par des textes
+particuliers sont exercées :
 
-Dans les territoires d'outre-mer de la République :
+1° Aux armées en campagne, par les agents de la trésorerie aux armées ;
 
-- par les comptables directs du Trésor français ou par les fonctionnaires spécialement désignés à cet effet par le ministre
-des finances ;
+2° Dans les collectivités d'outre-mer et en Nouvelle-Calédonie, par les comptables directs du Trésor, comptables principaux
+de l'Etat, ou par les fonctionnaires spécialement désignés à cet effet par le ministre chargé des finances.
 
-Aux armées de campagne :
+A l'étranger, les compétences attribuées en matière domaniale aux préfets et aux trésoriers-payeurs généraux par le présent
+code ou par des textes particuliers sont exercées par l'ambassadeur ou l'autorité ayant reçu délégation à cet effet de
+l'ambassadeur.
 
-- par les agents de la trésorerie aux armées ;
+**Nota:**
 
-A l'étranger :
-
-- à défaut d'échelon de ses propres services, par les agents consulaires ou par les fonctionnaires spécialement désignés à
-cet effet par le ministre des finances.
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -10210,6 +10232,28 @@ cet effet par le ministre des finances.
 	**Codifié par**:
 
 	  - Décret n°62-299 1962-03-14
+
+	**Modifié par**:
+
+	  - Décret n°2006-1792 2006-12-23 art. 7 2° JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. D1212-26 (V)
+	  - Code général de la propriété des personnes publ... - art. D2312-9 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-17 (V)
+	  - Code général de la propriété des personnes publ... - art. D3221-5 (V)
+	  - Code général de la propriété des personnes publ... - art. D3222-2 (V)
+	  - Code général de la propriété des personnes publ... - art. D4111-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R1221-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R2312-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R3221-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R3221-14 (V)
+	  - Code général de la propriété des personnes publ... - art. R4112-1 (V)
 
 
 ###### Article R152-1
