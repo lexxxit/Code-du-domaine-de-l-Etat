@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2007-02-28
+Version Consolidée au 2007-09-01
 
 # Partie législative
 
@@ -18483,77 +18483,6 @@ compter de la notification, la décision d'attribution devient caduque.
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. A86 (V)
-
-
-###### Article A75
-
-A compter du 1er juillet 1952, les maxima de redevances d'occupation de bâtiments provisoires à usage d'habitation sont fixés
-par référence aux maxima de loyers applicables aux habitations à loyer modéré ordinaires (maisons collectives) achevées avant
-le 1er septembre 1939 ou dont la construction commencée avant cette date n'a été achevée que postérieurement.
-
-Les maxima de loyers visés à l'alinéa précédent, fixés par l'arrêté interministériel du 12 juillet 1949, sont reproduits dans
-le tableau ci-après (non reproduit, voir au Journal officiel).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1949-07-12
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-06-21 art. 1
-	  - Arrêté 1955-07-07
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. A78 (V)
-	  - Code du domaine de l'Etat - art. A79 (V)
-
-
-###### Article A76
-
-Un tableau de concordance mentionne les types les plus courants des bâtiments provisoires avec l'indication des catégories
-d'habitations à loyer modéré auxquelles ils peuvent être assimilés.
-
-En ce qui concerne les bâtiments utilisés pour l'habitation d'un type autre que celui des bâtiments énumérés dans le tableau
-de concordance visé au premier alinéa du présent arrêté, la redevance est déterminée par voie de comparaison avec ces
-derniers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1948-05-30 art. 5 al. 1
-	  - Arrêté 1952-06-21 art. 3
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
-
-
-###### Article A77
-
-Chaque semestre, à compter du 1er janvier 1953 et jusqu'au 1er juillet 1957, les maxima des loyers visés à l'article
-précédent sont majorés d'un cinquième.
-
-Toutefois, aucune nouvelle majoration semestrielle n'est appliquée au cours de la période du 1er juillet 1955 au 30 juin
-1957.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté 1952-06-21 art. 2
-	  - Arrêté 1955-07-07
-
-	**Codifié par**:
-
-	  - Arrêté 1962-03-14
 
 
 ###### Article A78
