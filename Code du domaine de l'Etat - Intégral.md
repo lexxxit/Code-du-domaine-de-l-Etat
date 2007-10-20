@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-21
 
 # Partie législative
 
@@ -12596,22 +12596,24 @@ valeur agricole et de la réalisation de travaux d'aménagement rural :
 
 1° De concessions en vue de la culture ou de l'élevage dans les conditions prévues aux articles R. 170-32 à R. 170-42 ;
 
-2° alinéa abrogé
+2° De baux emphytéotiques à vocation agricole dans les conditions prévues aux articles R. 170-44-1 et R. 170-44-2 ;
 
 3° De baux agricoles dans les conditions prévues à l'article R. 170-45 ;
 
 4° De conventions de mise en valeur passées avec une collectivité locale conformément aux dispositions de l'article R.
 170-46.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Cité par**:
 
@@ -12620,10 +12622,25 @@ valeur agricole et de la réalisation de travaux d'aménagement rural :
 	  - Code du domaine de l'Etat - art. R170-45 (Ab)
 	  - Code du domaine de l'Etat - art. R170-46 (Ab)
 	  - Code du domaine de l'Etat - art. R170-63 (M)
+	  - Code du domaine de l'Etat - art. R170-67 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 2 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat R170-32 à R170-42, R170-45, R170-46
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. R170-44-1
+	  - Code du domaine de l'Etat - art. R170-44-2
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-1 (V)
 
 
 ###### Article R170-31-1
@@ -12666,7 +12683,7 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 
 ###### Article R170-32
 
-Les concessions mentionnées au 1° de l'article R. 170-31 sont accordées sur des terres d'une superficie maximale de cinq
+I.- Les concessions mentionnées au 1° de l'article R. 170-31 sont accordées sur des terres d'une superficie maximale de cinq
 hectares et pour une période probatoire de cinq ans. Pendant cette période, le concessionnaire est tenu, sur la totalité de
 la superficie concédée exploitable, de réaliser un programme de travaux de mise en valeur agricole.
 
@@ -12679,22 +12696,65 @@ application de l'article L. 91-1, sur sa demande, du transfert de propriété de
 à l'article R. 170-43. S'il renonce à demander le transfert de propriété ou s'il ne remplit pas les conditions pour
 l'obtenir, la concession prend fin en application des dispositions des articles R. 170-40 à R. 170-42.
 
+II. - Toutefois, les concessions foncières en vue de la culture sur abattis à caractère itinérant portent sur des terres
+d'une superficie maximale de vingt hectares et sont conclues pour une durée de cinq ans renouvelable par tacite reconduction
+dans la limite d'une durée totale de vingt ans à compter de la concession initiale.
+
+Ces concessions sont accordées sur le territoire des communes dont la liste est fixée par arrêté conjoint du ministre chargé
+de l'agriculture et du ministre chargé de l'outre-mer, au sein de périmètres délimités par arrêté préfectoral dans les zones
+où, à la date d'entrée en vigueur du décret n° 2007-1507 du 19 octobre 2007, se pratique la culture sur abattis à caractère
+itinérant et en tenant compte des enjeux d'environnement et de la nécessaire préservation d'autres activités économiques
+après avis du conseil municipal de la commune concernée et de l'Office national des forêts.
+
+Pendant la durée de la concession, le concessionnaire est tenu de réaliser, de façon progressive, la mise en valeur agricole
+de la superficie concédée exploitable. Le service de l'Etat chargé de l'agriculture procède tous les cinq ans à un contrôle
+de l'effectivité de la mise en valeur agricole.
+
+A l'expiration de la concession, le concessionnaire qui n'a pas renoncé à la concession ou n'en a pas été déchu peut
+bénéficier, sur sa demande, en application de l'article L. 5141-2 du code général de la propriété des personnes publiques, du
+transfert de propriété des terres concédées qu'il a effectivement exploitées dans les conditions prévues à l'article R.
+170-43. Aucune cession ne peut intervenir tant que la superficie minimale à exploiter fixée dans l'acte de concession, égale
+au moins à un quart de la superficie concédée, n'a pas été mise en valeur.
+
+Lorsque la cession porte, en application de l'alinéa précédent, sur une partie des terres concédées, la concession initiale
+peut être renouvelée sur les terres non cédées.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°2000-225 du 10 mars 2000 - art. 4 () JORF 11 mars 2000
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-1 (M)
-	  - Code du domaine de l'Etat - art. R170-31 (M)
-	  - Code du domaine de l'Etat - art. R170-43 (M)
-	  - Code du domaine de l'Etat R170-31, L91-1, R170-43, R170-40 à R170-42
+	  - Décret n°2007-1507 du 19 octobre 2007 (Ab)
+	  - Code du domaine de l'Etat
+	  - Code du domaine de l'Etat - art. L91-1
+	  - Code du domaine de l'Etat - art. R170-31
+	  - Code du domaine de l'Etat - art. R170-43
+
+	**Modifié par**:
+
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 2 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-34 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-3 (V)
 
 
 ###### Article R170-33
@@ -12708,13 +12768,21 @@ l'accord sur l'Espace économique européen ou être titulaire d'une carte de r�
 
 3° S'engager à exercer la profession d'agriculteur à titre principal et à exploiter personnellement l'immeuble dont la
 concession est demandée. Est réputée exploitation personnelle celle qui est faite par le demandeur exploitant les terres avec
-sa famille ou par un ouvrier cultivant les terres sous la direction du demandeur et aux frais de ce dernier.
+sa famille ou sauf dans le cas des concessions en vue de la pratique de l'agriculture sur abattis à caractère itinérant, par
+un ouvrier cultivant les terres sous la direction du demandeur et aux frais de ce dernier.
 
 Peuvent également bénéficier d'une concession les personnes morales mentionnées au quatrième alinéa de l'article L. 91-1 dont
 plus de 50 % du capital social est détenu par des personnes physiques remplissant à titre individuel les conditions
-mentionnées au premier alinéa.
+mentionnées au premier alinéa. Les dispositions du présent alinéa ne sont pas applicables aux concessions en vue de la
+pratique de l'agriculture sur abattis à caractère itinérant.
 
 Dans tous les cas l'administration apprécie s'il y a lieu d'attribuer la concession.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12724,20 +12792,29 @@ Dans tous les cas l'administration apprécie s'il y a lieu d'attribuer la conces
 
 	**Modifié par**:
 
-	  - Décret n°2000-225 du 10 mars 2000 - art. 5 () JORF 11 mars 2000
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-1 (M)
+	  - Code du domaine de l'Etat - art. L91-1
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-35 (M)
+	  - Code du domaine de l'Etat - art. R170-35 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-4 (V)
 
 
 ###### Article R170-34
 
-L'acte de concession fixe le lieu et la nature de l'exploitation, le programme de travaux, les conditions et délais de sa
+L'acte de concession fixe le lieu et la nature de l'exploitation, le programme de travaux et, lorsqu'il s'agit d'une
+concession prévue au II de l'article R. 170-32, la superficie minimale à exploiter, les conditions et délais de sa
 réalisation par tranches et les conditions d'occupation des immeubles bâtis et non bâtis.
 
 L'acte de concession est complété par un cahier des charges conforme à un modèle établi par arrêté conjoint des ministres
@@ -12760,6 +12837,12 @@ intérêts de retard.
 
 Un état des lieux établi contradictoirement est annexé à l'acte de concession.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -12768,7 +12851,19 @@ Un état des lieux établi contradictoirement est annexé à l'acte de concessio
 
 	**Modifié par**:
 
-	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-32 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-5 (V)
 
 
 ###### Article R170-35
@@ -12787,11 +12882,18 @@ alinéa de l'article R. 170-33.
 2° La situation exacte et la superficie du terrain demandé ;
 
 3° Le programme technique et économique de l'exploitation envisagée et les moyens auxquels le demandeur aura recours pour sa
-mise en oeuvre.
+mise en oeuvre. Pour les concessions foncières en vue de la pratique de l'agriculture sur abattis à caractère itinérant, le
+programme technique et économique intègre des mesures environnementales.
 
 La demande comporte l'engagement prévu au deuxième alinéa de l'article R. 170-33. Elle est adressée au préfet, qui fait
 procéder à son instruction, sauf lorsqu'il est fait application de la convention prévue au premier alinéa de l'article L.
 91-1-1. Dans ce cas, la demande est adressée à l'établissement public, qui procède à son instruction.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -12801,16 +12903,24 @@ procéder à son instruction, sauf lorsqu'il est fait application de la conventi
 
 	**Modifié par**:
 
-	  - Décret n°2000-225 du 10 mars 2000 - art. 6 () JORF 11 mars 2000
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-1-1 (Ab)
-	  - Code du domaine de l'Etat - art. R170-33 (M)
+	  - Code du domaine de l'Etat - art. L91-1-1
+	  - Code du domaine de l'Etat - art. R170-33 (Ab)
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-45 (M)
+	  - Code du domaine de l'Etat - art. R170-45 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-6 (V)
 
 
 ###### Article R170-36
@@ -12937,6 +13047,12 @@ concessionnaire ne puisse prétendre au transfert de propriété à son profit d
 l'avoir exploité personnellement pendant une période d'au moins trois ans. L'avenant peut, en outre, fixer, en fonction de la
 demande présentée, de nouvelles conditions de mise en valeur agricole.
 
+Dans le cas des concessions foncières destinées à la culture sur abattis à caractère itinérant, la transmission de la
+concession peut être demandée par les collatéraux du concessionnaire dès lors que ceux-ci ont, antérieurement à cette
+transmission, participé à la mise en valeur de la surface concédée et que le conjoint ou les descendants ou les ascendants du
+concessionnaire ou leurs conjoints ne demandent pas cette transmission en application du deuxième alinéa. La durée de ces
+concessions n'est pas prorogée en cas de transmission quelle que soit la durée de concession restant à courir.
+
 II. - Les personnes morales concessionnaires doivent informer le préfet des modifications concernant les détenteurs et la
 répartition du capital social, ainsi que l'objet statutaire.
 
@@ -12946,25 +13062,40 @@ maximum de douze mois. Lorsque la mise en demeure est restée infructueuse, ou �
 concessionnaire est déchu de ses droits par le préfet. Dans le cas où l'arrêté de déchéance n'a pu être notifié à la personne
 morale ou à son représentant, il est affiché en mairie pendant un délai de quinze jours.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2000-225 du 10 mars 2000 - art. 7 () JORF 11 mars 2000
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. L91-1 (M)
-	  - Code du domaine de l'Etat - art. R170-36 (M)
-	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat - art. L91-1
+	  - Code du domaine de l'Etat - art. R170-36
+	  - Code du domaine de l'Etat - art. R170-37
 
 	**Cité par**:
 
-	  - Code du domaine de l'Etat - art. R170-41 (M)
+	  - Code du domaine de l'Etat - art. R170-41 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-10 (V)
+	  - Code général de la propriété des personnes publ... - art. R5141-9 (V)
 
 
 ###### Article R170-39
@@ -13060,8 +13191,8 @@ La concession est déclarée vacante dans les cas suivants :
 1° Renonciation du concessionnaire à la concession ;
 
 2° Décès ou impossibilité définitive du concessionnaire d'exploiter lorsque le décès ou le défaut d'exploitation n'est pas
-suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième et troisième alinéas de
-l'article R. 170-38 ;
+suivi d'une transmission du bénéfice de la concession dans les conditions prévues aux deuxième, troisième et quatrième
+alinéas de l'article R. 170-38 ;
 
 3° Dissolution ou cessation d'activité de la personne morale ;
 
@@ -13069,20 +13200,34 @@ l'article R. 170-38 ;
 
 La vacance est déclarée par le préfet. Elle fait l'objet des mesures de publicité prévues à l'article R. 170-37.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
 	**Modifié par**:
 
-	  - Décret n°2000-225 du 10 mars 2000 - art. 9 () JORF 11 mars 2000
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R170-37 (M)
-	  - Code du domaine de l'Etat - art. R170-38 (M)
+	  - Code du domaine de l'Etat - art. R170-37
+	  - Code du domaine de l'Etat - art. R170-38 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-13 (V)
 
 
 ###### Article R170-42
@@ -13124,12 +13269,19 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 
 ###### Article R170-43
 
-La cession ne peut intervenir que si le programme des travaux a été exécuté et si l'intéressé s'est acquitté de l'ensemble de
-ses obligations.
+La cession ne peut intervenir qu'en dehors des zones protégées mentionnées au deuxième alinéa de l'article L. 5141-2 du code
+général des propriétés des personnes publiques et si l'intéressé s'est acquitté de l'ensemble de ses obligations et notamment
+si le programme des travaux a été exécuté.
 
 La demande de cession doit parvenir six mois avant l'expiration de la concession.
 
 Il est statué avant l'expiration de celle-ci, faute de quoi la concession est prorogée de plein droit.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -13139,13 +13291,25 @@ Il est statué avant l'expiration de celle-ci, faute de quoi la concession est p
 
 	**Modifié par**:
 
-	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 3 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R170-31 (M)
 	  - Code du domaine de l'Etat - art. R170-32 (Ab)
 	  - Code du domaine de l'Etat - art. R170-66 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-15 (V)
+
+	**Cite**:
+
+	  - Code général des propriétés des personnes publiques L5141-2
 
 
 ###### Article R170-44
@@ -13195,6 +13359,108 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. R5141-16 (V)
+
+
+###### Article R170-44-1
+
+Les terres qui font l'objet de baux emphytéotiques à vocation agricole depuis plus de dix ans peuvent, hors des zones
+protégées mentionnées au deuxième alinéa de l'article L. 5141-2 du code général des propriétés des personnes publiques, être
+cédées aux titulaires de ces baux si ceux-ci se sont acquittés de l'ensemble de leurs obligations et dans la limite des
+superficies qu'ils ont effectivement et personnellement mises en valeur.
+
+La demande de cession est formulée par le preneur auprès du préfet six mois au plus tard avant l'expiration du bail. En
+l'absence de décision du préfet à la date d'expiration du bail, ce dernier est prorogé de plein droit pour une durée d'un an.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-31 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-17 (V)
+
+	**Cite**:
+
+	  - Code général des propriétés des personnes publiques L5141-2
+
+	**Codifié par**:
+
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Créé par**:
+
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 4 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+
+###### Article R170-44-2
+
+Le transfert de propriété a lieu à titre gratuit.
+
+Les dispositions des articles R. 170-66, R. 170-67, R. 170-68, R. 170-69 et du premier alinéa de l'article R. 170-70 sont
+applicables aux baux emphytéotiques et aux cessions de terres faisant l'objet de tels baux.
+
+Le transfert de propriété est consenti sous la condition résolutoire que l'immeuble soit exploité à des fins agricoles par le
+cessionnaire, ses héritiers ou ses ayants cause, pendant trente ans à compter de la date de la cession, déduction faite de la
+période de mise en valeur antérieure.
+
+Si le préfet constate que l'immeuble cédé n'est plus exploité à des fins agricoles, il met en demeure le cessionnaire, ses
+héritiers ou ses ayants cause de régulariser la situation dans un délai maximum de douze mois. Lorsque la mise en demeure est
+restée infructueuse ou à défaut de régularisation dans ce délai, le préfet demande à l'intéressé de restituer l'immeuble cédé
+ou l'autorise à en conserver la propriété dans les conditions fixées à l'article R. 170-71.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°62-299 1962-03-14
+
+	**Créé par**:
+
+	  - Décret n°2007-1507 du 19 octobre 2007 - art. 4 () JORF 21 octobre 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code du domaine de l'Etat - art. R170-31 (Ab)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-66
+	  - Code du domaine de l'Etat - art. R170-67
+	  - Code du domaine de l'Etat - art. R170-68
+	  - Code du domaine de l'Etat - art. R170-69
+	  - Code du domaine de l'Etat - art. R170-70
+	  - Code du domaine de l'Etat - art. R170-71
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-18 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R5145-6 (V)
 
 
 ###### Article R170-45
