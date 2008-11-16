@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-11-17
 
 # Partie législative
 
@@ -14302,6 +14302,87 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	**Nouveaux textes**:
 
 	  - Code général de la propriété des personnes publ... - art. D5142-10 (V)
+
+
+###### Article R170-55-1
+
+La demande de cession gratuite d'une forêt dépendant du domaine privé de l'Etat et relevant du régime forestier en
+application de l'article L. 5142-2 du code général de la propriété des personnes publiques est adressée au préfet par la
+collectivité territoriale. 
+
+Le préfet examine, après avis du représentant de l'Office national des forêts et du directeur de l'agriculture et de la
+forêt, si le rôle social ou environnemental que la forêt dont la cession est demandée joue au plan local justifie ou non la
+cession. 
+
+Le préfet se prononce sur la demande de cession dans les quatre mois de son dépôt.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1180 du 14 novembre 2008 - art. 7
+
+	**Cité par**:
+
+	  - Code forestier (nouveau) - art. R272-9 (V)
+	  - Code du domaine de l'Etat - art. R170-55-2 (Ab)
+	  - Code forestier - art. R172-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-11 (V)
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L5142-2
+
+
+###### Article R170-55-2
+
+Les cessions mentionnées à l'article R. 170-55-1 sont constatées par un acte indiquant la localisation, la consistance et la
+destination des immeubles.
+
+L'acte mentionne également que la forêt cédée relève du régime forestier dans les conditions prévues à l'article L. 111-1 du
+code forestier.
+
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1180 du 14 novembre 2008 - art. 7
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R170-55-1 (Ab)
+	  - Code forestier - art. L111-1
+
+	**Cité par**:
+
+	  - Code forestier - art. R172-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5142-12 (V)
 
 
 ##### Section 3 : Droits des communautés d'habitants tirant traditionnellement leurs moyens de subsistance de la forêt.
