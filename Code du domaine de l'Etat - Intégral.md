@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2008-11-17
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -5808,22 +5808,33 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R76
 
-La gestion, l'entretien et le gardiennage des immeubles domaniaux à destination de logement, affectés au ministère des
-armées, peuvent être confiés à des organismes d'habitations à loyer modéré ou à des sociétés d'économie mixte, aux conditions
-fixées par des contrats de gérance établis à la diligence du service des domaines.
+La gestion, l'entretien et le gardiennage des immeubles domaniaux à destination de logement, qui font l'objet d'une
+convention d'utilisation mentionnée à l'article R. 128-12, conclue avec le ministère de la défense, peuvent être confiés à
+des organismes d'habitations à loyer modéré ou à des sociétés d'économie mixte, aux conditions fixées par des contrats de
+gérance établis à la diligence du service des domaines.
 
 A défaut du concours de tels organismes, la gérance peut être confiée à des offices de logement créés par arrêté conjoint du
 ministre intéressé et du ministre des finances.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du domaine de l'Etat (ancien) L60
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 2
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R128-12
 
 	**Cité par**:
 
@@ -5833,22 +5844,33 @@ ministre intéressé et du ministre des finances.
 ###### Article R76-1
 
 Sous réserve des dispositions de l'article R. 76, la gestion, l'entretien et le gardiennage d'un immeuble domanial à
-destination de logement, affecté à un département ministériel, peuvent être confiés à un organisme d'habitations à loyer
-modéré ou à une société d'économie mixte.
+destination de logement, qui fait l'objet d'une convention d'utilisation mentionnée à l'article R. 128-12 avec un département
+ministériel, peuvent être confiés à un organisme d'habitations à loyer modéré ou à une société d'économie mixte. 
 
 Le préfet passe le contrat de gérance, après fixation des conditions financières par le directeur des services fiscaux du
 département où se trouve l'immeuble. Le contrat de gérance doit être conforme à un contrat type établi par arrêté du ministre
 chargé du domaine.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R76 (V)
+	  - Code du domaine de l'Etat - art. R128-12
+	  - Code du domaine de l'Etat - art. R76
 
 
 ##### Section 4 : Echanges.
@@ -8601,6 +8623,232 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Code de l'environnement - art. L322-9
 
 
+#### Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics.
+
+###### Article R128-12
+
+Les immeubles qui appartiennent à l'Etat ou qu'il détient en jouissance sont mis à la disposition des services civils ou
+militaires de l'Etat et de ses établissements publics afin de leur permettre d'assurer le fonctionnement du service public
+dont ils sont chargés, dans les conditions prévues par une convention dont le modèle est fixé par arrêté du ministre chargé
+du domaine.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°93-397 du 19 mars 1993 - art. 22 (V)
+	  - Décret n°2003-1300 du 26 décembre 2003 - art. 9 (VD)
+	  - Décret n°2007-651 du 30 avril 2007 - art. 2-1 (V)
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 5 (Ab)
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 6 (V)
+	  - Arrêté du 21 avril 2009 - art. (V)
+	  - Arrêté du 21 avril 2009 - art. 1 (V)
+	  - Décret n°2009-1491 du 3 décembre 2009 - art. 24 (VD)
+	  - Décret n°2009-1643 du 24 décembre 2009 - art. 30 (V)
+	  - Décret n°2010-669 du 18 juin 2010 - art. 7 (V)
+	  - Décret n°2010-1670 du 28 décembre 2010 - art. 26 (V)
+	  - Décret n°2011-52 du 13 janvier 2011 - art. 5 (V)
+	  - Décret n°2011-557 du 20 mai 2011 - art. 6 (V)
+	  - Arrêté du 5 août 2011 - art. 18 (V)
+	  - Code du cinéma et de l'image animée - art. R112-4 (V)
+	  - Code du domaine de l'Etat - art. R129-5 (Ab)
+	  - Code du domaine de l'Etat - art. R76 (Ab)
+	  - Code du domaine de l'Etat - art. R76-1 (Ab)
+	  - Code du patrimoine. - art. R141-6 (V)
+	  - Code du patrimoine. - art. R142-27 (M)
+	  - Code rural - art. R621-59 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2313-1 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
+###### Article R128-13
+
+L'autorité compétente du service ou de l'établissement public qui souhaite obtenir la mise à disposition d'un immeuble
+domanial adresse sa demande au représentant de l'Etat dans le département sur le territoire duquel l'immeuble est situé. Le
+représentant de l'Etat procède à l'instruction de la demande. 
+
+Dans les cas mentionnés aux 1° et 2° de l'article R. 128-14, la demande est adressée au ministre chargé du domaine. 
+
+Le dossier de la demande comporte la désignation précise de l'immeuble ainsi que l'utilisation projetée.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2313-2 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
+###### Article R128-14
+
+La convention est passée entre le représentant de l'Etat dans le département, le représentant du service ou de
+l'établissement utilisateur et le représentant de l'administration chargée du domaine. 
+
+Toutefois, la convention est passée entre le ministre chargé du domaine et le ministre sous l'autorité duquel se trouve le
+service ou l'établissement qui est appelé à utiliser l'immeuble : 
+
+1° Lorsqu'elle intéresse une administration centrale ; 
+
+2° Lorsqu'il s'agit d'une opération de caractère confidentiel intéressant la défense nationale.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-1491 du 3 décembre 2009 - art. 26 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2313-3 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
+###### Article R128-15
+
+La convention précise le service à l'usage duquel l'immeuble est destiné, l'utilisation qui en sera faite, les obligations
+des parties et les sanctions de leur non-respect. Elle prévoit notamment les conditions financières de la mise à disposition
+de l'immeuble, telles que fixées par le trésorier-payeur général. Elle détermine les obligations incombant au service ou à
+l'établissement utilisateur, notamment en ce qui concerne l'entretien ou l'aménagement de l'immeuble et les travaux à
+réaliser. 
+
+La convention est conclue pour une durée maximale de neuf ans lorsqu'elle s'applique à un immeuble à usage de bureaux. Pour
+les immeubles qui sont affectés aux besoins du service public pénitentiaire, de la défense nationale et de la sécurité
+civile, la convention peut être conclue pour une durée supérieure à neuf ans. 
+
+Pour les autres immeubles, la durée est librement fixée par la convention.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2313-4 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
+###### Article R128-16
+
+La mise à disposition de l'immeuble prend fin à la date prévue par la convention. 
+
+Toutefois, il peut y être mis fin avant cette date par les autorités mentionnées à l'article R. 128-14 dans les cas prévus
+par la convention, notamment lorsque l'intérêt public l'exige. 
+
+Le renouvellement de la convention se fait dans les mêmes formes que sa conclusion. Elle ne peut être renouvelée par tacite
+reconduction.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R2313-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
+###### Article R128-17
+
+Les dispositions du présent chapitre ne sont pas applicables : 
+
+1° Aux immeubles que l'Etat gère pour le compte de tiers ou qui dépendent de patrimoines séquestrés ou en liquidation ; 
+
+2° Aux immeubles pris à bail par l'Etat, lorsqu'un représentant du ministère utilisateur comparaît à l'acte.
+
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-387 du 19 mai 1998 - art. 8 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R4121-2 (V)
+
+
 ## Livre III : Aliénation des biens domaniaux
 
 ### Titre II : Aliénation des biens du domaine privé
@@ -8825,49 +9073,60 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R129-5
 
-La cession d'un immeuble peut également être faite à l'amiable, sans appel à la concurrence :
+La cession d'un immeuble peut également être faite à l'amiable, sans appel à la concurrence : 
 
 1° Lorsque des dispositions législatives ou réglementaires spéciales impliquent la cession de l'immeuble au profit d'un
-acquéreur ou d'une catégorie d'acquéreurs déterminés.
+acquéreur ou d'une catégorie d'acquéreurs déterminés. 
 
 Dans ce cas, le prix est fixé par le directeur des services fiscaux et l'aliénation est consentie par le préfet, quelle que
-soit la valeur des immeubles cédés. A défaut d'accord amiable, le prix est fixé comme en matière d'expropriation pour cause
-d'utilité publique ;
+soit la valeur des immeubles cédés.A défaut d'accord amiable, le prix est fixé comme en matière d'expropriation pour cause
+d'utilité publique ; 
 
 2° Lorsque des dispositions législatives ou réglementaires spéciales permettent la cession de l'immeuble au profit d'un
-acquéreur ou d'une catégorie d'acquéreurs déterminés ;
+acquéreur ou d'une catégorie d'acquéreurs déterminés ; 
 
-3° Lorsque l'adjudication publique a été infructueuse ;
+3° Lorsque l'adjudication publique a été infructueuse ; 
 
 4° Lorsque l'immeuble est nécessaire à l'accomplissement d'une mission de service public ou à la réalisation d'une opération
-d'intérêt général par une personne exclue du bénéfice de l'affectation ou de la dotation domaniale ou par un établissement
-public national à caractère industriel et commercial ;
+d'intérêt général par une personne exclue du bénéfice d'une convention d'utilisation mentionnée à l'article R. 128-12 ou par
+un établissement public national à caractère industriel et commercial ; 
 
-5° Lorsque les conditions particulières d'utilisation de l'immeuble le justifient ;
+5° Lorsque les conditions particulières d'utilisation de l'immeuble le justifient ; 
 
-6° Lorsque l'immeuble est affecté, attribué ou confié en gestion à un établissement public à caractère industriel et
-commercial qui souhaite l'acquérir.
+6° Lorsque l'immeuble fait l'objet d'une convention d'utilisation mentionnée à l'article R. 128-12 ou est confié en gestion à
+un établissement public à caractère industriel et commercial qui souhaite l'acquérir. 
 
 Dans les cas prévus aux 2°, 3°, 4°, 5° et 6°, la cession est consentie selon les modalités prévues à l'article R. 129-4.
 
+**Nota:**
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Créé par**:
-
-	  - Décret n°2004-1175 du 4 novembre 2004 - art. 1 () JORF 6 novembre 2004
 
 	**Cité par**:
 
 	  - Décret n°2005-1538 du 8 décembre 2005 - art. 3 (V)
 	  - Code du domaine de l'Etat - art. R129 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°2008-1248 du 1er décembre 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R129-4 (V)
+	  - Code du domaine de l'Etat - art. R128-12
+	  - Code du domaine de l'Etat - art. R129-4
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R3211-7 (M)
 
 
 ###### Article R130
