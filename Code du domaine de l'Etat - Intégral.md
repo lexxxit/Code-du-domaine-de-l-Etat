@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2009-05-22
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -5487,22 +5487,26 @@ renouvelés dans les campagnes un an et dans les villes six mois avant leur expi
 **Nota:**
 
 Les articles 790 à 870 de l'ancien code rural ont été abrogés par l'article 3 du décret n° 83-212 du 16 mars 1983 et codifiés
-au livre II du nouveau code rural.
+au livre II du code rural et de la pêche maritime.
+
+Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
+vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
+matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L47
 
 	**Cite**:
 
 	  - Code rural 790 à 870
-	  - Décret n°53-960 1953-09-30
+	  - Décret n°53-960 du 30 septembre 1953
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
 ##### Paragraphe 2 : Locations soumises à des règles particulières.
@@ -13779,20 +13783,27 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 
 ###### Article R170-45
 
-Les baux agricoles mentionnés au 3° de l'article R. 170-31 sont régis par les dispositions du code rural.
+Les baux agricoles mentionnés au 3° de l'article R. 170-31 sont régis par les dispositions du code rural et de la pêche
+maritime.
 
 Toutefois, les formalités prévues par les articles R. 170-35 et R. 170-37 pour les demandes de concession sont applicables à
 la passation des baux.
 
+**Nota:**
+
+Conformément à l'article 9 du décret n° 2014-930 du 19 août 2014, les dispositions abrogées en vertu de l'article 3 restent
+en vigueur en tant qu'elles s'appliquent à Saint-Barthélemy et à Saint-Martin, sous réserve des compétences en matière
+domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
 
 	**Modifié par**:
 
-	  - Décret n°96-955 du 31 octobre 1996 - art. 1 () JORF 3 novembre 1996
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-930 du 19 août 2014 - art. 3
 
 	**Cité par**:
 
@@ -13800,8 +13811,12 @@ la passation des baux.
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R170-35 (M)
-	  - Code du domaine de l'Etat - art. R170-37 (M)
+	  - Code du domaine de l'Etat - art. R170-35 (Ab)
+	  - Code du domaine de l'Etat - art. R170-37
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publ... - art. R5141-19 (V)
 
 
 ###### Article R170-46
