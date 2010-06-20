@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -780,20 +780,36 @@ règlementaires correspondantes du code général de la propriété des personne
 
 ###### Article L67
 
-Doivent être remis au service des domaines, aux fins d'aliénation, spontanément ou sur sa demande, tous les objets mobiliers
-ou matériels quelconques détenus par un service de l'Etat, dès que ce service n'en a plus l'emploi ou en a décidé la vente
-pour quelque motif que ce soit.
+I-Doivent être remis au service des domaines, aux fins d'aliénation, spontanément ou sur sa demande, tous les objets
+mobiliers ou matériels quelconques détenus par un service de l'Etat, dès que ce service n'en a plus l'emploi ou en a décidé
+la vente pour quelque motif que ce soit. 
 
-Les marchés dits de conversion ou de transformation sont interdits.
+Les marchés dits de conversion ou de transformation sont interdits. 
 
-Ne sont pas compris dans cette prohibition :
+Ne sont pas compris dans cette prohibition : 
 
-a) Les marchés ayant pour but le façonnage de matières neuves non précédemment employées ;
+a) Les marchés ayant pour but le façonnage de matières neuves non précédemment employées ; 
 
-b) Ceux qui tendent à la réparation ou à une meilleure utilisation, sous la même forme, des objets en service.
+b) Ceux qui tendent à la réparation ou à une meilleure utilisation, sous la même forme, des objets en service. 
 
 Tout service affectataire d'un immeuble ne peut conserver pour son usage les produits excrus sur cet immeuble qu'en versant
-au service des domaines, au titre du budget général, la valeur de ces produits.
+au service des domaines, au titre du budget général, la valeur de ces produits. 
+
+II.-L'obligation, prévue au premier alinéa du I, de remise préalable à l'administration des domaines aux fins d'aliénation
+des biens mobiliers dont le ministère de la défense n'a plus l'emploi ou dont il a décidé la vente ne s'applique pas : 
+
+1° Aux matériels de guerre et assimilés, destinés à être vendus à l'exportation, mentionnés au 1° de l'article L. 2335-3 du
+code de la défense et à ceux qui leur sont indissociablement liés pour leur mise en œuvre ; 
+
+2° Aux matériels de guerre, armes, éléments d'armes, munitions, éléments de munitions mentionnés à l'article L. 2331-1 du
+code de la défense dont les spécificités justifient que la cession soit à la charge du ministère de la défense et qui sont
+inscrits sur une liste arrêtée conjointement par le ministre de la défense et le ministre chargé du domaine ; 
+
+3° Aux biens et matériaux issus des opérations de démantèlement réalisées par le ministère de la défense et portant sur les
+biens mentionnés au 2°. 
+
+Par dérogation aux dispositions de l'article L. 69, le ministre de la défense fixe les modalités de cession de ces matériels
+et désigne les services chargés de les réaliser.
 
 **Nota:**
 
@@ -810,21 +826,20 @@ correspondantes du code général de la propriété des personnes publiques.
 	  - Arrêté du 21 juillet 2011 - art. 1 (V)
 	  - Code du domaine de l'Etat - art. R158 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006
+	  - Décret n°2010-675 du 18 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. L69
+	  - Code de la défense. - art. L2331-1
+	  - Code de la défense. - art. L2335-3
 
 	**Nouveaux textes**:
 
-	  - Code général de la propriété des personnes publiqu - art. L3211-18 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-298 1962-03-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Fin de vigueur : date indéterminée
+	  - Code général de la propriété des personnes publ... - art. R3211-35 (V)
+	  - Code général de la propriété des personnes publ... - art. R3211-36 (V)
 
 
 ###### Article L68
