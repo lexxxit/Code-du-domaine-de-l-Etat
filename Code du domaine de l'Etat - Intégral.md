@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2011-11-24
+Version Consolidée au 2011-11-25
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -2587,40 +2587,6 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	**Anciens textes**:
 
 	  - Décret n°1937-06-18 art. 6
-
-
-### Titre III : Inventaire des biens.
-
-###### Article R52
-
-Il est établi et tenu à jour un état des immeubles appartenant à l'Etat ou aux établissements publics nationaux à caractère
-administratif et des immeubles dont l'Etat ou les établissements publics nationaux à caractère administratif ont la
-jouissance ou qu'ils détiennent à un titre quelconque sans en avoir la propriété. Cet état constitue un inventaire physique.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°83-816 du 13 septembre 1983 - art. 23 (VT)
-
-	**Modifié par**:
-
-	  - Décret n°2009-563 du 19 mai 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R2312-5 (V)
-	  - Code général de la propriété des personnes publ... - art. R4121-4 (V)
 
 
 ## Livre II : Administration des biens domaniaux
@@ -8747,99 +8713,6 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
 
 
-##### Paragraphe 13 : Immeubles domaniaux reconnus inutiles par le ministre de la défense.
-
-###### Article R148-3
-
-Jusqu'au 31 décembre 2014, l'aliénation des immeubles domaniaux reconnus inutiles par le ministre de la défense avant le 31
-décembre 2008 a lieu avec publicité et mise en concurrence soit par adjudication publique, soit à l'amiable. L'aliénation des
-immeubles domaniaux reconnus inutiles par le ministre de la défense après le 31 décembre 2008 compris dans un site ayant fait
-l'objet d'une décision de restructuration prise par le ministre de la défense a lieu dans les mêmes conditions jusqu'au 31
-décembre 2014. La cession amiable est précédée d'une publicité adaptée à la nature et à l'importance de l'immeuble dont la
-cession est envisagée, permettant une mise en concurrence, dans les conditions mentionnées aux articles R. 129-2 et R.
-129-3. 
-
-Toutefois, la cession peut être consentie à l'amiable, sans appel à la concurrence, dans les cas suivants : 
-
-1° Lorsque la valeur vénale de l'immeuble n'excède pas 150 000 euros ; 
-
-2° Lorsqu'une précédente adjudication a été infructueuse ; 
-
-3° Lorsque la commune sur le territoire de laquelle est situé l'immeuble, le département ou la région de la situation du bien
-ou un établissement public de coopération intercommunale agissant dans le cadre de ses compétences, s'engage à acquérir
-l'immeuble et à en payer le prix dans un délai fixé en accord avec le ministre de la défense ; 
-
-4° Lorsque l'occupant de l'immeuble, exerçant une activité en rapport avec les besoins de la défense nationale, s'engage à
-l'acquérir et à en payer le prix, dans un délai fixé en accord avec le ministre de la défense ; 
-
-Le préfet du département de la situation de l'immeuble autorise la vente par adjudication publique ou consent à la cession
-amiable, sur proposition du directeur des services fiscaux qui fixe, selon le cas, la mise à prix ou le prix.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-255 du 4 mars 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-	**Cité par**:
-
-	  - Décret du 23 juillet 2015 (V)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R129-2
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R3211-26 (M)
-
-
-###### Article R148-4
-
-Les dispositions des articles R. 129, R. 129-4 et R. 138 ne sont pas applicables aux aliénations des immeubles domaniaux
-visés à l'article précédent.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-299 1962-03-14
-
-	**Modifié par**:
-
-	  - Décret n°2004-1175 du 4 novembre 2004 - art. 6 () JORF 6 novembre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. R129
-	  - Code du domaine de l'Etat - art. R129-4
-	  - Code du domaine de l'Etat - art. R138
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R3211-27 (V)
-
-
 ##### Paragraphe 14 : Cessions d'immeubles domaniaux en vue de la réalisation de programmes de logement social.
 
 ###### Article R148-5
@@ -14850,30 +14723,6 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ### Titre II : Domaine privé
 
 #### Chapitre Ier : Domaine immobilier
-
-##### Section 1 : Locations
-
-##### Paragraphe 3 : Affermage amiable aux sociétés de chasse de certains lots de chasse dans les forêts domaniales.
-
-###### Article D11
-
-L'affermage des lots attribués aux sociétés de chasse fait l'objet d'un acte administratif passé par le préfet et, le cas
-échéant, par le chef de service intéressé lorsque la compétence de celui-ci excède l'étendue du département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-	**Abrogé par**:
-
-	  - Décret n°68-119 1968-02-08 art. 12 JORF 9 février 1968
-
-	**Créé par**:
-
-	  - Décret n°70-1161 1970-11-12 art. 1 JORF 15 décembre 1970
-
 
 ##### Section 6 : Concessions de logements dans les immeubles domaniaux ou détenus en jouissance par l'Etat.
 
