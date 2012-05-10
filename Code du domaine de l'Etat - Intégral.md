@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-05-11
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -15162,40 +15162,6 @@ domaniale de ces collectivités à la date d'entrée en vigueur du présent déc
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. D33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-#### Chapitre V : Concessions de logements dans les départements d'outre-mer.
-
-###### Article D35
-
-Conformément à l'article R. 104, les dispositions des articles R. 92 à R. 102 sont étendues aux occupations de logements par
-les personnels civils et par les personnels militaires des armées de terre, de mer et de l'air, dans les immeubles
-appartenant à l'Etat ou détenus par lui à un titre quelconque dans les départements de la Guadeloupe, de la Guyane française,
-de la Martinique et de la Réunion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-240 1951-02-28 art. 1
-	  - Décret n°52-1148 1952-10-13 art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2012-752 du 9 mai 2012 - art. 12
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat
-	  - Code du domaine de l'Etat - art. R104
-
-	**Cité par**:
-
-	  - Code du domaine de l'Etat - art. A120-1 (V)
 
 	**Codifié par**:
 
