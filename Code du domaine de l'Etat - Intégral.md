@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2012-05-11
+Version Consolidée au 2012-06-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -3937,36 +3937,23 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R58-5
 
-La notice ou l'étude d'impact exigée par le décret n° 77-1141 du 12 octobre 1977 et par les décrets n° 80-204 du 11 mars 1980
-et n° 80-470 du 18 juin 1980 doivent être jointes à la demande d'autorisation domaniale.
-
-**Nota:**
-
-Le décret n° 80-204 du 11 mars 1980 a été abrogé par l'article 38 du décret n° 95-427 du 19 avril 1995.
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+L'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en application des
+articles R. 122-2 et R. 122-3 du même code, est jointe à la demande d'autorisation domaniale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
+
+	**Modifié par**:
+
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 4
 
 	**Cite**:
 
-	  - Décret n°77-1141 du 12 octobre 1977
-	  - Décret n°80-204 du 11 mars 1980
-	  - Décret n°80-470 du 18 juin 1980
-
-	**Créé par**:
-
-	  - Décret n°84-285 1984-04-13 art. 2 JORF 18 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 
 ###### Article R58-6
@@ -8381,33 +8368,34 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article R145-1
 
 La demande de concession est adressée au chef du service chargé de la gestion du domaine concerné avec un dossier établi aux
-frais du demandeur et comprenant :
+frais du demandeur et comprenant : 
 
 1° La description des terrains qui font l'objet de la demande et des travaux envisagés, les plans vérifiés et approuvés par
-le service maritime ou le service chargé de la gestion du cours d'eau domanial concerné ;
+le service maritime ou le service chargé de la gestion du cours d'eau domanial concerné ; 
 
-2° Le cas échéant, l'étude d'impact ou la notice prévues par le décret n° 77-1141 du 12 octobre 1977.
+2° Le cas échéant, l'étude d'impact définie à l'article R. 122-5 du code de l'environnement, lorsque celle-ci est requise en
+application des articles R. 122-2 et R. 122-3 du même code. 
 
-La demande est, dans tous les cas, soumise pour avis au directeur des services fiscaux.
+La demande est, dans tous les cas, soumise pour avis au directeur des services fiscaux. 
 
 Lorsque la demande porte sur le domaine maritime, elle est soumise à l'avis du préfet maritime, du directeur des affaires
 maritimes et de la commission départementale des rivages de la mer ; ces avis sont réputés favorables à défaut de réponse
-dans le délai de deux mois.
+dans le délai de deux mois. 
 
-En outre :
+En outre : 
 
 1° Les demandes de concessions d'endigage font l'objet des notifications prévues à l'article 4, premier alinéa, du décret n°
-66-413 du 17 juin 1966 ;
+66-413 du 17 juin 1966 ; 
 
 2° Les concessions de lais et relais de la mer sont soumises à la procédure d'instruction mixte dans les conditions prévues
-par la loi n° 52-1265 du 29 novembre 1952 et par les textes relatifs à son application.
+par la loi n° 52-1265 du 29 novembre 1952 et par les textes relatifs à son application. 
 
 Lorsque la demande porte sur le domaine fluvial, l'avis du général commandant la région militaire est demandé, l'absence de
-réponse dans un délai de deux mois valant avis favorable.
+réponse dans un délai de deux mois valant avis favorable. 
 
 Dans les départements d'outre-mer, en ce qui concerne tant le domaine fluvial que le domaine maritime, les avis du préfet
 maritime et du général commandant la région militaire sont donnés par les officiers généraux commandants supérieurs des
-forces armées.
+forces armées. 
 
 Les autorités militaires visées aux alinéas précédents sont autorisées à déléguer leur signature à l'un de leurs adjoints.
 
@@ -8415,35 +8403,22 @@ Les autorités militaires visées aux alinéas précédents sont autorisées à 
 
 La loi 52-1265 du 29 novembre 1952 a été abrogée par la loi 2002-276 du 27 février 2002.
 
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°52-1265 du 29 novembre 1952
 	  - Décret n°66-413 du 17 juin 1966 - art. 4
-	  - Décret n°77-1141 du 12 octobre 1977
+	  - Code de l'environnement - art. R122-2
+	  - Code de l'environnement - art. R122-5
 
 	**Codifié par**:
 
-	  - Décret n°62-299 1962-03-14
+	  - Décret n°62-299 du 14 mars 1962
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-285 1984-04-13 art. 6 JORF 18 avril 1984
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R3211-20 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-21 (V)
-	  - Code général de la propriété des personnes publ... - art. R3211-34 (M)
+	  - Décret n°2011-2019 du 29 décembre 2011 - art. 4
 
 
 ###### Article R145-2
