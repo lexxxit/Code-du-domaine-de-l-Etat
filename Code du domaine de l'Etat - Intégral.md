@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2013-01-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -290,22 +290,12 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 ###### Article R7
 
 Dans les cas visés à l'article précédent, l'avis du service des domaines doit être formulé dans le délai d'un mois à compter
-de la date de la réception de la demande d'avis ; passé ce délai, il peut être procédé à la réalisation de l'opération.
+de la date de la réception de la demande d'avis ; passé ce délai, il peut être procédé à la réalisation de l'opération. 
 
 Cet avis doit être communiqué, avant toute décision, par le service ou l'établissement public national qui poursuit
-l'opération, au membre du corps du contrôle général économique et financier.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
+l'opération, au        contrôleur budgétaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du domaine de l'Etat (ancien) L12
 
 	**Codifié par**:
 
@@ -317,11 +307,7 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R8
@@ -3355,13 +3341,13 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 ###### Article R57-9
 
-I. - Les ouvrages, constructions et installations de caractère immobilier prévus par un titre d'occupation du domaine public
+I.-Les ouvrages, constructions et installations de caractère immobilier prévus par un titre d'occupation du domaine public
 constitutif de droit réel ne peuvent être financés par crédit-bail que si le premier alinéa de l'article L. 34-7 ne l'exclut
-pas et sans préjudice de l'application des dispositions de l'article R. 57-7.
+pas et sans préjudice de l'application des dispositions de l'article R. 57-7. 
 
-II. - En outre, lorsque le titulaire ou demandeur du titre d'occupation du domaine public constitutif de droit réel est un
+II.-En outre, lorsque le titulaire ou demandeur du titre d'occupation du domaine public constitutif de droit réel est un
 organisme entrant dans le champ d'application du deuxième alinéa de l'article L. 34-7, la signature du contrat du crédit-bail
-est subordonnée à un agrément préalable selon les modalités ci-après :
+est subordonnée à un agrément préalable selon les modalités ci-après : 
 
 1° La demande d'agrément doit comporter les éléments suivants :
 
@@ -3380,23 +3366,17 @@ du droit réel attaché au titre d'occupation du domaine public ;
 
 - comptes prévisionnels du crédit-bailleur se rapportant à l'opération ;
 
-- avis du membre du corps du contrôle général économique et financier placé auprès de l'organisme demandeur.
+- avis du        contrôleur budgétaire placé auprès de l'organisme demandeur. 
 
 2° Sous réserve des dispositions du 3, le dossier mentionné au 1 est adressé pour agrément au ministre du budget par pli
-recommandé avec demande d'avis de réception postal.
+recommandé avec demande d'avis de réception postal. 
 
 3° Lorsque le montant global de l'investissement financé par crédit-bail est inférieur à 3 000 000 euros hors taxes, le
 dossier est adressé, dans les mêmes formes, au trésorier-payeur général du lieu de situation de l'investissement projeté qui
-est compétent pour délivrer l'agrément.
+est compétent pour délivrer l'agrément. 
 
 4° A défaut de notification d'une décision contraire, l'agrément est réputé accordé à l'expiration d'un délai de quatre mois.
 Ce délai est réduit à deux mois dans le cas visé au 3.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011 articles 3 et 19 : Les dispositions abrogées du code du domaine de l'Etat restent en
-vigueur en tant qu'elles s'appliquent aux COM, à Mayotte, aux TAAF et en Nouvelle-Calédonie, sous réserve des compétences en
-matière domaniale de ces collectivités à la date d'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
@@ -3406,20 +3386,12 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cite**:
 
 	  - Code du domaine de l'Etat - art. L34-7
 	  - Code du domaine de l'Etat - art. R57-7
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R2122-27 (V)
 
 
 ##### Sous-section 3 : Règles particulières applicables aux titres constitutifs de droit réel sur le domaine public de l'Etat compris dans les limites administratives des ports qui relèvent de la compétence des départements.
