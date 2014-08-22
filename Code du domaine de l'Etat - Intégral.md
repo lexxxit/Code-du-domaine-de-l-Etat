@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2014-08-23
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -14729,89 +14729,6 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 	  - Code général de la propriété des personnes publ... - art. R2124-77 (Ab)
 	  - Code général de la propriété des personnes publ... - art. R2222-19 (V)
-	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-###### Article D14
-
-Les personnels de tous grades de la gendarmerie nationale en activité de service et logés dans des casernements ou des locaux
-annexés aux casernements, tant en métropole que dans les territoires et départements situés en dehors du territoire de la
-France métropolitaine, bénéficient d'une concession de logement par nécessité absolue de service.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011, article 3 II : Le livre II de la partie réglementaire du code du domaine de l'Etat
-(troisième partie : Décrets) est abrogé à l'exception de l'article D. 14 en tant qu'il s'applique en dehors du territoire
-métropolitain.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-888 1951-07-09 art. 1
-
-	**Cité par**:
-
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 3 (V)
-	  - Décret n°2014-930 du 19 août 2014 - art. 10 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 83 (M)
-	  - Code du domaine de l'Etat - art. D15 (Ab)
-	  - Code général des impôts, CGI. - art. 82 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-	  - Décret n°2014-930 du 19 août 2014 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. D2124-75 (V)
-	  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
-	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°62-300 1962-03-14
-
-
-###### Article D15
-
-La gratuité du logement accordée en application de l'article D. 14 s'étend à la fourniture de l'eau, à l'exclusion de toutes
-autres fournitures.
-
-**Nota:**
-
-Décret n° 2011-1612 du 22 novembre 2011, article 3 II : Le livre II de la partie réglementaire du code du domaine de l'Etat
-(troisième partie : Décrets) est abrogé à l'exception de l'article D. 15 en tant qu'il s'applique en dehors du territoire
-métropolitain.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°51-888 1951-07-09 art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
-	  - Décret n°2014-930 du 19 août 2014 - art. 3
-
-	**Cité par**:
-
-	  - Décret n°2014-930 du 19 août 2014 - art. 10 (V)
-
-	**Cite**:
-
-	  - Code du domaine de l'Etat - art. D14 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. D2124-76 (T)
-	  - Code général de la propriété des personnes publ... - art. R2222-18 (V)
 	  - Code général de la propriété des personnes publ... - art. R4121-3 (V)
 
 	**Codifié par**:
