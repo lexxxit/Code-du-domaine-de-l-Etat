@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2014-08-23
+Version Consolidée au 2015-01-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -1008,7 +1008,7 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 Les opérations immobilières présentant un caractère secret poursuivies par voie d'expropriation pour cause d'utilité publique
 par les services publics relevant du ministre de la défense, ou placés sous sa tutelle, sont soumises pour avis à la
-commission instituée auprès du Premier ministre par l'article R. 11-17 du code de l'expropriation pour cause d'utilité
+commission instituée auprès du Premier ministre par l'article R. 122-5 du code de l'expropriation pour cause d'utilité
 publique.
 
 **Nota:**
@@ -1019,30 +1019,18 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°62-299 du 14 mars 1962
-
 	**Modifié par**:
 
-	  - Décret n°2005-467 du 13 mai 2005 - art. 59 () JORF 15 mai 2005 en vigueur le 1er août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 3 (V)
 
 	**Cité par**:
 
 	  - Code du domaine de l'Etat - art. R127 (Ab)
 	  - Code du domaine de l'Etat - art. R21-3 (Ab)
 
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R1211-8 (V)
-
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-17
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-5 (V)
 
 
 ###### Article R21-2
@@ -14267,7 +14255,7 @@ placés sous son autorité pour agir devant les juridictions de l'expropriation 
 
 Ils agissent également au nom des établissements ou sociétés mentionnés à l'article R. 177, si ceux-ci l'ont demandé.
 
-Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article R. 13-7 du code de
+Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article R. 212-1 du code de
 l'expropriation pour cause d'utilité publique.
 
 **Nota:**
@@ -14278,32 +14266,19 @@ matière domaniale de ces collectivités à la date d'entrée en vigueur du pré
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°62-299 du 14 mars 1962
-
-	**Modifié par**:
-
-	  - Décret n°2000-1210 du 6 décembre 2000 - art. 1 (V) JORF 14 décembre 2000
-
 	**Cité par**:
 
 	  - Décret n°2000-1210 du 6 décembre 2000 - art. 1 (V)
 	  - Code du domaine de l'Etat - art. R178 (Ab)
 	  - Code du domaine de l'Etat - art. R184 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1612 du 22 novembre 2011 - art. 3
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 3 (V)
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R177
-	  - Code de l'expropriation pour cause d'utilité publique - art. **R13-7
-
-	**Nouveaux textes**:
-
-	  - Code général de la propriété des personnes publ... - art. R1212-12 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R212-1 (V)
 
 
 ###### Article R180
