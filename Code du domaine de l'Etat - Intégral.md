@@ -1,5 +1,5 @@
 # Code du domaine de l'Etat  
-Version Consolidée au 2015-12-07
+Version Consolidée au 2016-01-01
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
